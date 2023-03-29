@@ -1,2 +1,2 @@
 # R_Projects
- R samples, research dev and test
+ R samples, research development and test
