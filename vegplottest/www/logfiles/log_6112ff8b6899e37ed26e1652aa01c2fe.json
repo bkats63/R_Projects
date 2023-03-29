@@ -1,3 +1,0 @@
-{"timestamp": "2021-05-12T10:35:47+1000", "log_lvl": "INFO", "log_msg": "session started", "log_detail": "session has started", "event": "session start", "sessionid": "6112ff8b6899e37ed26e1652aa01c2fe"}
-{"timestamp": "2021-05-12T10:35:51+1000", "log_lvl": "INFO", "log_msg": "2021-05-12 10:35:51 __COMMA__ Error: Species cells  1__COMMA__ 2__COMMA__ 3__COMMA__ 4__COMMA__ 5__COMMA__ 6__COMMA__ 7__COMMA__ 8__COMMA__ 9__COMMA__ 10__COMMA__ 11__COMMA__ 12__COMMA__ 13__COMMA__ 14__COMMA__ 15__COMMA__ 16__COMMA__ 17__COMMA__ 18__COMMA__ 19__COMMA__ 20  have non-numeric data."}
-{"timestamp": "2021-05-12T10:36:40+1000", "log_lvl": "INFO", "log_msg": "session has ended", "log_detail": "session has ended", "sessionid": "6112ff8b6899e37ed26e1652aa01c2fe"}
