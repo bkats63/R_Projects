@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    {{ headContent() }}
+  </head>
+  <body>
+    <div>
+      {{ actionButton("action", "Action") }}
+      {{ sliderInput("x", "X", 1, 100, sliderValue) }}
+      {{htmlTemplate("component.html", name = "component1")}}
+    </div>
+  </body>
+</html>

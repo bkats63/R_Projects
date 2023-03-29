@@ -1,0 +1,69 @@
+[
+  {
+    "timestamp": "2021-03-22 17:27:06",
+    "log_lvl": "INFO",
+    "log_msg": "Initial log",
+    "log_detail": ""
+  },
+  {
+    "timestamp": "2021-03-22 17:27:06",
+    "log_lvl": "INFO",
+    "log_msg": "session started",
+    "log_detail": "session has started",
+    "event": "session start",
+    "sessionid": "a7381288d017add45584ae9c1669cd5d"
+  },
+  {
+    "timestamp": "2021-03-22 17:27:09",
+    "log_lvl": "INFO",
+    "log_msg": "uploadresults",
+    "log_detail": "Number of plots (rows):5, Number of species (columns):99, Number of plots (rows) with environmental data detected:5\n                   , Number of plots (rows) with spatial data detected:5",
+    "event": "upload",
+    "sessionid": "a7381288d017add45584ae9c1669cd5d",
+    "Numplots": 5,
+    "Numspecies": 99,
+    "NumplotsWithEnvData": 5,
+    "NumplotsWithSpatialData": 5,
+    "custom_log_lvl": false
+  },
+  {
+    "timestamp": "2021-03-22 17:27:09",
+    "log_lvl": "INFO",
+    "log_msg": "uploadresults",
+    "log_detail": "Species names not found in eastern NSW PCT standardised taxonomy:There are no missing species: all species could be found., Sites outside eastern NSW study region:0",
+    "event": "upload",
+    "sessionid": "a7381288d017add45584ae9c1669cd5d",
+    "MissingSpeciesList": "There are no missing species: all species could be found.",
+    "NumplotsOutsideStudy": "0"
+  },
+  {
+    "timestamp": "2021-03-22 17:27:19",
+    "log_lvl": "INFO",
+    "log_msg": "uploadresults",
+    "log_detail": "Number of plots (rows):1, Number of species (columns):23, Number of plots (rows) with environmental data detected:1\n                   , Number of plots (rows) with spatial data detected:1",
+    "event": "upload",
+    "sessionid": "a7381288d017add45584ae9c1669cd5d",
+    "Numplots": 1,
+    "Numspecies": 23,
+    "NumplotsWithEnvData": 1,
+    "NumplotsWithSpatialData": 1,
+    "custom_log_lvl": false
+  },
+  {
+    "timestamp": "2021-03-22 17:27:20",
+    "log_lvl": "INFO",
+    "log_msg": "uploadresults",
+    "log_detail": "Species names not found in eastern NSW PCT standardised taxonomy:There are 23 species, <b><mark> and 1 could not be found: Dyspcari, so were ignored in analysis.<\/mark><\/b>, Sites outside eastern NSW study region:0",
+    "event": "upload",
+    "sessionid": "a7381288d017add45584ae9c1669cd5d",
+    "MissingSpeciesList": "There are 23 species, <b><mark> and 1 could not be found: Dyspcari, so were ignored in analysis.<\/mark><\/b>",
+    "NumplotsOutsideStudy": "0"
+  },
+  {
+    "timestamp": "2021-03-22 17:27:25",
+    "log_lvl": "INFO",
+    "log_msg": "session has ended",
+    "log_detail": "session has ended",
+    "sessionid": "a7381288d017add45584ae9c1669cd5d"
+  }
+]

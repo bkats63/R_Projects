@@ -1,0 +1,3300 @@
+$R9_1
+ [1] "Poalabil" "Lomalong" "Desmvari" "Hibbscan" "Glycclan" "Pterescu" "Diancaer" "Rubuparv" "Dichrepe" "Eucasali" "Impecyli" "Pratpurp"
+
+$R9_10
+ [1] "Eustlati" "Lomalong" "Glycclan" "Hibbaspe" "Poa.meio" "Pratpurp" "Micrstip" "Dichrepe" "Entostri" "Noteveno" "Acacmear" "Billscan"
+[13] "Desmvari" "Opliimbe"
+
+$R9_100
+[1] "Poalabil" "Desmvari" "Micrstip" "Dichrepe" "Gerasola" "Clemglyc" "Verocaly" "Austrace" "Pratpurp"
+
+$R9_100a
+ [1] "Acacimpl" "Acacirro" "Alchilic" "Allotoru" "Amyemiqu" "Angosubv" "Careappr" "Cayrclem" "Cupaparv" "Dichrepe" "Echiovat" "Eucamell"
+[13] "Eucamolu" "Eucatere" "Euchspha" "Eustlati" "Galicili" "Gerapote" "Gerasola" "Hardviol" "Impecyli" "Lomalong" "Micrstip" "Notelong"
+[25] "Nyssdiff" "Opliaemu" "Oxalchno" "Parsstra" "Pimelini" "Poalabil" "Pratpurp" "Rubuparv" "Senepinf" "Smilaust" "Solahapa" "Sorgleio"
+[37] "Urtiinci"
+
+$R9_101
+ [1] "Diancaer" "Dichrepe" "Pratpurp" "Opliimbe" "Lomalong" "Micrstip" "Polycaly" "Melalina" "Parsstra" "Entostri" "Entomarg" "Impecyli"
+[13] "Melanodo"
+
+$R9_101a
+ [1] "Acacflor" "Acacirro" "Adiaaeth" "Angosubv" "Brueaust" "Carelong" "Clemaris" "Denhsilv" "Dichrepe" "Digiparv" "Echiovat" "Entomarg"
+[13] "Eucaampl" "Eucaprop" "Eustlati" "Gahnaspe" "Glyctaba" "Hybastel" "Hydrlaxi" "Impecyli" "Lomalong" "Melaalte" "Micrstip" "Opliaemu"
+[25] "Panisimi" "Parsstra" "Pratpurp" "Pseuvari" "Rubuparv" "Sannplur" "Violhede"
+
+$R9_102
+[1] "Dichrepe" "Pterescu" "Opliaemu" "Adiaaeth" "Geitcymo" "Rubuparv" "Glycclan" "stepjapd" "Lomalong"
+
+$R9_103
+[1] "Melaquin" "Glocferd" "Blecindi" "Gahnclar" "Diancaer" "Eucarobu" "Parsstra"
+
+$R9_104a
+ [1] "Acacmela" "Allotoru" "Alphexce" "Breyoblo" "Capparbo" "Cordpeti" "Coryinte" "Diancaer" "Doodaspe" "Elaeobov" "Eucamico" "Eustlati"
+[13] "Geitcymo" "Gerasola" "Glocferd" "Guiosemg" "Hibbdent" "Impecyli" "Jagepsps" "Lomalong" "Lophsuav" "Myrsvari" "Opliaemu" "Pandpanp"
+[25] "Pimelati" "Rhodrube" "Smilglyc" "Themtria" "Violhede" "Ziersmit"
+
+$R9_105
+ [1] "Corymacu" "Leuclanc" "Persline" "Elaereti" "Cisshypo" "Diancaer" "Entostri" "Lomalong" "Macrcomm" "Scheundu" "Eucapilu" "Pterescu"
+[13] "Lepiurop" "Eustlati" "Hibbaspe"
+
+$R9_106
+ [1] "Angoflor" "Bursspin" "Dichrepe" "Tremtoma" "Adiaaeth" "Clemglyc" "Galileio" "Lomalong" "Micrstip" "Violhede" "Echiovat" "Stelpung"
+
+$R9_107
+ [1] "Micrstip" "Dichrepe" "Angoflor" "Pratpurp" "Acacfili" "Echiovat" "Cheisies" "Veropleb" "Oxalpere" "Glycclan" "Pterescu"
+
+$R9_107a
+ [1] "Acacimpl" "Angoflor" "Austlati" "Clertome" "Commcyan" "Cynoaust" "Cypegrac" "Diantasm" "Dichrepe" "Echiovat" "Einahast" "Eucatere"
+[13] "Exocstri" "Gahnaspe" "Galileio" "Gerahome" "Glyctaba" "Hydrlaxi" "Micrstip" "Opliimbe" "Oxalpere" "Pellfalc" "Plecparv" "Pratpurp"
+[25] "Sigeorio" "Solabrow" "Solaprin" "Stelflac" "Urtiinci"
+
+$R9_107b
+ [1] "Acacfili" "Acacimpl" "Aspeconf" "Austrudi" "Bursspin" "Careinve" "Commcyan" "Cypespha" "Dichrara" "Dichrepe" "Echicaes" "Echiovat"
+[13] "Elymscab" "Fimbdich" "Gerasola" "Glycclan" "Glyctaba" "Halohete" "Hydrlaxi" "Lespjuns" "Micrstip" "Oxalpere" "Poalabil" "Pratpurp"
+[25] "Pterescu" "Rumebrow" "Sigeorio" "Solapung" "Sorgleio" "Themtria" "Urtiinci"
+
+$R9_108
+ [1] "Impecyli" "Lomalong" "Pterescu" "Bankinte" "Glycclan" "Diancaer" "Breyoblo" "Eustlati" "Hibbscan" "Opliimbe" "Eucabotr" "Pittrevo"
+[13] "Desmvari" "Kennrubi"
+
+$R9_11
+[1] "Casslong" "Eucamuel" "Acacfali" "Pterescu" "Pittundu" "Lomalong"
+
+$R9_110
+ [1] "Backmyrt" "Diancaer" "Syncglom" "Myrsvari" "Eustlati" "Smilaust" "Pandpanp" "Doodaspe" "Denhsilv" "Breyoblo" "Pittrevo" "Persline"
+[13] "Opliimbe"
+
+$R9_111
+ [1] "Pterescu" "Tylobarb" "Micrstip" "Violhede" "Indiaust" "Lomalong" "Dichrepe" "Diancaer" "Eucablax" "Echiovat" "Polysamb"
+
+$R9_112
+ [1] "Impecyli" "Pratpurp" "Diancaer" "Allotoru" "Corymacu" "Desmrhyt" "Entostri" "Themtria" "Hardviol" "Lomalong" "Persline" "Breyoblo"
+[13] "Glycclan"
+
+$R9_113
+[1] "Pterescu" "Diancaer" "Impecyli" "Calodubi" "Breyoblo" "Micrstip" "Opliaemu" "Pratpurp"
+
+$R9_114
+ [1] "Lomalong" "Pratpurp" "Micrstip" "Acacparr" "Pterescu" "Entomarg" "Billscan" "Impecyli" "Leptpoly" "Adiaaeth" "Diancaer" "Hydrsibt"
+[13] "Schomela" "Persline" "Bursspin"
+
+$R9_115
+[1] "Allotoru" "Themtria" "Diancaer" "Impecyli" "Lomalong" "Eucaprop" "Eucasidp" "Eucacarn"
+
+$R9_116
+ [1] "Impecyli" "Ottograc" "Smilaust" "Diancaer" "Eucapilu" "Lophconf" "Geitcymo" "Eucasidp" "Eustlati" "Alphexce" "Troclaur"
+
+$R9_117
+ [1] "Backmyrt" "Opliimbe" "Pseuvari" "Doodaspe" "Alyxrusc" "Pellfalc" "Adiaaeth" "Diancaer" "Geitcymo" "Plecparv" "Morijasm" "Pandpanp"
+[13] "Diostran" "Adiahisp" "Cissanta" "Ficucoro" "Strebrun" "Alecsubc" "Pyrrrupe" "Smilaust" "Violhede" "Aneiacum"
+
+$R9_119
+ [1] "Billscan" "Eucasieb" "Hibbdent" "Acaclonf" "Eustlati" "Pterescu" "Synoglag" "Clemaris" "Ozotdios" "Scheundu" "Smilaust" "Tetrjune"
+[13] "Violhede"
+
+$R9_12
+ [1] "Glycclan" "Micrstip" "Dichrepe" "Desmvari" "Echiovat" "Acacmear" "Opliimbe" "Hydrlaxi" "Clemglyc" "Rubuparv" "Melident" "Pellfalc"
+[13] "Lomalong" "Pterescu" "Eustlati"
+
+$R9_120
+[1] "Glycclan" "Hibbscan" "Lomalong" "Pterescu" "Commcyan" "Breyoblo" "Impecyli" "Opliimbe" "Violhede"
+
+$R9_121
+ [1] "Allotoru" "Syncglom" "Eucapilu" "Diancaer" "Pterescu" "Cisshypo" "Impecyli" "Lomalong" "Breyoblo" "Calodubi" "Hibbscan" "Entostri"
+[13] "Polysamb" "Smilaust" "Eucamico" "Elaereti" "Pseuvari"
+
+$R9_122
+ [1] "Diancaer" "Impecyli" "Allotoru" "Desmvari" "Hibbscan" "Breyoblo" "Rubuparv" "Lomalong" "Eucamico" "Poa.sieb" "Glycclan" "Hardviol"
+[13] "Eustlati" "Pratpurp"
+
+$R9_124a
+ [1] "Adiahisp" "Alecsubc" "Allotoru" "Aneiacum" "Apharesi" "Careinve" "Cayrclem" "Centasia" "Claoaust" "Clemglyc" "Coroelat" "Desmvari"
+[13] "Diancaer" "Diostran" "Doodaspe" "Entostri" "Eucatere" "Eucaumbr" "Ficurubi" "Galibini" "Geitcymo" "Glycclan" "Impecyli" "Kennrubi"
+[25] "Lepilate" "Lepipero" "Lomalong" "Notelong" "Opliaemu" "Pandpanp" "Pellpara" "Plecgrav" "Poalabil" "Pseuvari" "Rorigiga" "Rubuparv"
+[37] "Senepinf" "Smilaust" "Solaprin" "stepjapd" "Themtria" "Tripcunn"
+
+$R9_125
+ [1] "Allotoru" "Diancaer" "Breyoblo" "Impecyli" "Desmvari" "Desmrhyt" "Opliimbe" "Glycclan" "Eustlati" "Verncine" "Lomalong"
+
+$R9_125a
+ [1] "Acacblak" "Adiahisp" "Alphexce" "Alyxrusc" "Breyoblo" "Cayrclem" "Cheidist" "Corymacu" "Cupaparv" "Cypegrac" "Desmrhyt" "Diancaer"
+[13] "Eucatere" "Ficurubi" "Geitcymo" "Hibisple" "Hybastel" "Jasmvolu" "Mallphil" "Myrsvari" "Operhisp" "Opliaemu" "Opliimbe" "Pandjasm"
+[25] "Pellfalc" "Platbifu" "Plecparv" "Pyrrconc" "Pyrrrupe" "Rytilong" "Smilaust" "Solahapa" "Tabepand" "Tetrnite" "Themtria" "Tracincs"
+[37] "Tremtoma" "Verncine" "Xantmala"
+
+$R9_126
+[1] "Casucunc" "Micrstip" "Urtiinci" "Opliaemu" "Rumebrow" "Melident"
+
+$R9_127
+ [1] "Breyoblo" "Cupaanac" "Bankinte" "Casuglau" "Pterescu" "Geitcymo" "Pittundu" "Glocferd" "Opliimbe" "Pittrevo" "Lomalong" "Notelong"
+
+$R9_128
+[1] "Casslong" "Lomamulm" "Glycclan" "Acacmear" "Rytilong"
+
+$R9_129
+ [1] "Lomalong" "Pterescu" "Hibbscan" "Hibbdent" "Cyataust" "Diancaer" "Eucacamn" "Poa.sieb" "Smilaust" "Cisshypo" "Drymmoor" "Persmedi"
+
+$R9_13
+[1] "Acacsilv" "Philtrac" "Pomabrog" "Melident"
+
+$R9_130
+ [1] "Pittundu" "Asplflab" "Pellfalc" "Pyrrrupe" "Diosaust" "Eucapunc" "Plecparv" "Geitcymo" "Lepilate" "Oleavisc" "Rytilong" "Stensali"
+[13] "Tylobarb"
+
+$R9_131
+ [1] "Diancaer" "Breyoblo" "Impecyli" "Smilaust" "Eucaprop" "Allotoru" "Lomalong" "Geitcymo" "Desmvari" "Syncglom" "Pratpurp" "Opliimbe"
+[13] "Notelong" "Pseuvari" "Eucamico" "Entostri" "Troclaur" "Pandpanp"
+
+$R9_132
+ [1] "Glocferd" "Lomalong" "Melaquin" "Entostri" "Lophsuav" "Ottograc" "Impecyli" "Dichrepe" "Parsstra" "Breyoblo" "Opliimbe"
+
+$R9_133
+ [1] "Pandpanp" "Diancaer" "Eustlati" "Impecyli" "Entostri" "Breyoblo" "Lomalong" "Geitcymo" "Notelong" "Pterescu" "Pratpurp" "Pseuvari"
+
+$R9_136
+ [1] "Pterescu" "Lomalong" "Tylobarb" "Diancaer" "Liviaust" "Entostri" "Hibbdent" "Hibbscan" "Eustlati" "Glycclan" "Billscan" "Acacbina"
+[13] "Impecyli"
+
+$R9_137
+ [1] "Lomalong" "Pterescu" "Diancaer" "Leuclanc" "Glycclan" "Poramicr" "Pratpurp" "Tylobarb" "Billscan" "Dichrepe" "Eucagloo" "Micrstip"
+
+$R9_138
+ [1] "Micrstip" "Pterescu" "Pratpurp" "Adiaaeth" "Dichrepe" "Rubuparv" "Acacparr" "Glycclan" "Entomarg" "Opliimbe" "Lomalong" "Hydrlaxi"
+[13] "Sigeorio" "Angoflor"
+
+$R9_139
+ [1] "Melalina" "Entomarg" "Gahnclar" "Lomalong" "Pratpurp" "Impecyli" "Diancaer" "Parsstra" "Gonotetr" "Eucarobu" "Opliimbe" "Hemaunci"
+[13] "Micrstip" "Centasia" "Hydrsibt"
+
+$R9_14
+ [1] "Acacflor" "Acacmear" "Beyelasi" "Callcitr" "Careappr" "Epilbill" "Eucaelat" "Eucamaid" "Euchjapo" "Gratperu" "Hedyangu" "Isolinun"
+[13] "Juncplan" "Leptemar" "Lobeance" "Lomalong" "Ozotdios" "Persdeci" "Ranulapp"
+
+$R9_140
+ [1] "Eucatere" "Dichrepe" "Micrstip" "Desmvari" "Carelong" "Geitcymo" "Eucaeuge" "Pandpanp" "Commcyan" "Opliimbe" "Glycclan"
+
+$R9_15
+[1] "Casucunc" "Micrstip" "Opliaemu" "Melident" "Acacflor" "Acacmear"
+
+$R9_16
+ [1] "Adiaaeth" "Tylobarb" "Pterescu" "Lomalong" "Dichrepe" "Opliimbe" "Pomaaspe" "Glycclan" "Stelflac" "Coprquad" "Rubuparv" "Eucacype"
+[13] "Violhede" "Desmvari"
+
+$R9_17
+ [1] "Leuclanc" "Syncglom" "Lomalong" "Bleccart" "Calodubi" "Elaereti" "Diancaer" "Hibbdent" "Lepilate" "Violhede" "Persline" "Notelong"
+
+$R9_18
+ [1] "Wateflor" "Lomahyst" "Carelong" "Breyoblo" "Pandpanp" "Backmyrt" "Geitcymo" "Ficucoro" "Trislaur" "Adiaaeth" "Morijasm" "Adiahisp"
+
+$R9_19
+ [1] "Backmyrt" "Pellfalc" "Opliimbe" "Adiaaeth" "Eustlati" "Asplflab" "Plecparv" "Notelong" "Breyoblo" "Doodaspe" "Myrsvari" "Stelflac"
+[13] "Micrstip"
+
+$R9_19a
+ [1] "Adiaaeth" "Alecsubc" "Asplaust" "Asplflab" "Backmyrt" "Careinve" "Carelong" "Cisshypo" "Clemglyc" "Commcyan" "Cypeener" "Dichrepe"
+[13] "Dictbrow" "Doodaspe" "Eucaquad" "Eucasali" "Eustlati" "Hydrlaxi" "Lomalong" "Melident" "Micrstip" "Myrshowi" "Noteveno" "Opliimbe"
+[25] "Pandpanp" "Parsstra" "Pellfalc" "Pittmult" "Plandebi" "Pratpurp" "Ptertrem" "Pyrrconc" "Pyrrrupe" "Ruburosi" "Sarcfalc" "Seneline"
+[37] "Smilaust" "Stelflac" "Urtiinci" "Violhede"
+
+$R9_1a
+ [1] "Allotoru" "Austlati" "Desmvari" "Diancaer" "Dichrepe" "Doodaspe" "Eucasali" "Hibbscan" "Impecyli" "Opliaemu" "Plecparv" "Poalabil"
+[13] "Pyrrrupe" "Sigeorio" "Violhede"
+
+$R9_2
+[1] "Poa.sieb" "Clemglyc" "Dichrepe" "Melident" "Desmvari" "Tylobarb" "Gerasola" "Pittundu" "Rubuparv"
+
+$R9_21
+[1] "Bankinte" "Breyoblo" "Lomalong" "Leptlaev" "Monoelli" "Pittundu"
+
+$R9_21a
+ [1] "Bankinte" "Breyoblo" "Coryinte" "Hibbscan" "Leptlaev" "Lomalong" "Monoelli" "Pterescu" "stepjapd" "Allolitt" "Cupaanac" "Hibbobtu"
+[13] "Impecyli" "Muelcela" "Ottograc" "Parsstra" "Persstra" "Pomaumbe"
+
+$R9_22
+ [1] "Glycclan" "Micrstip" "Dichrepe" "Carelong" "Pratpurp" "Desmvari" "Echiovat" "Commcyan" "Eucatere" "Eustlati" "Entomarg"
+
+$R9_22a
+ [1] "Acacflor" "Bracpopu" "Clemaris" "Commcyan" "Desmrhyt" "Diancaer" "Echiovat" "Eucatere" "Gerasola" "Glycclan" "Glyctaba" "Lepilate"
+[13] "Lomalong" "Micrstip" "Plandebi" "Plecparv" "Poa.affi" "Pratpurp" "Ranulapp" "Rubuparv" "Senehisp" "Solastel" "Violhede" "Wahlgrai"
+
+$R9_23a
+ [1] "Acmesmit" "Adiaaeth" "Cupaanac" "Diancaer" "Diostran" "Doodaspe" "Eucapani" "Eucaumbr" "Eustlati" "Gahnaspe" "Gahnmela" "Geitcymo"
+[13] "Howitril" "Hymeflav" "Lepielat" "Lepilate" "Marsrost" "Melaarma" "Myrsvari" "Opliimbe" "Pterescu" "Schomela" "Smilglyc" "Synoglag"
+[25] "Wilkhueg" "Ziersmit"
+
+$R9_24
+[1] "Breyoblo" "Lomalong" "Angoflor" "Diancaer" "Impecyli" "Eucatere" "Pterescu"
+
+$R9_26
+ [1] "Melaeric" "Opliimbe" "Carelong" "Melident" "Careappr" "Coprquad" "Micrstip" "Morijasm" "Senemini" "Pratpurp"
+
+$R9_27a
+ [1] "Acacleil" "Acaclons" "Ajugaust" "Alphexce" "Aneiacum" "Austdulc" "Bankinte" "Breyoblo" "Bursspin" "Cupaanac" "Entostri" "Eucacarn"
+[13] "Eucatere" "Eustlati" "Geitcymo" "glocsuma" "Hardviol" "Hibbscan" "Impecyli" "Kennrubi" "Lomafili" "Micrstip" "Morijasm" "Pittundu"
+[25] "Pratpurp" "Pterescu" "Rubuparv" "Sigeorio" "Smilaust" "Troclaur"
+
+$R9_28
+[1] "Lomalong" "Micrstip" "Commcyan" "Dichrepe" "Casucunc" "Cynodact" "Pratpurp"
+
+$R9_29
+[1] "Pterescu" "Eucacype" "Tylobarb" "Leuclanc" "Violhede" "Poa.meio" "Eucamuel" "Tetrjune" "Clemaris"
+
+$R9_3
+ [1] "Syncglom" "Smilaust" "Eucamico" "Eucaprop" "Breyoblo" "Allotoru" "Lomalong" "Cissanta" "Doodaspe" "Pseuvari" "Guiosemg" "Notelong"
+[13] "Diancaer" "Diostran"
+
+$R9_30
+ [1] "Geitcymo" "Tylobarb" "Eustlati" "Doodaspe" "Pellfalc" "Plecparv" "Pandpanp" "Smilaust" "Dichrepe" "Desmvari" "Stelflac" "Breyoblo"
+[13] "Opliimbe" "Sigeorio" "Lomalong" "Synoglag"
+
+$R9_30a
+ [1] "Acacelat" "Acacimpl" "Adiaaeth" "Adiaform" "Astrlati" "Austlati" "Bursspin" "Cisshypo" "Claoaust" "Clemglyc" "Clertome" "Desmvari"
+[13] "Diancaer" "Doodaspe" "Eupolaur" "Eustlati" "Geitcymo" "Glycclan" "Guiosemg" "Gymnance" "Hibbdent" "Hydrlaxi" "Lasiferr" "Lepilate"
+[25] "Liviaust" "Melident" "Micrstip" "Opliimbe" "Oxalpere" "Passcinn" "Pellfalc" "Pittmult" "Pratpurp" "Pterescu" "Rhodrube" "Ruburosi"
+[37] "Sigeorio" "Smilaust" "Stelflac" "Stensali" "stepjapd" "Syncglom" "Teuccory" "Tylobarb"
+
+$R9_32
+ [1] "Violhede" "Diancaer" "Pterescu" "Hibbscan" "Lomalong" "Doodaspe" "Ruburosi" "Synoglag" "Glycclan" "Geitcymo" "Opliimbe" "Eucalaev"
+[13] "Eucasali" "Desmvari" "Dichrepe" "Seneamyg" "Pellfalc" "Eustlati" "Cissanta"
+
+$R9_33
+ [1] "Breyoblo" "Cissanta" "Impecyli" "Acacirro" "Diancaer" "Cisshypo" "Desmvari" "Smilaust" "Eucaacme" "Psycloni" "Lomalong" "Pellfalc"
+[13] "Geitcymo" "Plecparv"
+
+$R9_34
+ [1] "Diancaer" "Eustlati" "Entostri" "Syncglom" "Eucapani" "Persline" "Elaereti" "Micrstip" "Tylobarb" "Pandpanp" "Lomalong" "Geitcymo"
+[13] "Breyoblo" "Notelong" "Hibbdent" "Clemaris"
+
+$R9_35
+ [1] "Desmvari" "Lepilate" "Poa.sieb" "Impecyli" "Hibbscan" "Diancaer" "Acacirro" "Eucaacme" "Glycclan" "Solahapa"
+
+$R9_36
+ [1] "Geitcymo" "Adiaaeth" "Dichrepe" "Asplflab" "Lomalong" "Micrstip" "Glycclan" "Desmvari" "Doodaspe" "Rubuparv" "Indiaust" "Opliimbe"
+[13] "Pratpurp" "Pandpanp" "Plandebi"
+
+$R9_37
+ [1] "Pterescu" "Tylobarb" "Eustlati" "Diancaer" "Hibbscan" "Lomalong" "Dichrepe" "Poalabil" "Glycclan" "Micrstip" "Leuclanc"
+
+$R9_38
+ [1] "Opliimbe" "Pterescu" "Dichrepe" "Entomarg" "Micrstip" "Adiaaeth" "Glycclan" "Stelflac" "Pratpurp" "Rubuparv" "Carelong" "Pseuvari"
+[13] "Poaensif" "Breyoblo" "Tylobarb" "Lomalong" "Eucaelat"
+
+$R9_39
+[1] "Glocferd" "Gahnclar" "Adiaaeth" "Opliimbe" "Diancaer" "Melalina" "Lomalong" "Entomarg" "Parsstra"
+
+$R9_4
+ [1] "Impecyli" "Pterescu" "Lomalong" "Eucapilu" "Diancaer" "Themtria" "Entostri" "Allotoru" "Polysamb" "Billscan" "Hibbscan" "Breyoblo"
+[13] "Eucamico" "Pratpurp"
+
+$R9_40
+ [1] "Syncglom" "Micrstip" "Pratpurp" "Diancaer" "Pittundu" "Entostri" "Leucjuni" "Lomalong" "Billscan" "Lepilate"
+
+$R9_41
+ [1] "Dichrepe" "Geitcymo" "Cayrclem" "Pandpanp" "Adiaaeth" "Eustlati" "Breyoblo" "Cissanta" "Doodaspe" "Pellfalc" "Notelong" "Sigeorio"
+[13] "Commcyan" "Pratpurp" "Plecparv" "Diostran" "Corymacu"
+
+$R9_43
+[1] "Melaarma" "Dichrepe" "Glycclan" "Pittundu"
+
+$R9_44
+[1] "Stelflac" "Dorysass" "Hedyangu" "Pandpanp" "Melident" "Urtiinci" "Pellfalc" "Cyataust" "Acacmela"
+
+$R9_45
+ [1] "Pratpurp" "Opliimbe" "Parsstra" "Entomarg" "Pittundu" "Dichrepe" "Micrstip" "Violhede" "Casuglau" "Lomalong" "Hydrsibt"
+
+$R9_45a
+ [1] "Acaclonf" "Acaclons" "Altedent" "Baumarti" "Baumjunc" "Billscan" "Callsali" "Carebrev" "Carelong" "Caremacu" "Casspube" "Casuglau"
+[13] "Centasia" "Diancaer" "Dichrepe" "Entomarg" "Eucacarn" "Eucatere" "Fimbdich" "Gahnaspe" "Gahnclar" "Geitcymo" "Glocferd" "Gonotetr"
+[25] "Hydrsibt" "Hydrtrip" "Leucjuni" "Lomalong" "Melastyp" "Micrstip" "Morijasm" "Myrshowi" "Opliaemu" "Oxalexil" "Parsstra" "Persstra"
+[37] "Polycaly" "Ptererec" "rubmoluc" "Schoapog" "Synoglag" "Verncine" "Violhede"
+
+$R9_46
+ [1] "Diancaer" "Allotoru" "Persline" "Pratpurp" "Billscan" "Breyoblo" "Adiaaeth" "Plecparv" "Lomalong" "Denhsilv"
+
+$R9_47
+ [1] "Micrstip" "Opliaemu" "Pterescu" "Sigeorio" "Dichrepe" "Entomarg" "Cayrclem" "stepjapd" "Urtiinci" "Gerasola"
+
+$R9_49a
+[1] "Junckraa" "Melaarma" "Rhagcanc" "Samorepe" "Eucabosi" "Sellradi"
+
+$R9_5
+ [1] "Corymacu" "Eustlati" "Macrcomm" "Lepilate" "Geitcymo" "Desmvari" "Glycclan" "Breyoblo" "Lomalong" "Diancaer" "Dichrepe" "Noteveno"
+[13] "Tylobarb" "Entostri"
+
+$R9_51
+ [1] "Lomalong" "Liviaust" "Synoglag" "Eustlati" "Pterescu" "Calodubi" "Hibbdent" "Smilaust" "Pseuvari" "Geitcymo" "Opliimbe" "Syncglom"
+[13] "Doodaspe" "Diancaer" "Tylobarb"
+
+$R9_52
+ [1] "Pellfalc" "Geitcymo" "Pandpanp" "Backmyrt" "Asplflab" "Adiaaeth" "Dichrepe" "Notelong" "Micrstip" "Eustlati" "Plecparv" "Pyrrrupe"
+
+$R9_53
+[1] "Casuglau" "Entomarg" "Gahnclar" "Parsstra" "Melastyp" "Violhede" "Diancaer" "Micrstip"
+
+$R9_54
+[1] "Cupaanac" "Bankinte" "Smilaust" "Impecyli" "Pterescu" "Hibbscan" "Breyoblo" "Lomalong" "stepjapd"
+
+$R9_54a
+ [1] "Acacaula" "Acacmaid" "Acroimpe" "Aleccori" "Austdulc" "Breyoblo" "Cayrclem" "Cisshypo" "Commcyan" "Cordstri" "Coryinte" "Cryptrip"
+[13] "Cupaanac" "Cypeeglo" "Davasoli" "Desmvari" "Dichrepe" "Drypdep." "Eucatere" "Eurofalf" "Eustlati" "Geitcymo" "Hydrsibt" "Impecyli"
+[25] "Jasmvolu" "Liviaust" "Lomalong" "Maclcoch" "Marsrost" "Morijasm" "Notelong" "Panipygm" "Persstra" "Platbifu" "Polyeleg" "Psycloni"
+[37] "Pterescu" "Pyrrrupe" "Rubuparv" "Smilaust" "stepjapd" "Troclaur" "Violhede"
+
+$R9_56
+[1] "Eucabotr" "Pterescu" "Opliimbe" "Gahnclar" "Calodubi" "Melalina" "Entomarg"
+
+$R9_57
+ [1] "Acacirro" "Cissanta" "Eucaprop" "Impecyli" "Smilaust" "Geitcymo" "Eustlati" "Desmvari" "Breyoblo" "Opliaemu" "Psycdaph"
+
+$R9_58
+ [1] "Hardviol" "Impecyli" "Poa.sieb" "Pterescu" "Allotoru" "Desmvari" "Glycclan" "Lomalong" "Hibbscan" "Eucacamn" "Themtria" "Pratpurp"
+[13] "Diancaer" "Persmedi"
+
+$R9_59
+[1] "Pterescu" "Lomalong" "Calodubi" "Elaereti" "Eucadean" "Gahnmela" "Geitcymo" "Smilaust"
+
+$R9_6
+ [1] "Elaereti" "Eucacype" "Eucamuel" "Geitcymo" "Poa.meio" "Pandpanp" "Hibbdent" "Eustlati" "Smilaust" "Noteveno" "Tylobarb" "Pterescu"
+[13] "Cisshypo" "Doodaspe" "Scheundu" "Bleccart"
+
+$R9_60
+ [1] "Impecyli" "Desmvari" "Diancaer" "Dichrepe" "Eucaacme" "Eustlati" "Pratpurp" "Allotoru" "Rubuparv" "Geitcymo" "Opliimbe" "Breyoblo"
+[13] "Denhsilv" "Plecparv" "Corymacu" "Pseuvari" "Glycclan" "Lomalong" "Micrstip"
+
+$R9_61
+ [1] "Tylobarb" "Eustlati" "Lomalong" "Smilaust" "Diancaer" "Opliimbe" "Pratpurp" "Micrstip" "Pterescu" "Geitcymo" "Indiaust" "Syncglom"
+[13] "Doodaspe" "Eucadean" "Adiaaeth" "Desmvari" "Cisshypo"
+
+$R9_62
+ [1] "Diancaer" "Entostri" "Syncglom" "Lomalong" "Allotoru" "Persline" "Impecyli" "Smilaust" "Lepilate" "Pandpanp"
+
+$R9_63
+ [1] "Tylobarb" "Pterescu" "Eucacype" "Smilaust" "Doodaspe" "Desmvari" "Stelflac" "Eustlati" "Glycclan" "Violhede" "Poa.meio" "Calodubi"
+[13] "Bleccart"
+
+$R9_65
+ [1] "Alphexce" "Geitcymo" "Ottograc" "Acacaula" "Lomalong" "Lophsuav" "Morijasm" "Parsstra" "Gahnaspe" "Verncine" "Coryinte" "Entomarg"
+
+$R9_66
+[1] "Acaclonf" "Themtria" "Bankinte" "Lomalong" "Hibbscan" "Diancaer" "Ficinodo" "Kennrubi"
+
+$R9_68
+ [1] "Pterescu" "Dichrepe" "Pellfalc" "Melident" "Micrstip" "Carelong" "Stelflac" "Eucavimi" "Glycclan" "Rubuparv" "Urtiinci" "Desmvari"
+[13] "Echiovat"
+
+$R9_7
+ [1] "Desmvari" "Indiaust" "Glycclan" "Dichrepe" "Eucamaid" "Poa.meio" "Plecparv" "Seneline" "Lomalong" "Clemaris"
+
+$R9_71
+ [1] "Opliimbe" "Micrstip" "Impecyli" "Eustlati" "Pratpurp" "Lomalong" "Parsstra" "Diancaer" "Dichrepe" "Hibbscan" "Pterescu" "Eucapilu"
+[13] "Entostri" "Marsrost"
+
+$R9_72
+ [1] "Acacsilv" "Beyelasi" "Casstrin" "Eucapani" "Cisshypo" "Eucalong" "Eucasmit" "Lepiurop" "Micrstip" "Morijasm" "Noteveno" "OZOTARGO"
+[13] "Ozotdios" "Pandpanp" "Persline" "Philtrac" "Pittrevo" "Rytilong"
+
+$R9_73
+[1] "Gahnclar" "Callsali" "Eucarobu" "Parsstra" "Glocferd" "Lomalong" "Diancaer"
+
+$R9_74
+ [1] "Lomalong" "Pseuvari" "Smilaust" "Breyoblo" "Diancaer" "Syncglom" "Geitcymo" "Pandpanp" "Diostran" "Allotoru" "Pratpurp" "Doodaspe"
+[13] "Eustlati" "Gymnance" "Cisshypo"
+
+$R9_75
+[1] "Micrstip" "Urtiinci" "Melident" "Dichrepe" "Desmvari" "Echiovat" "Poalabil" "Eustlati" "Pratpurp"
+
+$R9_76
+[1] "Gahnclar" "Melasqur" "Violhede" "Elaereti" "Pterescu"
+
+$R9_77
+ [1] "Pterescu" "Diancaer" "Eustlati" "Smilglyc" "Glocferd" "Liviaust" "Pittundu" "Eucabotr" "Notelong" "Allotoru" "Homapopu" "Breyoblo"
+[13] "Elaereti" "stepjapd"
+
+$R9_78
+ [1] "Eucapipe" "Diancaer" "Leuclanc" "Pterescu" "Tylobarb" "Lomalong" "Elaereti" "Persline" "Bleccart" "Calodubi" "Eustlati"
+
+$R9_78a
+ [1] "Acacparr" "Aciaforn" "Billscan" "Bleccart" "Calodubi" "Coroelat" "Desmvari" "Diancaer" "Elaereti" "Eucapipe" "Eucasali" "Glycclan"
+[13] "Gomplati" "Gonoteuc" "Hardviol" "Hibbscan" "Kennrubi" "Micrstip" "Pimelini" "Poa.affi" "Pratpurp" "Pterescu" "Tylobarb"
+
+$R9_79
+[1] "Lophsuav" "Impecyli" "Lomalong" "Alphexce" "Parsstra" "Eucatere" "Breyoblo" "Pratpurp"
+
+$R9_8
+[1] "Beyelasi" "Noteveno" "Casslong" "Eucasmit" "Pittundu" "Acacfali" "Geitcymo" "Rytilong"
+
+$R9_80
+ [1] "Pterescu" "Allotoru" "Persline" "Diancaer" "Angoflor" "Lomalong" "Calodubi" "Eustlati" "Impecyli" "Pseuvari" "Entostri" "Micrstip"
+[13] "Pratpurp" "Pandpanp"
+
+$R9_81
+[1] "Melaquin" "Acaclonf" "Eucarobu" "Kennrubi" "Diancaer"
+
+$R9_83
+[1] "Hypomuel" "Morijasm" "Pratpurp" "Melalina" "Micrstip" "Entomarg" "Lomalong" "stepjapd"
+
+$R9_84
+ [1] "Eucapunc" "Allotoru" "Desmvari" "Diancaer" "Lepilate" "Hardviol" "Billscan" "Persline" "Oleavisc" "Lomalong" "Entostri" "Dichrepe"
+[13] "Tylobarb" "Geitcymo" "Indiaust"
+
+$R9_85
+ [1] "Desmvari" "Dichrepe" "Eucatere" "Oleavisc" "Clemaris" "Eustlati" "Opliimbe" "Solaprin" "Veropleb" "Pellfalc" "Pratpurp"
+
+$R9_86
+ [1] "Pandpanp" "Clemglyc" "Dichrepe" "Pittundu" "Pyrrrupe" "stepjapd" "Pellfalc" "Cissanta" "Eustlati" "Urtiinci" "Adiaaeth" "Doodaspe"
+[13] "Cayrclem" "Clertome" "Plecparv"
+
+$R9_87
+ [1] "Backmyrt" "Casucunc" "Lomalong" "Adiaaeth" "Bursspin" "Dichrepe" "Geitcymo" "Micrstip" "stepjapd" "Glycclan" "Melident" "Entomarg"
+
+$R9_88
+ [1] "Pittundu" "Micrstip" "Eucasali" "Entomarg" "Eustlati" "Pseuvari" "Opliaemu" "Pandpanp" "Lomalong" "Diancaer" "Polysamb" "Breyoblo"
+
+$R9_89
+ [1] "Calodubi" "Diancaer" "Allotoru" "Smilglyc" "Eustlati" "Lomalong" "Pandpanp" "Bleccart" "Elaereti" "Hibbdent" "Cisshypo" "Notelong"
+
+$R9_9
+ [1] "Pellfalc" "Geitcymo" "Opliimbe" "Dichrepe" "Melident" "Clemglyc" "Pittundu" "Marsrost" "Sigeorio" "Pandpanp" "Eustlati" "Urtiinci"
+
+$R9_90
+ [1] "Cisshypo" "Lomalong" "Triscoll" "Bleccart" "Calodubi" "Cyataust" "Syncglom" "Diancaer" "Eustlati" "Pterescu" "Smilaust"
+
+$R9_93
+ [1] "Lomalong" "Dichrepe" "Adiaaeth" "Pseuvari" "Carelong" "Pratpurp" "Opliimbe" "Diancaer" "Eustlati" "Glycclan" "Cisshypo" "Entostri"
+[13] "Parsstra" "Entomarg" "Hibbaspe" "Tylobarb" "Morijasm"
+
+$R9_94
+[1] "Beyelasi" "Plecgrav" "Ziertube" "Ficurubi" "Dodovisc" "Pittundu"
+
+$R9_94a
+ [1] "Acacirro" "Acacmela" "Cheidist" "Cheisies" "Commdasy" "Cymbrefr" "Davasoli" "Dendpugi" "Dendspec" "Diancaer" "Digiparv" "Dodovisc"
+[13] "Entostri" "Eucacarn" "Ficurubi" "Gonooreo" "Leptpete" "Leucjuni" "Leuclanc" "Logaalbi" "Lomalong" "Opliimbe" "Ozotdios" "Parsstra"
+[25] "Persmedi" "Pittundu" "Platbifu" "Plecgrav" "Prosinci" "Pyrrconc" "Pyrrrupe" "Schibifi" "Verncine" "Ziersmit"
+
+$R9_95
+ [1] "Lomalong" "Pterescu" "Adiaaeth" "Eucacype" "Clemaris" "Geitcymo" "Violhede" "Desmvari" "Dichrepe" "Leuclanc"
+
+$R9_97
+ [1] "Backmyrt" "Morijasm" "Diancaer" "Adiaaeth" "Geitcymo" "Eustlati" "Lomalong" "Doodaspe" "Breyoblo" "Pittrevo" "Allotoru" "Pseuvari"
+
+$R9_98
+ [1] "Eucapunc" "Indiaust" "Stypglau" "Allotoru" "Asplflab" "Geitcymo" "Lomalong" "Persline" "Rytilong" "Desmvari" "Hardviol" "Lomamulm"
+[13] "Acacimpl" "Exocstri" "Adiaaeth" "Dichrepe" "Notelong" "Dianrevo"
+
+$R9_9a
+ [1] "Alecsubc" "Celaaust" "Clemglyc" "Echiovat" "Ficucoro" "Gerasola" "Marsrost" "Meliazed" "Melident" "Micrstip" "Oleavisc" "Opliimbe"
+[13] "Pandpanp" "Pellfalc" "Pittundu" "Sigeorio" "stepjapd"
+
+$R9_9b
+ [1] "Acacmela" "Angoflor" "Asplflab" "Bracpopu" "Casstrin" "Cenccali" "Dichrepe" "Einahast" "Eucamaid" "Ficurubi" "Geitcymo" "Glycmicr"
+[13] "Lomalong" "Melident" "Micrstip" "Notelong" "Opliimbe" "Oxalpere" "Pandpanp" "Pellfalc" "Pittundu" "Poa.meio" "Pyrrrupe" "Rytilong"
+[25] "Sigeorio" "Solapung"
+
+$R1_1
+ [1] "Entostri" "Lomamulm" "Cheisies" "Arisvaga" "Lepilate" "Micrstip" "Eucafibr" "Dianrevo" "Themtria" "Lissstri" "Operdiph" "Goodhede"
+[13] "Pratpurp" "Glycclan" "Bursspin" "Panisimi"
+
+$R1_101
+ [1] "Commcyan" "Cynodact" "Micrstip" "Pratpurp" "Angoflor" "Casucunc" "Cheisies" "Desmvari" "Einatrig" "Opliaemu" "Rumebrow" "stepjapd"
+
+$R1_105
+[1] "Eucablak" "Arisramo" "Angosubv" "Acacimpl" "Desmbrac" "Cheidist" "Cymbrefr" "Panieffu" "Lomafili"
+
+$R1_106
+ [1] "Dichrepe" "Angoflor" "Micrstip" "Persline" "Desmvari" "Glycclan" "Pratpurp" "Eucagloo" "Hypegram" "Lomalong" "Entostri" "Acacmear"
+[13] "Lomamulm" "Lepilate" "Pterescu"
+
+$R1_107
+ [1] "Eucapunc" "Micrstip" "Dichrepe" "Galileio" "Breyoblo" "Clemglyc" "Pratpurp" "Plecparv" "Lepilate" "Desmvari" "Opliimbe" "Adiaaeth"
+[13] "Allotoru"
+
+$R1_108
+ [1] "Cheisies" "Eragbrow" "Themtria" "Entostri" "Cassglab" "Lepilate" "Melanodo" "Arisvaga" "Diancaer" "Acrodiva" "Leptpoly" "Schoapog"
+[13] "Fimbdich"
+
+$R1_109
+[1] "Eleoequi" "Pasudist" "Utriaure"
+
+$R1_11
+ [1] "Persline" "Breyoblo" "Bursspin" "Cheisies" "Diancaer" "Myrsvari" "Plecparv" "Allotoru" "Indiaust" "Acacparv" "Denhsilv" "Hardviol"
+[13] "Exocstri" "Lepilate" "Dichrepe" "Entostri"
+
+$R1_110
+ [1] "Cheisies" "Cymbrefr" "Lomamulm" "Arisramo" "Micrstip" "Dianrevo" "Arisvaga" "Laxmgrac" "Corymacu" "Verncine"
+
+$R1_111
+ [1] "Acaclonf" "Baumjunc" "Botraust" "Breyoblo" "Callsali" "Cassglab" "Casuglau" "Centasia" "Cypepoly" "Diancaer" "Dicemicr" "Ecliplat"
+[13] "Entomarg" "Eragbrow" "Eucatere" "Euchjapo" "Fimbdich" "Gahnclar" "Glycmicr" "Gonochiv" "Goodpani" "Hemaunci" "Hydrsibt" "Hypegram"
+[25] "Hypomuel" "Impecyli" "Ischaust" "Juncusit" "Kennrubi" "Leptpoly" "Lobeance" "Lomalong" "Melalina" "Melaquin" "Melastyp" "Opliaemu"
+[37] "Pasidist" "Pasporbi" "Pratpurp" "Pseulute" "Pterescu" "Ranuinun" "Ranulapp" "rubmoluc" "Saccindi" "Schoapog" "Senehisp" "Verncine"
+[49] "Violbank"
+
+$R1_113
+[1] "Callvimi" "Opliaemu" "Casucunc" "Commcyan" "Cynodact" "Rumebrow"
+
+$R1_114
+[1] "Allotoru" "Eucamico" "Desmvari" "Desmbrac" "Eucabitu" "Diancaer" "Themtria" "Hardviol" "Lomalong"
+
+$R1_116
+ [1] "Dichrepe" "Leucjuni" "Micrstip" "Pratpurp" "Geitcymo" "Lepilate" "Allolitt" "Billscan" "Entostri" "Lomalong" "Opliimbe"
+
+$R1_12
+ [1] "Glycclan" "Pratpurp" "Echicaes" "Entostri" "Micrstip" "Cymbrefr" "Themtria" "Cheisies" "Dichrepe" "Lepilate" "Eucalong" "Lomalong"
+[13] "Lagnstip" "Leucjuni"
+
+$R1_13
+ [1] "Bursspin" "Clemglyc" "Micrstip" "Desmvari" "Dichrepe" "Lomalong" "Angoflor" "Cheisies" "Glycclan" "Galileio" "Persline" "Eucapunc"
+[13] "Lomaconf" "Veropleb"
+
+$R1_14
+ [1] "Leucjuni" "Melaarma" "Micrstip" "Commcyan" "Eragleps" "Opliimbe" "Plecparv" "Poalabil" "Rytilong" "Breyoblo" "Cayrclem" "Xerobrac"
+[13] "Cheisies"
+
+$R1_15
+[1] "Azolpinn" "Ludwpepm" "Pasudist" "Utriaure"
+
+$R1_16
+[1] "Casucunc" "Commcyan" "Opliaemu" "Echiovat" "Gerasola" "Micrstip" "Rostadsn" "stepjapd"
+
+$R1_17
+ [1] "Dichrepe" "Eucatere" "Micrstip" "Acacmear" "Themtria" "Glycclan" "Acacimpl" "Desmvari" "Echiovat" "Clemglyc" "Eragleps" "Lomalong"
+[13] "Hydrlaxi" "Pittundu"
+
+$R1_17b
+ [1] "Plecparv" "Desmvari" "Dichrepe" "Eucatere" "Micrstip" "Cheisies" "Crassieb" "Eucamell" "Lomalong" "Pellfalc" "Rytilong" "Sigeorio"
+[13] "Geitcymo" "Carebrev" "Oxalpere"
+
+$R1_18
+ [1] "Lissstri" "Lomamulm" "Oleavisc" "Themtria" "Acacparr" "Austscab" "Bursspin" "Carebrev" "Clemmicr" "Dianrevo" "Acacamoe" "Lepigunn"
+[13] "Poalabil" "Rytilong"
+
+$R1_20
+ [1] "Pomaumbe" "Persline" "Lomamulm" "Arisvaga" "Cheisies" "Eucacreb" "Bursspin" "Oleavisc" "Cymbrefr" "Desmvari" "Dichrepe" "Hardviol"
+[13] "Lissstri" "Breyoblo" "Exocstri" "Pratpurp" "Dianrevo" "Lomalong" "Eucapunc" "Hibbobtu" "Glycclan"
+
+$R1_22
+[1] "Impecyli" "Themtria" "Eucatere" "Hardviol" "Breyoblo" "Desmvari" "Eucamico"
+
+$R1_25
+ [1] "Lepilate" "Oleaelle" "Bertolei" "Cleirigi" "Lomaconf" "Bursspin" "Sidafili" "Acacbulg" "Arisramo" "Cheisies"
+
+$R1_28
+ [1] "Oleavisc" "Desmvari" "Bursspin" "Dichrepe" "Cheisies" "Desmbrac" "Eucatere" "Cheidist" "Arisramo" "Bracpopu" "Lomamulm" "Lomalong"
+
+$R1_29
+ [1] "Micrstip" "Entomarg" "Dichrepe" "Opliaemu" "Acacparr" "Sigeorio" "Lomalong" "Clemglyc" "Angoflor" "Adiaaeth"
+
+$R1_3
+ [1] "Cymbrefr" "Desmrhyt" "Eucacarn" "Entostri" "Verncine" "Diancaer" "Hardviol" "Jackscop" "Corymacu" "Desmvari" "Glycclan" "Impecyli"
+[13] "Opliaemu" "Themtria" "Allotoru" "Panisimi"
+
+$R1_30
+ [1] "Echiovat" "Pterescu" "Dichrepe" "Lomalong" "Micrstip" "Solaprin" "Angoflor" "Hydrlaxi" "Glycclan" "Veropleb"
+
+$R1_31
+[1] "Dichrepe" "Oleavisc" "Lomalong" "Cheisies" "Desmvari" "Glycclan" "Micrstip" "Hydrlaxi" "Hypegram"
+
+$R1_32
+ [1] "Cymbrefr" "Verncine" "Panieffu" "Desmrhyt" "Opliaemu" "Glycclan" "Desmvari" "Themtria" "Entostri" "Cheisies" "Sclemack"
+
+$R1_33
+ [1] "Allotoru" "Themtria" "Desmrhyt" "Desmvari" "Impecyli" "Verncine" "Desmbrac" "Diancaer" "Hardviol" "Glycclan" "Cymbrefr"
+
+$R1_37
+ [1] "Persline" "Billscan" "Eucapunc" "Hardviol" "Podoilic" "Pomaumbe" "Themtria" "Entostri" "Lomafili" "Dianrevo" "Eucacreb" "Phylhirt"
+[13] "Arisvaga" "Lepilate"
+
+$R1_39
+[1] "Dichrepe" "Bursspin" "Micrstip" "Desmvari" "Brueaust" "Oxalpere" "Cypegrac" "Eucamolu" "Acacimpl"
+
+$R1_4
+[1] "Micrstip" "Casuglau" "Dichrepe" "Brueaust" "Solaprin" "Pratpurp" "Oxalpere" "Cheisies" "Opliaemu"
+
+$R1_40
+ [1] "Cheisies" "Corymacu" "Pratpurp" "Breyoblo" "Cymbrefr" "Dichrepe" "Themtria" "Diancaer" "Micrstip" "Desmvari" "Persline" "Glyctaba"
+
+$R1_41
+[1] "Callcolu" "Acacaula" "Coryinte" "Ottograc"
+
+$R1_43
+[1] "Cymbrefr" "Desmvari" "Desmrhyt" "Pratpurp" "Allotoru" "Eucabitu" "Impecyli"
+
+$R1_44
+[1] "Impecyli" "Alphexce" "Pratpurp" "Verncine" "Eustlati" "Entostri" "Themtria" "Coryhenr" "Eucasidp"
+
+$R1_45
+ [1] "Micrstip" "Bursspin" "Dichrepe" "Cheisies" "Brueaust" "Themtria" "Desmvari" "Arisvaga" "Eucatere" "Eucamolu" "Glyctaba"
+
+$R1_46
+[1] "Entomarg" "Eucabaui" "Micrstip" "Ozotdios" "Acacdecu" "Bursspin" "Angoflor"
+
+$R1_47
+[1] "Acaclonf" "Gonotetr" "Lepiquad" "Melathym" "Themtria" "Xantfulv" "Casuglau"
+
+$R1_48
+ [1] "Dichrepe" "Desmvari" "Angoflor" "Solaprin" "Micrstip" "Gahnaspe" "Pimelati" "Lomalong" "Cheisies" "Dianrevo" "Hydrlaxi" "Indiaust"
+[13] "Oxalpere" "Persline"
+
+$R1_49
+ [1] "Corymacu" "Entostri" "Pomaumbe" "Dianrevo" "Lomafili" "Lomamulm" "Arisvaga" "Cheisies" "Eucafibr" "Lepilate" "Bursspin" "Daviulic"
+[13] "Themtria" "Lissstri" "Phylhirt" "Persline"
+
+$R1_50
+ [1] "Micrstip" "Themtria" "Impecyli" "Pomaumbe" "Persline" "Pratpurp" "Billscan" "Glycclan" "Arisvaga" "Bursspin" "Cheisies" "Eragbrow"
+[13] "Breyoblo" "Acacparv" "Lepttrin" "Panisimi" "Angoflor"
+
+$R1_51
+[1] "Entostri" "Leptmicc" "Leptvari" "Tracincs" "Cheisies" "Jackscop" "Schovagi"
+
+$R1_52
+[1] "Bracpopu" "Bursspin" "Carebrev" "Exoccupr" "Gahnaspe" "Lepilate" "Lomalong" "Rytilong"
+
+$R1_53
+ [1] "Entostri" "Corymacu" "Micrstip" "Pratpurp" "Arisvaga" "Eucafibr" "Themtria" "Lomamulm" "Glycclan" "Daviulic" "Lepilate" "Panisimi"
+[13] "Bursspin" "Diancaer" "Lomafili" "Cheisies" "Hardviol"
+
+$R1_55
+ [1] "Eucacreb" "Cymbrefr" "Oleaelle" "Arisvaga" "Dianrevo" "Bursspin" "Cheisies" "Dodovisc" "Arisramo" "Lomaconf" "Acacambl" "Lomafili"
+
+$R1_56
+ [1] "Arisramo" "Cheisies" "Eucacreb" "Callendl" "Austscab" "Meliurce" "Persline" "Pomaumbe" "Gahnaspe" "Allovert"
+
+$R1_57
+ [1] "Oleavisc" "Dichrepe" "Eucatere" "Desmvari" "Plecparv" "Geitcymo" "Cheisies" "Opliimbe" "Pellfalc" "Micrstip" "Pratpurp" "Breyoblo"
+[13] "Adiaaeth"
+
+$R1_58
+ [1] "Echicaes" "Exoccupr" "Impecyli" "Pratpurp" "Themtria" "Arisvaga" "Breyoblo" "Glycclan" "Cheisies" "Desmvari" "Entostri" "Micrstip"
+[13] "Ozotdios" "Violhede"
+
+$R1_59
+[1] "Lophsuav" "Impecyli" "Alphexce" "Verncine" "Lomalong" "Themtria" "Entostri" "Pratpurp" "Parsstra"
+
+$R1_6
+[1] "Dichrepe" "Themtria" "Micrstip" "Hydrlaxi" "Glycclan" "Eragleps" "Desmvari" "Acacmear" "Bursspin"
+
+$R1_61
+[1] "Acaclonf" "Themtria" "Centasia" "Dichrepe" "Bankinte" "Glyctaba" "Lomalong" "Micrstip" "Pratpurp"
+
+$R1_62
+ [1] "Pratpurp" "Lepilate" "Micrstip" "Cheisies" "Entostri" "Persline" "Arisvaga" "Pomaumbe" "Billscan" "Panisimi" "Glycclan" "Themtria"
+[13] "Lomamulm" "Eucapunc"
+
+$R1_63
+ [1] "Acacirro" "Adiaaeth" "Allotoru" "Angosubv" "Breyoblo" "Cissanta" "Clemglyc" "Desmvari" "Eucatere" "Geitcymo" "Hibbscan" "Impecyli"
+[13] "Rubuparv"
+
+$R1_64
+[1] "Themtria" "Desmbrac" "Allotoru" "Desmvari" "Cymbrefr" "Dianlong" "Eucatere" "Acacimpl"
+
+$R1_65
+ [1] "Entostri" "Verncine" "Desmrhyt" "Themtria" "Corymacu" "Diancaer" "Glycclan" "Cymbrefr" "Allotoru" "Lomafili"
+
+$R1_66
+[1] "Melanodo" "Diancaer" "Entostri" "Pratpurp" "Glocferd" "Impecyli" "Parsstra" "Breyoblo"
+
+$R1_67
+ [1] "Desmvari" "Hypegram" "Lissstri" "Lomafili" "Lomalong" "Micrstip" "Themtria" "Dichrepe" "Hydrlaxi" "Poa.sieb" "Veropleb"
+
+$R1_70
+ [1] "Micrstip" "Angoflor" "Pimelini" "Glycclan" "Pterescu" "Bankinte" "Breyoblo" "Hibbline" "Lomamulm" "Arisramo" "Impecyli"
+
+$R1_72
+ [1] "Arisramo" "Cymbrefr" "Cheisies" "Eragleps" "Lomamulm" "Micrstip" "Desmvari" "Eucacreb" "Dichrepe" "Sporcreb" "Glyctaba" "Cheidist"
+[13] "Bothdecd" "Panieffu" "Chlovent"
+
+$R1_73
+ [1] "Austramo" "Micrstip" "Opliaemu" "Pterescu" "Sigeorio" "Phylgunn" "Pratpurp" "Acacbini" "Dichrepe" "Poa.affi" "Poramicr"
+
+$R1_74
+[1] "Eucafibr" "Melanodo" "Entostri" "Bursspin" "Lepilate" "Cheisies" "Denhsilv"
+
+$R1_75
+ [1] "Cymbrefr" "Cheisies" "Dichrepe" "Micrstip" "Pratpurp" "Breyoblo" "Arisvaga" "Diancaer" "Verncine" "Glycclan" "Leucjuni" "Lomamulm"
+[13] "Themtria" "Oxalpere"
+
+$R1_76
+ [1] "Acaclinr" "Arisvaga" "Bursspin" "Casscunn" "Cassquin" "Cheisies" "Chorspea" "Dichrepe" "Gahnaspe" "Goodstep" "Acacimpl" "Arisramo"
+[13] "Astrhumi" "Austscab" "Clemglyc" "Digiramu" "Dodovisc" "Eucaalbe" "Lomaconf" "Micrstip" "Oleaelle" "Paspcrin" "Solapapv" "Solaprin"
+
+$R1_77
+[1] "Desmbrac" "Cymbrefr" "Sorgleio" "Desmvari" "Themtria" "Hardviol" "Dicemicr" "Rostadsn"
+
+$R1_78
+ [1] "Themtria" "Desmvari" "Desmbrac" "Eucatere" "Desmrhyt" "Cymbrefr" "Verncine" "Sorgleio" "Glosbidn" "Eucaeuge" "Allotoru" "Commcyan"
+[13] "Eremdebi"
+
+$R1_79
+ [1] "Desmvari" "Allotoru" "Diancaer" "Pratpurp" "Impecyli" "Lomalong" "Sigeorio" "Plecparv" "Poalabil" "Dichrepe" "Rubuparv" "Glycclan"
+[13] "Hibbscan"
+
+$R1_80
+ [1] "Micrstip" "Bursspin" "Opliaemu" "Dichrepe" "Entomarg" "Echiovat" "Solaprin" "Pratpurp" "Eucatere" "Acacparr" "Cheisies"
+
+$R1_82
+ [1] "Notemicr" "Bursspin" "Eucacreb" "Micrstip" "Cheisies" "Desmvari" "Dichrepe" "Breyoblo" "Gahnaspe" "Sparjunc"
+
+$R1_83
+ [1] "Bursspin" "Cheisies" "Oleaelle" "Dichrepe" "Eucamolu" "Gahnaspe" "Chorspea" "Cymbrefr" "Desmvari" "Arisvaga" "Micrstip" "Breyoblo"
+[13] "Clemglyc" "Denhsilv" "Lomaconf"
+
+$R1_84
+ [1] "Cymbrefr" "Desmbrac" "Desmvari" "Panieffu" "Chryapic" "Angosubv" "Eucatere" "Hibbobtu" "Poa.sieb" "Eragleps"
+
+$R1_85
+ [1] "Acacblak" "Entostri" "Gahnaspe" "Diancaer" "Eucatere" "Lomalong" "Alyxrusc" "Calodent" "Ficurubi" "Operhisp"
+
+$R1_87
+ [1] "Desmvari" "Breyoblo" "Geitcymo" "Adiaaeth" "Cayrclem" "Bursspin" "Pandpanp" "Micrstip" "Clertome" "Dichrepe" "Eustlati" "Sigeorio"
+[13] "Opliimbe" "Pellfalc"
+
+$R1_87b
+ [1] "Breyoblo" "Bursspin" "Dichrepe" "Bracpopu" "Clemaris" "Sigeorio" "Adiaaeth" "Clertome" "Diancaer" "Eustlati" "Plecparv" "Pratpurp"
+[13] "Cayrclem" "Desmvari" "Pellfalc"
+
+$R1_88
+ [1] "Micrstip" "Persline" "Cheisies" "Pratpurp" "Angoflor" "Dichrepe" "Verncine" "Lagnstip" "Diantasm" "Exocstri" "Billscan" "Veropleb"
+[13] "Digiramu" "Glyctaba" "Solaprin" "Entomarg"
+
+$R1_89
+[1] "Entostri" "Impecyli" "Allotoru" "Eucasidp" "Lomalong" "Coryinte" "Lomafili" "Diancaer"
+
+$R1_89a
+ [1] "Allotoru" "Alphexce" "Breyoblo" "Brueaust" "Cheisies" "Echicaes" "Entomarg" "Eucapilu" "Eucasidp" "Eustlati" "Geitcymo" "Glocferd"
+[13] "Glycclan" "Glycmicr" "Impecyli" "Lomafili" "Lomalong" "Lomamulm" "Micrstip" "Pandpanp" "Pratpurp" "Solaprin" "Violhede"
+
+$R1_9
+ [1] "Acacflor" "Leptemar" "Lomalong" "Themtria" "Callsubu" "Lomamyri" "Bursspin" "Hakemicr" "Acacmear" "Micrstip"
+
+$R1_92
+ [1] "Alphexce" "Impecyli" "Pterescu" "Themtria" "Coryinte" "Verncine" "Glycclan" "Pratpurp" "Eustlati" "Persstra" "Desmvari" "Entostri"
+[13] "Hibbvest"
+
+$R1_93
+ [1] "Verncine" "Desmrhyt" "Pratpurp" "Impecyli" "Cymbrefr" "Desmvari" "Chryapic" "Themtria" "Eragleps" "Phylvirg" "Panieffu" "Coryinte"
+[13] "Cheisies"
+
+$R1_95
+ [1] "Bursspin" "Cheisies" "Eucatere" "Plecgrav" "Themtria" "Acacmaid" "Angosubv" "Cymbrefr" "Diancaer" "Gahnaspe" "Gerasola" "Halohete"
+[13] "Hypegram" "Jackscop" "Lissstri" "Lomalong" "Oxalexil" "Panieffu" "Polycaly" "Violbeto"
+
+$R1_96
+ [1] "Acacaula" "Alphexce" "Cymbrefr" "Eucasidp" "Eucatere" "Eustlati" "Geitcymo" "Lophsuav" "Micrstip" "Ottograc" "Parsstra"
+
+$R1_97
+ [1] "Acacconc" "Acacirro" "Alphexce" "Arisvaga" "Breyoblo" "Brueaust" "Centaust" "Corymacu" "Cymbrefr" "Denhsilv" "Desmrhyt" "Desmvari"
+[13] "Diancaer" "Entomarg" "Entostri" "Eucacarn" "Eucaprop" "Eucasidp" "Eustlati" "Geitcymo" "Glycclan" "Hibbobtu" "Hybastel" "Laxmgrac"
+[25] "Lepilate" "Lomafili" "Lomamulm" "Meliurce" "Opliimbe" "Pandpanp" "Paspbrev" "Plecparv" "Pomaumbe" "Pratpurp" "Rostadsn" "Themtria"
+[37] "Verncine"
+
+$R1_98
+ [1] "Themtria" "Cymbrefr" "Pratpurp" "Impecyli" "Alphexce" "Verncine" "Acacconc" "Allotoru" "Entostri" "Diancaer" "Eustlati" "Arisvaga"
+[13] "Lepilate" "Persstra" "Coryhenr" "Desmrhyt" "Lomamulm"
+
+$R1_99
+ [1] "Desmvari" "Impecyli" "Opliaemu" "Verncine" "Pratpurp" "Eucatere" "Dichrepe" "Eustlati" "Sigeorio" "Angosubv" "Cymbrefr" "Themtria"
+
+$R1_99a
+ [1] "Breyoblo" "Cymbrefr" "Desmvari" "Dichrepe" "Eucatere" "Eustlati" "Geitcymo" "Impecyli" "Mallphil" "Micrstip" "Opliaemu" "Plandebi"
+[13] "Pratpurp" "Sigeorio" "stepjapd" "Wahlgrai" "Brueaust" "Carebrev" "Cenccali" "Chlovent" "Eragleps" "Eucacreb" "Gahnaspe" "Gerahome"
+[25] "Maclcoch" "Panieffu" "Pittundu" "Plecparv" "Poalabil" "Themtria" "Verncine"
+
+$R5_1
+ [1] "Tasminsi" "Palmscan" "Pittmult" "Arthtene" "Eupolaur" "Asplaust" "Morijasm" "Lomaspic" "Wilkhueg" "Diplaust" "Synoglag" "Cissanta"
+[13] "Heriacti" "Neoldeal" "Dorysass" "Caldpani" "Acmesmit" "Parsstra" "Alecsubc" "Schiovat"
+
+$R5_10
+[1] "Acmesmit" "Cyataust" "Pandpanp" "Marsrost" "Smilaust" "Micrscan" "Dickanta" "Oleaargo" "Pittundu"
+
+$R5_100
+ [1] "Morijasm" "Backmyrt" "Doodaspe" "Notelong" "Geitcymo" "Diostran" "Adiaaeth" "Opliimbe" "Gymnance" "Pittmult"
+
+$R5_102
+ [1] "Melaquin" "Melielle" "Hypomuel" "Archcunn" "Lophsuav" "Geitcymo" "glocsuma" "Liviaust" "Morijasm" "Marsrost" "Smilaust" "Blecindi"
+
+$R5_103
+ [1] "Wateflor" "Ficucoro" "Lomahyst" "Cissanta" "Morijasm" "Pittmult" "Doodaspe" "Adiahisp" "Gymnance" "Pandpanp" "Carelong"
+
+$R5_11
+ [1] "Daphapat" "Pellfalc" "Adiaform" "Pyrrrupe" "Alecsubc" "Melident" "Urtiinci" "Pandpanp" "Melimicr" "Ruburosi" "Acmesmit" "Hymeflav"
+[13] "Marsrost" "Sarcfalc" "Tylobarb" "Cissanta" "Claoaust"
+
+$R5_13
+ [1] "Cissanta" "Smilaust" "Polyeleg" "Geitcymo" "Alpicaer" "Eurofalf" "Guiosemg" "Coryinte" "Lophconf" "Eucamico" "Celasubs" "Allotoru"
+[13] "Diancaer" "Opliaemu"
+
+$R5_14
+ [1] "Arthtene" "Linomono" "Arytdiva" "baloinop" "Uvarleic" "Anthniti" "Diospent" "Heriacti" "Meloaust" "Cissanta" "Cleicunn" "Diplaust"
+[13] "Mallphil" "Capparbo" "Pittmult" "neolaust" "Dendexce" "Embeaust" "Daphapat" "Asplaust" "Guiosemg"
+
+$R5_15
+[1] "Parsstra" "Casuglau" "Callsali"
+
+$R5_17
+ [1] "Breyoblo" "Smilaust" "Liviaust" "Myrsvari" "Guiosemg" "Smilglyc" "Notelong" "Pterescu" "Alphexce" "Polyeleg" "Pandpanp" "Bankinte"
+[13] "Cisshypo" "Cupaanac" "Lomalong"
+
+$R5_18
+ [1] "Pittmult" "Dendexce" "Cissanta" "Arthtene" "Adiaform" "Strebrun" "Diplaust" "Asplaust" "baloinop" "Alecsubc" "Lomaspic"
+
+$R5_19
+ [1] "Geitcymo" "Strebrun" "Opliimbe" "Noteveno" "Pandpanp" "Pittmult" "Eustlati" "Pellfalc" "Marsrost" "Elaeaust" "Pseuvari" "Asplflab"
+[13] "Clertome" "Dichrepe"
+
+$R5_2
+ [1] "Synoglag" "Bleccart" "Cryprigi" "Eupolaur" "Cissanta" "Caldpani" "Smilaust" "Psycloni" "Cisshypo" "Lophconf" "Troclaur" "Schiovat"
+[13] "Eucamico" "Palmscan" "Eucasali" "Geitcymo"
+
+$R5_20
+ [1] "Allotoru" "Bleccart" "Smilaust" "Eucapilu" "Diancaer" "Synoglag" "Cisshypo" "Diostran" "Syncglom" "Eucamico" "Calodubi" "Troclaur"
+[13] "Cryprigi" "Cordstri" "Breyoblo" "Elaereti" "Lophconf" "Archbeck" "Lomalong"
+
+$R5_21
+[1] "Archcunn" "Ficucoro" "Flagindi" "Melaquin" "Acmesmit" "Alocbris" "Geitcymo" "Smilaust" "Maclcoch"
+
+$R5_22
+ [1] "Eustlati" "Acacbina" "Tylobarb" "Smilaust" "Pandpanp" "Marsrost" "Synoglag" "Noteveno" "Liviaust" "Geitcymo" "Lomalong" "Elaereti"
+[13] "Hibbscan"
+
+$R5_23
+[1] "Parsstra" "Glocferd" "Gahnclar" "Hypomuel" "Eucarobu" "Liviaust" "Melabico"
+
+$R5_24
+[1] "Ceraapet" "Blecwatt" "Todebarb" "Parsbrow" "Tasminsi" "Bleccart"
+
+$R5_25
+[1] "Melaquin" "Parsstra" "Blecindi" "Lygomicr" "glocsuma" "Melielle"
+
+$R5_26
+ [1] "Elaereti" "Lomalong" "Pterescu" "Pomaumbe" "Endisieb" "Hibbscan" "Smilglyc" "Marsrost" "Smilaust" "Gahnclar" "Austdulc" "Balotetr"
+
+$R5_27
+[1] "Parsstra" "Cupaanac" "Ottograc" "Casuglau" "Geitcymo" "Maclcoch" "Smilaust" "Notelong"
+
+$R5_28
+ [1] "Alchilic" "Cissanta" "Commcyan" "Cryptrip" "Cupaanac" "Cynodact" "Diplaust" "Flinscho" "Guiosemg" "Lophconf" "Maclcoch" "Melaquin"
+
+$R5_29
+ [1] "Parsstra" "Morijasm" "Opliimbe" "Pseuvari" "Cissanta" "Psycloni" "Tabepand" "Smilaust" "Acmesmit" "Lophsuav" "Alphexce" "Geitcymo"
+
+$R5_3
+ [1] "Bleccart" "Ceraapet" "Dorysass" "Acmesmit" "Morijasm" "Pandpanp" "Smilaust" "Cyataust" "Pellfalc" "Cisshypo"
+
+$R5_30
+ [1] "Troclaur" "Elaereti" "Hibbdent" "Synoglag" "Eucacamn" "Psycloni" "Cisshypo" "Hibbscan" "Lomalong" "Bleccart" "Cryprigi" "Diancaer"
+[13] "Eucamico"
+
+$R5_32
+[1] "Chorlept" "Syncglom" "Parsstra" "Smilaust"
+
+$R5_33
+ [1] "Diosaust" "Drypdep." "Guiosemg" "Notelong" "Pandpanp" "Diostran" "Elaeaust" "Embeaust" "Geitcymo" "Oleapani" "Pittmult" "Pseuvari"
+[13] "Smilaust" "Planaust" "Cupaanac" "Cissanta" "Diospent" "Gymnance" "Opliimbe"
+
+$R5_33a
+ [1] "Alyxrusc" "Aphaphil" "Arytdist" "Atrachar" "Cariovat" "Crinpedu" "Cryptrip" "Cupaanac" "Cupaparv" "Diosaust" "Diospent" "Diostran"
+[13] "Drypdep." "Embeaust" "Flagindi" "Gahnaspe" "Geitcymo" "Gossbidw" "Guiosemg" "Harphill" "Jagepsps" "Liviaust" "miscaust" "Notelong"
+[25] "Parsstra" "Pittmult" "Pittrevo" "Podoelat" "Pseuvari" "Strebrun"
+
+$R5_34
+[1] "Liviaust" "Pittundu" "Acmesmit" "Opliimbe" "Morijasm" "Smilaust" "Lomalong" "Synoglag" "Eustlati"
+
+$R5_35
+[1] "Pittundu" "Smilglyc" "Eustlati" "Diancaer" "Calodubi" "Lomalong" "Notelong" "Glocferd" "Elaereti"
+
+$R5_36
+[1] "Notelong" "Endisieb" "Acmesmit" "Liviaust" "Lomalong" "Scheundu"
+
+$R5_37
+[1] "Ceraapet" "Bleccart" "Acmesmit" "Sticflaf" "Morijasm" "Backmyrt" "Todebarb" "Lomalong" "Smilglyc"
+
+$R5_38
+ [1] "Doodaspe" "Smilaust" "Diancaer" "Lophconf" "Eucamico" "Cissanta" "Breyoblo" "Psycloni" "Synoglag" "Cisshypo" "Rhodrube" "Diostran"
+[13] "Lomalong" "Allotoru" "Troclaur"
+
+$R5_39
+ [1] "Bleccart" "Callserr" "Wilkhueg" "Archbeck" "Archcunn" "Morijasm" "Tabepand" "Cordstri" "Crypglau" "Acmesmit" "Eucagran" "Ripofawc"
+[13] "Cisshypo"
+
+$R5_4
+ [1] "Ceraapet" "Acmesmit" "Dorysass" "Morijasm" "Liviaust" "Bleccart" "Smilaust" "Tasminsi" "Crypglau" "Palmscan"
+
+$R5_40
+[1] "Casuglau" "Melaquin" "Parsstra" "Enydfluc"
+
+$R5_41
+ [1] "Wilkhueg" "Synoglag" "Smilaust" "Guiosemg" "Lophconf" "Bleccart" "Diostran" "Geitcymo" "Morijasm" "Maclcoch" "Crypmicr"
+
+$R5_42
+ [1] "Calodubi" "Cisshypo" "Synoglag" "Eustlati" "Smilaust" "Hibbdent" "Acmesmit" "Opliimbe" "Pseuvari" "Bleccart" "Tylobarb" "Elaereti"
+[13] "Geitcymo" "Liviaust" "Lomalong" "Morijasm" "Notelong"
+
+$R5_43
+[1] "Excoagal" "Casuglau" "Acrospec" "Aegicorn"
+
+$R5_44
+[1] "Melaquin" "Elaereti" "Gahnclar" "Parsstra" "Blecindi"
+
+$R5_46
+ [1] "Smilaust" "Cissanta" "Denhbilo" "Notelong" "Celasubs" "Cupaparv" "Guiosemg" "Araucunn" "Mallphil" "Gahnaspe" "Geitcymo" "Pittmult"
+[13] "Maclcoch" "Polyeleg"
+
+$R5_47
+[1] "Bleccart" "Calodubi" "Acacelat" "Elaereti" "Callserr" "Pterescu" "Cisshypo"
+
+$R5_47a
+ [1] "Acacmela" "Archbeck" "Billscan" "Bleccart" "Callserr" "Calodubi" "Elaereti" "Eucaorea" "Hibbscan" "Leuclanc" "Psycloni" "Pterescu"
+[13] "Pyrrrupe" "Sticloba" "Triscoll"
+
+$R5_48
+ [1] "Cordstri" "Guiosemg" "Smilaust" "Cupaanac" "Myrsvari" "Notelong" "Platbifu" "Syzylueh" "Syzyoleo" "Troclaur" "Drypdep." "Wilkhueg"
+[13] "Acmesmit" "Diospent" "Litsaust" "Miscpyri" "Cissster" "Endisieb" "Scolbrau" "Synoglag" "Archcunn" "Cycllong" "Lomaspic"
+
+$R5_48a
+ [1] "Alpicaer" "Austblab" "Calamuel" "Cordstri" "Cupaanac" "Eustlati" "Ficucoro" "Gahnaspe" "Guiosemg" "Lophconf" "Maclcoch" "Morijasm"
+[13] "Notelong" "Opliimbe" "Smilaust" "stepjapd" "Synoglag" "Tripcunn" "Wilkhueg" "Acmesmit" "Alocbris" "Archcunn" "Asplaust" "Calodubi"
+[25] "Cayrclem" "Cephceph" "Cisshypo" "Claoaust" "Clerflfl" "Coryinte" "Crinpedu" "Cymbmadi" "Diancaer" "Diostran" "Doodaspe" "Dysomolm"
+[37] "Elaeobov" "Eupolaur" "Ficuwatk" "Flagindi" "Geitcymo" "Glocferd" "Gymnance" "Hibbscan" "Lobetrig" "Lomaspic" "Myrsvari" "Pittrevo"
+[49] "Platbifu" "Psycloni" "Rhodrube" "Scolbrau" "Syzyoleo" "Tabepand" "Troclaur" "Violbank"
+
+$R5_49
+ [1] "Cryptrip" "Cupaanac" "Geitcymo" "Smilaust" "Diostran" "Asplaust" "Flagindi" "Crypfoet" "Cycllong" "Drypdep." "Eupolaur" "Psycloni"
+[13] "Alyxrusc" "Guiosemg" "Arytdiva"
+
+$R5_50
+ [1] "Smilaust" "Lomalong" "Pterescu" "Acroimpe" "Geitcymo" "Cupaanac" "Coryinte" "Austdulc" "Bankinte" "Diancaer" "Hibbscan" "Notelong"
+
+$R5_51
+ [1] "Asplaust" "Cissanta" "Diplaust" "baloinop" "Morijasm" "Embeaust" "Ficucoro" "Wilkhueg" "Neoldeal" "Doodaspe" "Arthtene" "Alecsubc"
+[13] "Pittmult" "Diosaust" "Diostran" "Dysorufu" "Heriacti"
+
+$R5_52
+ [1] "Morijasm" "Ripofawc" "Acmesmit" "Dorysass" "Archcunn" "Neoldeal" "Sloaaust" "Gymnance" "Ceraapet" "Cissanta" "Eupolaur" "Synoglag"
+[13] "Bleccart" "Pittmult" "Ficucoro" "Tasminsi"
+
+$R5_53
+ [1] "Wilkhueg" "Morijasm" "Endimuel" "Sarcstia" "Cisshypo" "Archcunn" "Bleccart" "Tabepand" "Cordstri" "Crypglau" "Cissanta" "Neoldeal"
+[13] "Cyatleic" "Acmesmit" "Quinverd" "Diplaust" "Embeaust" "Calamuel" "Ripodisc" "Crypmicr"
+
+$R5_54
+[1] "Cupaanac" "Notelong" "Smilaust" "Archcunn" "Glocferd" "Ficucoro" "Opliimbe"
+
+$R5_55
+ [1] "Hibbdent" "Smilaust" "Gahnmela" "Syncglom" "Opliimbe" "Pseuvari" "Diancaer" "Diostran" "Lomalong" "Gymnance" "Eustlati" "Psycloni"
+[13] "Eucaacme" "Sarcharv" "Cisshypo" "Rhodrube" "Violhede" "Allotoru" "Crypmicr" "Doodaspe" "stepjapd" "Synoglag"
+
+$R5_56
+ [1] "Bleccart" "Archbeck" "Diostran" "Crypglau" "Eucamico" "Diancaer" "Hibbscan" "Lomalong" "Tabepand" "Cryprigi" "Syncglom"
+
+$R5_57
+[1] "Lomalong" "Smilaust" "Cupaanac" "Melaquin" "Impecyli" "Notelong" "Pterescu"
+
+$R5_58
+ [1] "Dorysass" "Eustlati" "Melident" "Smilaust" "Pandpanp" "Acacmela" "Pyrrrupe" "Coprquad" "Marsrost" "Pellfalc" "Acmesmit"
+
+$R5_59
+ [1] "Geitcymo" "Guiosemg" "Lomalong" "Acmesmit" "Opliimbe" "Elaeaust" "Pittundu" "Asplflab" "Cissanta" "Pellfalc"
+
+$R5_5a
+ [1] "Acacmaid" "Adiaaeth" "Allotoru" "Alphexce" "Alyxrusc" "Angosubv" "Breyoblo" "Cayrclem" "Cissanta" "Claoaust" "Clemaris" "Clemopac"
+[13] "Clertome" "Crypwill" "Daviarbo" "Denhsilv" "Diosaust" "Diostran" "Dodovisc" "Doodaspe" "Ehreacua" "Elaereti" "Eucabitu" "Eucamico"
+[25] "Eurofalf" "Eustlati" "Geitcymo" "Glycclan" "Guiosemg" "Gymnance" "Macrcomm" "Marslloy" "Melimicr" "Notelong" "Oleapani" "Opliaemu"
+[37] "Opliimbe" "Parsstra" "Phylgunn" "Pittmult" "Pittrevo" "Polyeleg" "Proslasi" "Pseuvari" "Psycloni" "Rhodrube" "Sarcharv" "Scolbrau"
+[49] "Solahapa" "Solastel" "Sparjunc" "stepjapd" "Tabepand" "Tripcunn" "Tropscas"
+
+$R5_6
+ [1] "Oritexce" "Ceraapet" "Dorysass" "Lomaspic" "Caldpani" "Tasminsi" "Pittmult" "Drymmoor" "Ripodisc" "Blecwatt" "Pyrrrupe" "Bleccart"
+
+$R5_60
+ [1] "Cissanta" "Backscia" "Tetrnite" "Capparbo" "Drypdep." "Pittmult" "Diosaust" "Pellfalc" "Alchilic" "Pandpanp" "Strebrun" "Pyrrconc"
+[13] "Platsupe" "Dendexce" "Mallphil" "Pseuvari" "Dendspec" "Diostran"
+
+$R5_61
+[1] "Geitcymo" "Smilaust" "Guiosemg" "Lophconf" "Diostran" "Cupaanac" "Bleccart" "Lomalong" "Calodubi"
+
+$R5_62
+ [1] "Bleccart" "Caldpani" "Tasminsi" "Schiovat" "Troclaur" "Cryprigi" "Synoglag" "Elaereti" "Palmscan" "Callserr" "Endisieb" "Oritexce"
+[13] "Lophconf"
+
+$R5_63
+ [1] "Marsrost" "Noteveno" "Eustlati" "Geitcymo" "Opliimbe" "Pandpanp" "Pittundu" "Smilaust" "Pomaaspe" "Doodaspe" "Morijasm" "Casstrin"
+[13] "Tylobarb" "Asplflab" "Beyelasi" "Gahnmela"
+
+$R5_64
+ [1] "Dorysass" "Micrscan" "Acmesmit" "Morijasm" "Crypglau" "Arthtene" "Smilaust" "Marsrost" "Liviaust" "Gymnance" "Pandpanp" "Palmscan"
+
+$R5_65
+ [1] "Acmesmit" "Smilaust" "Ripofawc" "Syncglom" "Geitcymo" "Gymnance" "Bleccart" "Doodaspe" "Diostran" "Pittmult" "Cisshypo" "Pseuvari"
+[13] "Cissanta" "Lastmicm" "Morijasm" "Synoglag" "Guiosemg"
+
+$R5_66
+[1] "Cissanta" "Adiaform" "Diplaust" "Eupolaur" "Lophconf" "Eucadunn" "Cordpeti" "Geitcymo"
+
+$R5_67
+ [1] "Cissanta" "Crypmicr" "Guiosemg" "Neoldeal" "Synoglag" "Cordpeti" "Diostran" "Lophconf" "Eupolaur" "Doodaspe" "Alpicaer" "Smilaust"
+[13] "Rhodrube" "Bleccart" "Diplaust" "Adiaform"
+
+$R5_68
+ [1] "Acmesmit" "Aphaphil" "Casucunc" "Desmvari" "Doodcaud" "Ficucoro" "Geitcymo" "Glocferd" "Grevrobu" "Hydracut" "Lomahyst" "Maclcoch"
+[13] "Myrsvari" "Opliimbe" "Pandpanp" "Panipygm" "Parsstra" "Pratpurp" "Pseuvari" "Pterescu"
+
+$R5_7
+ [1] "Diostran" "Bleccart" "Syncglom" "Morijasm" "Synoglag" "Cordstri" "Smilaust" "Lophconf" "Cryprigi" "Allotoru" "Wilkhueg" "Cisshypo"
+[13] "Troclaur" "Crypmicr" "Pseuvari" "Diancaer"
+
+$R5_70
+ [1] "Hibbdent" "Lomalong" "Pterescu" "Acacbini" "Angocost" "Diancaer" "Hibbscan" "Liviaust" "Noteveno" "Syncglom" "Trislaur"
+
+$R5_71
+ [1] "Strebrun" "Eustlati" "Geitcymo" "Pandpanp" "Elaeaust" "Pseuvari" "Opliimbe" "Pittmult" "Pellfalc" "Alecsubc" "Noteveno" "Gymnance"
+[13] "Maclcoch" "Pittundu"
+
+$R5_72
+ [1] "Morijasm" "Diostran" "Pseuvari" "Glocferd" "Acmesmit" "Geitcymo" "Smilaust" "Opliimbe" "stepjapd" "Ficucoro" "Parsstra" "Diancaer"
+[13] "Bleccart"
+
+$R5_73
+ [1] "Smilaust" "Diostran" "Syncglom" "Synoglag" "Morijasm" "Bleccart" "Gymnance" "Calodubi" "Crypmicr" "Pandpanp" "Geitcymo" "Doodaspe"
+[13] "Acmesmit" "Eustlati" "Breyoblo" "Cissanta"
+
+$R5_74
+ [1] "Doodaspe" "Pittmult" "Cissanta" "Gymnance" "Smilaust" "Geitcymo" "Adiaform" "Diosaust" "Pellfalc" "Morijasm" "Opliimbe" "Backmyrt"
+[13] "Pandpanp" "Ficucoro" "Diostran" "Cisshypo"
+
+$R5_75
+ [1] "Eucacamn" "Cryprigi" "Hibbdent" "Diancaer" "Polysamb" "Violhede" "Cisshypo" "Hibbscan" "Eustlati" "Goodloti" "rubmoluc"
+
+$R5_76
+ [1] "Alyxrusc" "Aneiacum" "Asplflab" "Chilsylv" "Diancaer" "Hibbscan" "Hydrsibt" "Leptpete" "Leuclanc" "Lomalong" "Pandpanp" "Phebsquu"
+[13] "Pyrrrupe"
+
+$R5_77
+ [1] "Lomaspic" "Dorysass" "Pittmult" "Oritexce" "Caldpani" "Polycunn" "Tasminsi" "Micrscan" "Palmscan" "Lastdeco" "Morijasm" "Asplaust"
+[13] "Acmesmit" "Arthtene" "Dendpugi" "Schiovat" "Cisshypo"
+
+$R5_78
+ [1] "Doodaspe" "Cissanta" "Lophconf" "Diostran" "Pseuvari" "Wilkhueg" "Gymnance" "Morijasm" "Alecsubc" "Asplaust" "Geitcymo" "Synoglag"
+[13] "Tetrnite" "Psycloni" "Cordstri" "Tabepand" "Eupolaur" "Cryprigi" "Ficucoro" "Pittmult" "Smilaust"
+
+$R5_79
+ [1] "Pandpanp" "Cayrclem" "Pittmult" "Strebrun" "Mallphil" "Notelong" "Breyoblo" "Geitcymo" "Opliaemu" "Pellfalc" "Clertome" "Capparbo"
+
+$R5_8
+ [1] "Adiaform" "Cissanta" "Doodaspe" "Pellfalc" "Strebrun" "Pittmult" "Diosaust" "Claoaust" "Urtiinci" "Hymeflav" "Acmesmit" "Marsrost"
+[13] "Smilaust" "stepjapd" "Cayrclem"
+
+$R5_80
+ [1] "Cissanta" "Pandpanp" "Adiaform" "Alchilic" "Alecsubc" "Apharesi" "baloinop" "Breyoblo" "Cayrclem" "Clemglyc" "Diosaust" "Ficurubi"
+[13] "Hibiheth" "Meliazed" "Pellfalc" "Pittmult" "Pyrrrupe" "Tetrnite"
+
+$R5_80a
+ [1] "Abutoxyc" "Adiaaeth" "Alecsubc" "Alectome" "Apharesi" "Capparbo" "Casucunc" "Cayrclem" "Cissanta" "Clertome" "Corymacu" "Cupaanac"
+[13] "Elaeobov" "Ficurubi" "Impecyli" "Juncusit" "Mallphil" "Melimicr" "Nyssdiff" "Pandpanp" "Paraprup" "Pellfalc" "Scolbrau" "Strebrun"
+
+$R5_81
+ [1] "Bleccart" "Elaereti" "Pandpanp" "Callserr" "Cisshypo" "Eucapipe" "Lomalong" "Pterescu" "Diancaer" "Calodubi" "Triscoll" "Hibbdent"
+[13] "Acacmabe" "Persline" "Cyataust" "Tylobarb"
+
+$R5_82
+ [1] "Pittundu" "Doodaspe" "Melident" "Ficucoro" "Adiaaeth" "Pellfalc" "Eustlati" "Pandpanp" "stepjapd" "Cissanta"
+
+$R5_83
+ [1] "Morijasm" "Acmesmit" "Doodaspe" "Smilaust" "Marsrost" "Cisshypo" "Opliimbe" "Pandpanp" "Eustlati" "Bleccart"
+
+$R5_84
+ [1] "Acmesmit" "Crypglau" "Morijasm" "Pandpanp" "Guiosemg" "Cissanta" "Smilaust" "Gymnance" "Alecsubc" "Diostran" "Ficucoro"
+
+$R5_85
+ [1] "Arthtene" "Adiaform" "Strebrun" "Eustlati" "Gymnance" "Liviaust" "Elaeaust" "Diosaust" "Pandpanp" "Marsrost" "Morijasm" "Acmesmit"
+[13] "Claoaust" "Pittundu" "Dendexce" "Dorysass"
+
+$R5_87
+ [1] "Archcunn" "Morijasm" "Wilkhueg" "Cordstri" "Lomaspic" "Tabepand" "Alpicaer" "Bleccart" "Eucagran" "Calamuel" "Ripofawc" "Pseuvari"
+[13] "Crypmicr" "Linomono" "Cisshypo"
+
+$R5_88
+ [1] "Ceraapet" "Sarcstia" "Calamuel" "Wilkhueg" "Linomono" "Schiovat" "Acmesmit" "Cyatleic" "Platbifu" "Tasminsi" "Archcunn" "Pittmult"
+[13] "Triuyoun" "Palmscan"
+
+$R5_89
+ [1] "Capparbo" "Mallphil" "Pittmult" "Cissanta" "Cupaparv" "Pellfalc" "Opliaemu" "Embeaust" "Arytdiva" "Casemult" "Diostran" "Araucunn"
+[13] "Alchilic" "Dendphot" "Pyrrrupe" "Ripobrev" "Siphaust"
+
+$R5_8a
+ [1] "Acmesmit" "Adiaform" "Alocbris" "Angosubv" "Apharesi" "Bleccart" "Calodubi" "Carebrun" "Casucunc" "Cayrclem" "Cephceph" "Cissanta"
+[13] "Claoaust" "Clemglyc" "Cycldent" "Diostran" "Doodaspe" "Dysofras" "Ehreacua" "Entostri" "Ficucoro" "Hedyangu" "Hymeflav" "Lastacum"
+[25] "Lastdeco" "Lastmicm" "Legnmoor" "Maclcoch" "Melihaye" "Melimicr" "Neoldeal" "Opliaemu" "Pandpanp" "Pollcris" "Pseuvari" "Pyrrconc"
+[37] "Pyrrrupe" "Rubuparv" "Smilaust" "stepjapd" "Syzyaust" "Urtiinci" "Zehncunn"
+
+$R5_9
+[1] "Backmyrt" "Morijasm" "Noteveno" "Pittundu" "Pyrrrupe" "Doodaspe"
+
+$R5_90
+ [1] "Arthtene" "Asplaust" "Dendexce" "Micrscan" "Penncunn" "Diplaust" "Sarcstia" "Linomono" "Cissanta" "Pipehehe" "Pothlong" "baloinop"
+[13] "Cephceph" "Pollcris" "Pterumbr" "Akanbidw" "Heriacti" "Alocbris" "Morijasm" "Dorysass" "Neoldeal" "Lastmuni" "Sloawool"
+
+$R5_91
+ [1] "Calamuel" "Cordrubr" "Archcunn" "Neoldeal" "Linomono" "Pothlong" "Diospent" "Diostran" "Tropscas" "Mallphil" "Wilkhueg" "Ripoalbu"
+[13] "Meiosten" "Arthtene" "Hedrporp" "Crypobov"
+
+$R5_93
+[1] "Ceraapet" "Lomalong" "Callserr" "Morijasm" "Calodubi" "Pittundu"
+
+$R5_94
+ [1] "Elaereti" "Lomalong" "Allotoru" "Syncglom" "Eucapilu" "Pterescu" "Diancaer" "Hibbscan" "Troclaur" "Calodubi" "Leuclanc" "Persmedi"
+[13] "Eucamico" "Bleccart" "Lomasila"
+
+$R5_95
+ [1] "Geitcymo" "Psycloni" "Myrsvari" "Synoglag" "Diosaust" "Eucasali" "Smilaust" "Cissanta" "Doodaspe" "Gymnance" "Cisshypo" "Diostran"
+[13] "Pellfalc"
+
+$R5_96
+ [1] "Eustlati" "Acmesmit" "Geitcymo" "Doodaspe" "Pandpanp" "Opliimbe" "Liviaust" "Morijasm" "Marsrost" "Pseuvari" "Smilaust" "Tylobarb"
+[13] "Clertome" "Gymnance" "Synoglag" "Noteveno" "Pittundu"
+
+$R5_97
+ [1] "Archcunn" "Linomono" "Neoldeal" "Ripodisc" "Asplaust" "Sloaaust" "Sarcstia" "Pothlong" "Endimuel" "Morijasm" "Tabepand" "Wilkhueg"
+[13] "Polycunn" "Sloawool" "Platbifu" "Diplaust"
+
+$R5_98
+ [1] "Eucacamn" "Elaereti" "Hibbscan" "Persmedi" "Smilglyc" "Caldpani" "Eucacame" "Acacmela" "Pterescu" "Cyataust" "Diancaer" "Drymmoor"
+[13] "Leuclanc" "Petecirr" "Sticloba" "Acroaggr" "Callserr" "Hibbdent"
+
+$R6_10
+[1] "Micrstip" "Hydrlaxi" "Angoflor" "Arisvaga" "Cheisies" "Glycclan"
+
+$R6_100
+[1] "Notemicr" "Brueaust" "Eucapill" "Acacdean" "Solapapv" "Cariovat" "Cypegrac" "Poa.sieb" "Glosbidn"
+
+$R6_101
+[1] "Notemicr" "Opliaemu" "Pandpanp" "Pellfalc" "Alecsubs" "Eustlati" "Adiaaeth" "Lomalong"
+
+$R6_102
+ [1] "Pimelati" "Clemglyc" "Eucaalbe" "Dichspea" "Solabrow" "Acrorigi" "Astrhumi" "Dodovisc" "Glyctaba" "Hydrlaxi" "Indiaust" "Bracpopu"
+
+$R6_103
+[1] "Notemicr" "Cariovat" "Callglau" "Alphexce" "Beyevisc" "Eucamela"
+
+$R6_104
+[1] "Acacharp" "Apopanom" "Geijparv" "Casucris" "Eucapopb" "Rhagspin" "Einanuta" "Eremmitc"
+
+$R6_105
+[1] "Boerdomi" "Enteacic" "Solaesur" "Chlotrun" "Portoler" "Bothdecd" "Arisramo"
+
+$R6_106
+[1] "Austaris" "Marsdrum" "Cypebifa" "Oxalpere" "Boerdomi"
+
+$R6_107
+[1] "Arisramo" "Sporcreb" "Chlovent" "Glyctaba" "Chryapic" "Dichrepe" "Sidacorr"
+
+$R6_108
+[1] "Arisramo" "Eucamell" "Cheisies" "Poa.sieb"
+
+$R6_109
+[1] "Casucunc" "Urtiinci" "Notemicr" "Micrstip" "Rumebrow" "Lomalong" "Commcyan"
+
+$R6_11
+[1] "Callglau" "Eucacreb" "Austscab" "Desmbrac" "Arisramo" "Cheisies" "Beyevisc" "Pimeneo."
+
+$R6_110
+[1] "Desmvari" "Bracpopu" "Notemicr" "Arisramo" "Clemglyc" "Cheisies" "Dichrepe" "Lomamulm" "Austvert"
+
+$R6_111
+[1] "Desmvari" "Dichspea" "Cheisies" "Eucacreb" "Cymbrefr" "Ajugaust"
+
+$R6_112
+ [1] "Austscab" "Callendl" "Cheisies" "Lomafili" "Eucacreb" "Desmbrac" "Micrstip" "Hibbobtu" "Lepilate" "Oleaelle"
+
+$R6_113
+[1] "Notemicr" "Sparjunc" "Bracpopu" "Cheisies" "Gerasola"
+
+$R6_114
+[1] "Poa.sieb" "Desmvari" "Dichrepe" "Lissstri" "Eucacali" "Eucamell"
+
+$R6_116
+[1] "Notemicr" "Pandpanp" "Pimeneo." "Glyctaba" "Micrstip" "Ficurubi" "Dichspea" "Cheisies"
+
+$R6_117
+[1] "Cymbrefr" "Micrstip" "Arisramo" "Calocuni" "Angoflor" "Meliurce" "Echicaes" "Gerasola"
+
+$R6_118
+[1] "Oxalpere" "Sclemuri" "Enteacic" "Converub" "Dichrepe" "Einanuta" "Sidatric" "Chamdrum" "Careinve"
+
+$R6_119
+ [1] "Callglau" "Allolueh" "Eucacreb" "Calocuni" "Eraglacu" "Austscab" "Cheisies" "Acacdean" "Lomamulm" "Panieffu" "Cypegrac" "Arisjeri"
+
+$R6_12
+[1] "Dodovisc" "Eucadaws" "Acacixio" "Gahnaspe" "Dichrepe" "Callendl"
+
+$R6_120
+[1] "Allolueh" "Enteacic" "Callglau" "Eraglacu" "Eucapill"
+
+$R6_121
+[1] "Impecyli" "Eucablak" "Angoflor" "Arunnepa" "Micrstip" "Lomalong"
+
+$R6_122
+[1] "Dichseri" "Arisramo" "Bothdecd"
+
+$R6_123
+ [1] "Beyevisc" "Austscab" "Dodovisc" "Notemicr" "Psydodot" "Cymbrefr" "Elaeaust" "Eucacreb" "Geijparv" "Acacdean"
+
+$R6_124
+[1] "Ariscapu" "Callglau" "Acacdean" "Cheisies" "Acacleil"
+
+$R6_125
+[1] "Callglau" "Austscab" "Dichrepe" "Careinve"
+
+$R6_126
+[1] "Eucaalbe" "Cassquin" "Oleaelle" "Desmbrac" "Dodovisc" "Desmvari" "Notemicr" "Hibbobtu"
+
+$R6_127
+[1] "Notemicr" "Clemglyc" "Eustlati" "stepjapd" "Desmvari" "Dodovisc" "Eucaalbe" "Gerasola" "Angoflor"
+
+$R6_128
+ [1] "Dodovisc" "Desmbrac" "Desmvari" "Hibbobtu" "Notemicr" "Cassquin" "Eucacreb" "Hardviol" "Meliurce" "Dichspea" "Pultcune" "Callendl"
+[13] "Brascili" "Sigeorio"
+
+$R6_129
+ [1] "Rytibipa" "Arisramo" "Desmvari" "Dichrepe" "Sidacorr" "Calolapp" "Desmbrac" "Dodotria" "Oleaelle" "Gahnaspe" "Abutoxyc" "Pasidist"
+[13] "Vittcune" "Einahast" "Cymbrefr" "Hibistur" "Solastel" "Arisvaga" "Bracpopu" "Digiparv" "Glyctaba" "Mairench"
+
+$R6_13
+[1] "Cassarcu" "Austscab" "Cheisies" "Dichrepe" "Gahnaspe" "Arisramo" "Callendl" "Calocuni"
+
+$R6_130
+[1] "Eucadeal" "Cymbrefr" "Cheisies" "Triploli" "Callglau" "Sigeaust"
+
+$R6_131
+[1] "Enteacic" "Austscab" "Sidacorr" "Einanuta" "Oxalpere" "Sclemuri" "Mairmicp" "Dichrepe"
+
+$R6_132
+[1] "Arisramo" "Cheidist" "Desmbrac" "Cymbrefr" "Eucatere" "Glosbidn" "Desmvari"
+
+$R6_133
+[1] "Dodovisc" "Cheisies" "Notemicr" "Eucaalbe" "Bracpopu" "Bursspin" "Desmbrac"
+
+$R6_134
+ [1] "Callglau" "Desmbrac" "Eucamela" "Cypegrac" "Notemicr" "Cymbrefr" "Arisramo" "Glosbidn" "Desmvari" "Austscab" "Cheidist" "Dichspea"
+[13] "Pimeneo." "Brueaust"
+
+$R6_135
+ [1] "Dichseri" "Arislept" "Mentsatu" "Oxalpere" "Cymbrefr" "Chamdrum" "Converub" "Eragleps" "Paniquee" "Pimeneo." "Mairmicp" "Brueaust"
+[13] "Bothbilo"
+
+$R6_136
+[1] "Arisramo" "Cymbrefr" "Cypegrac" "Rostadsn" "Chryapic" "Dichspea" "Desmbrac" "Eremdebi" "Calolapp"
+
+$R6_137
+[1] "Poa.sieb" "Sorgleio" "Gerasola" "Hydrlaxi" "Themtria" "Desmvari" "Dichrepe" "Aspeconf" "Bothmacr"
+
+$R6_138
+[1] "Eucablak" "Micrstip" "Cheisies" "Gerasola" "Dichrepe" "Rumebrow"
+
+$R6_139
+ [1] "Poa.sieb" "Eucalaev" "Desmvari" "Austrace" "Echiovat" "Glycclan" "Lomamulm" "Acaenova" "Aspeconf" "Angoflor"
+
+$R6_14
+[1] "Oleaelle" "Cymbrefr" "Eucalaev" "Arisramo" "Desmvari" "Glycclan" "Cheisies"
+
+$R6_140
+[1] "Eucaalbe" "Austscab" "Calolapp" "Cheisies" "Arisramo" "Dichrepe" "Glyctaba"
+
+$R6_141
+[1] "Eucaalbe" "Poa.sieb" "Themtria" "Cheisies"
+
+$R6_142
+[1] "Allolueh" "Callglau" "Eucacreb" "Austscab" "Lomamulm" "Acacdean"
+
+$R6_143
+[1] "Eucamell" "Lomamulm"
+
+$R6_144
+ [1] "Callglau" "Pimetric" "Austscab" "Cheisies" "Rhodmosc" "Sidacunn" "Ptilpoly" "Einanuta" "Oxalchno" "Angibrac" "Calaerem" "Calocuni"
+[13] "Chamdrum" "Chencurv" "Eraglacu" "Fimbdich" "Pimemicm" "Planvari"
+
+$R6_145
+[1] "Oleaelle" "Eucacreb" "Notemicr" "Cheisies" "Meliurce" "Bracpopu"
+
+$R6_146
+ [1] "Eucalaev" "Hibbobtu" "Dicemicr" "Meliurce" "Oleavisc" "Angoflor" "Gerasola" "Poa.sieb" "Glycclan" "Desmvari" "Lepilate" "Hardviol"
+[13] "Cymbrefr" "Elymscab" "Lomalong"
+
+$R6_147
+ [1] "Notemicr" "Oleaelle" "Clemglyc" "Galilept" "Gerasola" "Desmvari" "Poa.sieb" "Bracpopu" "Dichspea" "Pandpanp" "Pellfalc"
+
+$R6_148
+ [1] "Angoflor" "Notemicr" "Gerasola" "Arisramo" "Cheisies" "Desmvari" "Swaigale" "Callglau" "Lomalong" "Cymbrefr" "Desmbrac" "Rumebrow"
+[13] "Dodovisc"
+
+$R6_15
+[1] "Arisramo" "Arisvaga" "Cassarcu" "Cheisies" "Micrstip" "Austscab" "Desmvari"
+
+$R6_150
+[1] "Casucunc" "Cynodact" "Rumebrow" "Dichrepe" "Austvert" "Urtiinci"
+
+$R6_151
+[1] "Themtria" "Sorgleio" "Aspeconf" "Poa.sieb" "Cymbrefr" "Desmvari"
+
+$R6_152
+ [1] "Desmvari" "Dichrepe" "Arisramo" "Elymscab" "Gerasola" "Acaenova" "Austrace" "Galilept" "Notemicr" "Cheisies" "Glycclan" "Plandebi"
+
+$R6_153
+[1] "Gonoelat" "Austscab" "Cheisies" "Callglau" "Rytiseta" "Eucadwye" "Micrstip"
+
+$R6_154
+[1] "Calocuni" "Sidacorr" "Enteacic" "Calolapp" "Converub" "Austscab" "Cheisies" "Solaesur" "Elymscab"
+
+$R6_155
+ [1] "Acacdora" "Cheisies" "Daucgloc" "Haloaspe" "Rytiseta" "Austscab" "Calaerem" "Callglau" "Casslaev" "Crassieb" "Elymscab" "Erodcrin"
+[13] "Eucadeal" "Oxalpere" "Pandpanp" "Paridebi" "Parseuca" "Tricelat" "Vittgrac"
+
+$R6_156
+[1] "Callglau" "Cheisies" "Austscab" "Einanuta" "Lomafili" "Calocuni"
+
+$R6_157
+ [1] "Notemicr" "Desmbrac" "Arisramo" "Abutoxyc" "Geijparv" "Cymbrefr" "Cheisies" "Pandpanp" "Solapapv" "Alphexce"
+
+$R6_158
+[1] "Casucris" "Geijparv" "Eremmitc" "Rhagspin"
+
+$R6_159
+[1] "Careinve" "Oxalpere" "Rumebrow" "Eucapopb" "Callglau" "Dichrepe" "Einanuta" "Enteacic" "Calocuni"
+
+$R6_160
+[1] "Callglau" "Eucapopb" "Geijparv" "Austscab"
+
+$R6_161
+[1] "Cheisies" "Arisramo" "Callglau" "Desmvari" "Austscab" "Fimbdich"
+
+$R6_162
+ [1] "Callglau" "Austscab" "Cypegrac" "Calocuni" "Cheisies" "Acacdean" "Eraglacu" "Einanuta" "Evolalsi" "Oxalpere" "Geijparv"
+
+$R6_163
+[1] "Cypegrac" "Dodovisc" "Myopmont" "Notemicr" "Dichseri" "Paniquee" "Geijparv"
+
+$R6_164
+[1] "Eucaalbe" "Swaigale" "Desmbrac" "Pimeneo." "Arisramo" "Pimecurv" "Brueaust"
+
+$R6_165
+[1] "Pandpanp" "Dichrepe" "Rytilong" "Austscab" "Beyevisc" "Callglau"
+
+$R6_166
+[1] "Eucaalbe" "Notemicr" "Beyevisc" "Cymbrefr" "Oleaelle" "Dodovisc"
+
+$R6_167
+[1] "Austscab" "Callglau" "Arisramo" "Rytimont" "Allolueh" "Eucacreb"
+
+$R6_168
+ [1] "Rhagpara" "Sparjunc" "Geijparv" "Elaeaust" "Oleaelle" "Clemopac" "Marsflav" "Notemicr" "Parseuca" "Austvert" "Urtiinci" "Alecolei"
+[13] "Eucaalbe" "Pandpanp"
+
+$R6_169
+[1] "Beyevisc" "Trioscar" "Xantglau" "Acacdeco" "Oleaelle" "Themtria"
+
+$R6_17
+[1] "Micrstip" "Dichrepe" "Careinve" "Rumebrow" "Arisramo" "Glyctaba" "Gerasola"
+
+$R6_170
+[1] "Eragleps" "Micrstip" "Cymbrefr" "Cheisies" "Bothmacr" "Cypegrac" "Desmvari" "Eucatere"
+
+$R6_171
+[1] "Austvert" "Austscab" "Boerdomi" "Einanuta" "Calolapp" "Oxalpere" "Cypegrac" "Sidacorr" "Enteacic"
+
+$R6_172
+[1] "Arisramo" "Eucaalbe" "Notemicr" "Desmbrac" "Oleaelle" "Cymbrefr" "Desmvari" "Glyctaba" "Austrace"
+
+$R6_173
+[1] "Callglau" "Elymscab" "Rytiseta" "Austscab" "Einanuta" "Oxalchno" "Cheiaust" "Dichrepe" "Sidacorr"
+
+$R6_175
+[1] "Dichrepe" "Daucgloc" "Glycclan" "Arisramo" "Swaigale" "Poa.sieb" "Dicemicr" "Careinve"
+
+$R6_176
+[1] "Themtria" "Elymscab" "Leprsqua" "Schoapog" "Poa.sieb" "Aspeconf" "Halohete" "Chryapic"
+
+$R6_177
+[1] "Elymscab" "Bothmacr" "Lomafili" "Wahllute" "Converub" "Lomamulm"
+
+$R6_178
+[1] "Micrstip" "Dichrepe" "Hydrlaxi" "Angoflor" "Cheisies" "Clemglyc" "Gerasola"
+
+$R6_179
+ [1] "Cassquin" "Wahlcomm" "Bursspin" "Rytifulv" "Sigeaust" "Dichspea" "Hardviol" "Indiaust" "Eucaalbe" "Myopmont"
+
+$R6_18
+ [1] "Dichrepe" "Glycclan" "Clemglyc" "Cypegrac" "Micrstip" "Notemicr" "Desmvari" "Bothdecd" "Cheisies" "Calolapp" "Desmbrac"
+
+$R6_180
+[1] "Arisramo" "Austscab" "Calolapp" "Chlovent" "Sidacorr"
+
+$R6_181
+[1] "Desmbrac" "Cymbrefr" "Cheisies" "Calolapp" "Eucaalbe"
+
+$R6_182
+[1] "Dichrepe" "Poa.sieb" "Micrstip" "Desmvari" "Eucablak" "Eucamell" "Hydrlaxi" "Glycclan"
+
+$R6_183
+[1] "Poa.sieb" "Dichrepe" "Pratpurp" "Desmvari" "Micrstip" "Gerasola" "Cymblaws"
+
+$R6_184
+[1] "Dichrepe" "Austvert" "Glyctaba" "Micrstip" "Eremdebi"
+
+$R6_185
+[1] "Arisramo" "Bothmacr" "Desmvari" "Lomafili" "Poa.sieb" "Austrace" "Dicemicr" "Austscab" "Cheisies"
+
+$R6_186
+[1] "Cymbrefr" "Cassquin" "Lomamulm" "Bursspin" "Eucamell" "Gerasola" "Arisramo" "Dichrepe" "Lissstri"
+
+$R6_187
+ [1] "Cheisies" "Notemicr" "Eucacreb" "Micrstip" "Calolapp" "Arisramo" "Cymbrefr" "Glyctaba" "Dichrepe" "Arisvaga"
+
+$R6_188
+[1] "Eucapill" "Callglau" "Austscab" "Cypegrac"
+
+$R6_189
+[1] "Oleaelle" "Notemicr" "Eucadaws" "Cymbrefr" "Desmbrac" "Brueaust" "Dodovisc"
+
+$R6_19
+[1] "Eucacama" "Austvert" "Cynodact" "Rumebrow" "Urtiinci" "Commcyan"
+
+$R6_190
+[1] "Dichrepe" "Cassquin" "Cheisies" "Eucaalbe" "Bursspin" "Ajugaust" "Lomamulm" "Wahlcomm" "Clemglyc"
+
+$R6_191
+[1] "Cheisies" "Einanuta" "Angoflor" "Micrstip" "Rumebrow" "Arisramo" "Bracpopu"
+
+$R6_2
+[1] "Cymbrefr" "Eucaalbe" "Dichrepe" "Desmvari" "Glyctaba" "Swaigale" "Dichseri" "Aspeconf" "Mentsatu"
+
+$R6_20
+[1] "Notemicr" "Sigeorio" "Desmvari" "Oleaelle" "Micrstip" "Dichrepe" "Clemglyc" "Pratpurp" "Desmbrac"
+
+$R6_21
+[1] "Chryapic" "Bothmacr" "Converub" "Austscab" "Vittmuel" "Acaeovin" "Elymscab" "Themtria"
+
+$R6_22
+[1] "Callendl" "Cheisies" "Cymbrefr" "Lomamulm" "Arisramo" "Meliurce"
+
+$R6_23
+ [1] "Cheisies" "Lomamulm" "Cassarcu" "Arisramo" "Astrhumi" "Micrstip" "Arisvaga" "Goodhede" "Styptrif" "Cymbrefr" "Laxmgrac" "Lomafili"
+
+$R6_24
+[1] "Rumebrow" "Callvimi" "Dichrepe" "Casucunc" "Notemicr" "Urtiinci"
+
+$R6_25
+ [1] "Callendl" "Eucacreb" "Meliurce" "Cheisies" "Notemicr" "Desmvari" "Callglau" "Cypegrac" "Dodovisc" "Lomamulm" "Desmbrac"
+
+$R6_26
+[1] "Notemicr" "Micrstip" "Melabrac" "Austvert" "Urtiinci" "Careinve"
+
+$R6_27
+ [1] "Cymbrefr" "Callglau" "Hibbobtu" "Cheisies" "Eucadeal" "Dicemicr" "Cheidist" "Arisramo" "Glycclan" "Lomamulm" "Oleaelle" "Casslaev"
+
+$R6_28
+[1] "Callglau" "Lomamulm" "Acacdean" "Arisramo" "Acacleil"
+
+$R6_29
+[1] "Eucaalbe" "Austscab" "Callglau" "Cymbrefr" "Desmbrac" "Arisramo" "Brueaust" "Notemicr" "Dichspea"
+
+$R6_3
+ [1] "Hibbobtu" "Cymbrefr" "Dichrepe" "Desmvari" "Dicemicr" "Cheisies" "Glycclan" "Meliurce" "Arisramo" "Desmbrac" "Lomamulm" "Casslaev"
+
+$R6_31
+[1] "Eucadeal" "Notemicr" "Rytilong" "Acacchee" "Callglau" "Einahast" "Oleaelle"
+
+$R6_32
+[1] "Leptbrev" "Leucmuti" "Cheisies" "Eucadeal" "Meliurce" "Cymbrefr" "Callendl"
+
+$R6_33
+[1] "Eucacama" "Casucunc" "Einanuta"
+
+$R6_34
+[1] "Callglau" "Eucadeal" "Meliurce" "Eucamela"
+
+$R6_35
+[1] "Cymbrefr" "Glyctaba" "Eremdebi" "Arisramo" "Brueaust" "Dichrepe" "Cheisies" "Einanuta" "Lomamulm"
+
+$R6_36
+[1] "Solaesur" "Dichseri" "Neptgrag" "Chlotrun" "Arislept" "Vachfarn" "Chamdrum" "Converub"
+
+$R6_37
+ [1] "Dichseri" "Panideco" "Eriocreb" "Altedent" "Sclemuri" "Scleobli" "Chlotrun" "Vachfarn" "Enteacic" "Solaesur"
+
+$R6_38
+[1] "Chlotrun" "Dichseri" "Solaesur" "Austaris" "Sclemuri" "Sporcaro" "Oxalpere" "Chamdrum"
+
+$R6_39
+[1] "Dichseri" "Arislept" "Austaris" "Verbgaud"
+
+$R6_4
+ [1] "Capplasi" "Abutoxyc" "Geijparv" "Casucris" "Enchtome" "Chlotrun" "Alecolei" "Sporcaro" "Austvert" "Oxalpere" "Rhagspin" "Einahast"
+
+$R6_40
+ [1] "Notemicr" "Cariovat" "Geijparv" "Sparjunc" "Elaeaust" "Parseuca" "Pandpanp" "Austvert" "Clemmicr" "Abutoxyc"
+
+$R6_41
+[1] "Austaris" "Boerdomi" "Rytibipa" "Oxalpere"
+
+$R6_42
+[1] "Callglau" "Cypegrac" "Dichspea" "Cymbrefr" "Cheisies" "Austscab" "Pimeneo." "Notemicr" "Austvert"
+
+$R6_43
+[1] "Panieffu" "Bothmacr" "Chlotrun" "Austscab" "Oxalpere" "Cymblaws"
+
+$R6_44
+[1] "Austvert" "Eucamell" "Careinve" "Rumebrow"
+
+$R6_45
+[1] "Austscab" "Rumebrow" "Austbige" "Eucamell" "Oxalpere" "Einanuta"
+
+$R6_46
+[1] "Callglau" "Austscab" "Arisramo" "Desmbrac"
+
+$R6_48
+ [1] "Cheisies" "Callglau" "Eucacreb" "Micrstip" "Meliurce" "Notemicr" "Alphexce" "Acacchee" "Arisvaga" "Austscab" "Lomamulm"
+
+$R6_49
+[1] "Dichrepe" "Eucamell" "Micrstip" "Hydrlaxi" "Arisramo" "Gerasola" "Angoflor"
+
+$R6_5
+[1] "Desmbrac" "Cymbrefr" "Notemicr" "Oleaelle" "Callglau" "Eucaalbe"
+
+$R6_50
+ [1] "Gerasola" "Cymbrefr" "Angoflor" "Desmvari" "Micrstip" "Galilept" "Notemicr" "Scuthumi" "Lomalong" "Echicaes" "Hydrlaxi" "Careappr"
+[13] "Impecyli" "Eucablak" "Sclebifl" "Cheisies" "Acaenova"
+
+$R6_51
+ [1] "Meliurce" "Oleaelle" "Cymbrefr" "Desmbrac" "Lomamulm" "Cheisies" "Poa.sieb" "Glycclan" "Cassquin" "Desmvari" "Austrace" "Arisvaga"
+[13] "Eucamacr" "Pimeneo."
+
+$R6_52
+[1] "Cheisies" "Fimbdich" "Panieffu" "Halohete" "Triploli" "Cymbrefr" "Eulaaure"
+
+$R6_53
+[1] "Angoflor" "Hibbobtu" "Cymbrefr" "Cheisies" "Desmvari" "Arisramo" "Lomamulm"
+
+$R6_54
+[1] "Bothdecd" "Arisramo" "Sporcreb" "Rumebrow" "Panieffu" "Cheisies" "Eragleps" "Austscab"
+
+$R6_55
+[1] "Brueaust" "Geijparv" "Casucris" "Abutoxyc" "Cypegrac" "Enchtome" "Eremmitc"
+
+$R6_56
+[1] "Arisramo" "Cheisies" "Eragbrow" "Cymbrefr" "Panieffu" "Fimbdich"
+
+$R6_57
+[1] "Oleaelle" "Eucacale" "Eucadeal" "Cheisies" "Cymbrefr" "Cheidist" "Lomamulm"
+
+$R6_58
+ [1] "Notemicr" "Dichrepe" "Cymbrefr" "Arisramo" "Glyctaba" "Chlovent" "Bracpopu" "Austscab" "Desmbrac" "Calolapp" "Psydodot" "Eucamolu"
+
+$R6_59
+[1] "Geijparv" "Austvert" "Oxalpere" "Einanuta" "Abutoxyc" "Sidacorr" "Austscab"
+
+$R6_6
+[1] "Elymscab" "Austscab" "Dichspea" "Eucaalbe" "Daucgloc" "Rumebrow" "Careinve" "Glyctaba" "Austrace"
+
+$R6_60
+[1] "Arisvaga" "Callglau" "Cheisies" "Acacdean" "Austscab" "Crassieb"
+
+$R6_61
+[1] "Geijparv" "Austscab" "Solapapv" "Callglau"
+
+$R6_62
+[1] "Notemicr" "Cariovat" "Callglau" "Eucamela" "Beyevisc" "Desmbrac" "Sclemack" "Cymbrefr"
+
+$R6_63
+[1] "Elymscab" "Eucaalbe" "Senequad" "Dichrepe" "Austscab" "Glyctaba" "Lissstri" "Desmvari" "Einanuta"
+
+$R6_64
+[1] "Cayrclem" "Notemicr" "Pandpanp" "Urtiinci" "Ficurubi" "Eustlati" "Micrstip"
+
+$R6_65
+[1] "Austscab" "Micrstip" "Cheisies" "Desmvari" "Ajugaust" "Austrace"
+
+$R6_66
+[1] "Bothdecd" "Arisramo" "Dichseri" "Glyctaba" "Dichrepe" "Cheisies" "Chlotrun" "Cymbrefr"
+
+$R6_67
+[1] "Arisramo" "Austscab" "Daucgloc" "Rumebrow" "Cheisies" "Bothdecd" "Notemicr" "Cymbrefr"
+
+$R6_68
+ [1] "Daucgloc" "Eucadeal" "Acacchee" "Oleaelle" "Rytipall" "Bulbsemi" "Cheisies" "Galilept" "Isotaxil" "Bracpopu"
+
+$R6_69
+[1] "Callglau" "Cheisies" "Arisramo" "Cheidist" "Leptbrev" "Cymbrefr" "Eucadeal" "Meliurce"
+
+$R6_7
+[1] "Cymbrefr" "Arisramo" "Cheisies" "Hibbobtu" "Gerasola" "Chryapic"
+
+$R6_70
+ [1] "Oleaelle" "Dichrepe" "Cheisies" "Gerasola" "Hydrlaxi" "Scuthumi" "Desmvari" "Hibbobtu" "Angoflor" "Clemglyc" "Micrstip"
+
+$R6_71
+[1] "Eucaalbe" "Lomafili" "Gerasola" "Hydrlaxi" "Micrstip" "Poa.sieb" "Rumebrow"
+
+$R6_72
+[1] "Cheisies" "Austscab" "Eucadeal" "Arisramo"
+
+$R6_73
+[1] "Eucaalbe" "Einanuta" "Austvert" "Austscab" "Dichrepe" "Arisramo"
+
+$R6_74
+[1] "Austscab" "Einanuta" "Calolapp" "Calocuni" "Oxalpere" "Eucamica"
+
+$R6_75
+[1] "Callglau" "Cheisies" "Austscab" "Arisjeri" "Lomamulm" "Acacdean" "Glyctaba" "Einanuta"
+
+$R6_76
+[1] "Eucamell" "Bothmacr" "Elymscab" "Lomafili" "Micrstip" "Austscab" "Rumebrow"
+
+$R6_77
+[1] "Cheisies" "Austscab" "Callglau" "Allolueh" "Lomafili" "Calocuni" "Rytieria"
+
+$R6_78
+[1] "Ariscapu" "Einahast" "Callglau" "Cheisies" "Eucamela" "Alphexce"
+
+$R6_79
+[1] "Callglau" "Allolueh" "Eragelon" "Eucacreb" "Arisramo" "Fimbdich" "Phylvirg"
+
+$R6_8
+ [1] "Austscab" "Desmbrac" "Callglau" "Desmvari" "Cheisies" "Cypegrac" "Calolapp" "Austrace" "Cymbrefr" "Rostadsn" "Arisramo" "Dichspea"
+
+$R6_80
+ [1] "Callglau" "Cymbrefr" "Cheidist" "Cheisies" "Arisvaga" "Meliurce" "Eucadeal" "Eucamela" "Desmbrac" "Arisramo"
+
+$R6_81
+[1] "Bothdecd" "Austvert" "Mairmicp" "Arisramo"
+
+$R6_82
+[1] "Arunnepa" "Eucablak" "Cheisies" "Halohete"
+
+$R6_83
+[1] "Eremdebi" "Allolueh" "Cymbrefr" "Acacambl" "Eucacreb" "Lomaconf"
+
+$R6_84
+[1] "Acacpend" "Einanuta" "Enchtome" "Enteacic" "Mairench" "Mairmicp" "Acacsaln" "Eremdebi" "Notemicr"
+
+$R6_85
+ [1] "Gerasola" "Desmvari" "Dichrepe" "Aspeconf" "Austrace" "Poa.sieb" "Hydrlaxi" "Elymscab" "Acaeovin" "Glycclan" "Bothmacr" "Micrstip"
+[13] "Acaenova"
+
+$R6_86
+ [1] "Lomalong" "Clemglyc" "Angoflor" "Poa.sieb" "Oleaelle" "Pellfalc" "Eustlati" "Adiaaeth" "Gerasola" "Micrstip" "Desmvari" "Lepilate"
+[13] "Pterescu" "Wahlcomm"
+
+$R6_87
+[1] "Cheisies" "Hydrlaxi" "Arisramo" "Oxalpere" "Rytirace" "Gerasola" "Micrstip" "Bothmacr"
+
+$R6_88
+ [1] "Eucamell" "Eucablak" "Gerasola" "Desmvari" "Bothmacr" "Hydrlaxi" "Lomafili" "Poa.sieb" "Rumebrow" "Acaeovin" "Aspeconf"
+
+$R6_89
+[1] "Bursspin" "Themtria" "Poa.sieb" "Lomalong" "Stelpung" "Desmvari" "Glycclan" "Elymscab" "Galilept"
+
+$R6_9
+ [1] "Hibbobtu" "Poa.sieb" "Themtria" "Arisramo" "Dichseri" "Acacimpl" "Glycclan" "Eucamacr" "Lomamulm" "Sorgleio" "Aspecunn" "Cymbrefr"
+[13] "Panieffu" "Wahlcomm"
+
+$R6_90
+[1] "Themtria" "Tricelat" "Eucamell" "Poa.sieb" "Elymscab" "Lomafili" "Acaeovin"
+
+$R6_91
+ [1] "Poa.sieb" "Converub" "Austscab" "Elymscab" "Oxalpere" "Aspeconf" "Vittmuel" "Austbige" "Chryapic" "Ennenigr"
+
+$R6_92
+[1] "Poa.sieb" "Lomafili" "Eucablak" "Acaeovin" "Themtria" "Lomamulm" "Elymscab" "Gerasola" "Gonotetr"
+
+$R6_93
+[1] "Eucamica" "Lomafili" "Elymscab" "Sidacorr" "Einanuta" "Austscab" "Calocuni" "Rytiseta"
+
+$R6_94
+ [1] "Cheisies" "Hydrlaxi" "Austscab" "Wahlstri" "Eucablak" "Eucaalbe" "Gerasola" "Lomafili" "Oxalpere" "Rumebrow" "Arisramo"
+
+$R6_95
+[1] "Eucaalbe" "Lomafili" "Elymscab" "Austscab" "Arisramo"
+
+$R6_96
+ [1] "Callendl" "Cheisies" "Leucmuti" "Cymbrefr" "Desmvari" "Dicemicr" "Pomaumbe" "Hibbobtu" "Angoflor" "Arisramo" "Themtria"
+
+$R6_97
+ [1] "Micrstip" "Austscab" "Hydrlaxi" "Elymscab" "Lomafili" "Desmvari" "Careinve" "Austrace" "Eucamell" "Einanuta"
+
+$R6_98
+[1] "Dichseri" "Mentsatu" "Aspeconf" "Bothbilo" "Arislept" "Cymbrefr" "Paniquee" "Rytibipa"
+
+$R6_99
+[1] "Eucamolu" "Dichrepe" "Cymbrefr" "Notemicr" "Arisramo"
+
+$R10_1
+ [1] "Calytetr" "leptnova" "Leucneoa" "Arisjeri" "Casspube" "Entostri" "Gonoteuc" "Goodbell" "Lobeandr" "Tracincs"
+
+$R10_101
+[1] "Blecindi" "Eucarobu" "Gahnclar" "Melaquin" "Melalina" "Baumarti" "Entomarg"
+
+$R10_102
+[1] "Bankinte" "Acaclonf" "Impecyli" "stepjapd"
+
+$R10_103
+[1] "Zoysmacr" "Junckraa"
+
+$R10_104
+[1] "Callcolu" "Monoelli" "Pterescu" "Lomalong" "Pomaumbe" "Leucmarg" "Acaculic" "Austdulc"
+
+$R10_105a
+ [1] "Asplaust" "Breyoblo" "Callcolu" "Cayrclem" "Cupaanac" "Cypestra" "Davasoli" "Geitcymo" "Jagepsps" "Maclcoch" "Myrsvari" "Notelong"
+[13] "Ottograc" "Platbifu" "Smilaust"
+
+$R10_106
+[1] "Balotetr" "Leptpoly" "Eucarobu" "Leuclanc" "Nemasqua" "Pterescu" "Elaereti"
+
+$R10_107
+[1] "Bankaemu" "Causrecu" "Acaculic" "Bosshete" "Pterescu" "Diancaer" "Lomalong"
+
+$R10_108
+[1] "Trigstri" "Bolbcald" "Junckraa"
+
+$R10_109
+ [1] "Bankinte" "Baumjunc" "Casuglau" "Entomarg" "Impecyli" "Acaclonf" "Diancaer" "Dodotriq" "Kunzambi" "Leptjuni" "Lomalong" "Melaeric"
+[13] "Violhede"
+
+$R10_11
+ [1] "Lissstri" "Alloophi" "Lepilate" "Acacserp" "Eucaserp" "Grevgran" "Leptbrev" "Trioscar" "Xantglau" "Hibbripa" "Schoapog"
+
+$R10_110
+[1] "Philtrac" "Ozotobco" "Platlanc"
+
+$R10_111
+[1] "Backmyrt" "Eucapunc" "Bursspin"
+
+$R10_112a
+ [1] "Aotueric" "Borofalc" "Casspube" "Drosspat" "Empominu" "Gahnsieb" "Gleidica" "Hibbsalc" "Leptlive" "Sprespre"
+
+$R10_112b
+[1] "Baumtere" "Blecnudu" "Callcitr" "Empominu" "Gahnsieb" "Gleidica" "Gonomicr" "Leptcont" "Pterescu"
+
+$R10_113
+[1] "Baumarti" "Calllins" "Epalaust" "Melalina"
+
+$R10_114
+[1] "Isacglob" "Caregaud" "Stelangu" "Epilbill"
+
+$R10_116
+[1] "Typhorie" "Phraaust"
+
+$R10_118
+ [1] "Calaerem" "Micrstip" "Arisvaga" "Gonoelat" "Acacchee" "Crassieb" "Arisramo" "Callglau" "Cheisies" "Casslaev"
+
+$R10_119
+[1] "Acacdean" "Acacleil" "Allolueh" "Callglau" "Alstcons" "Ariscapu"
+
+$R10_120
+[1] "Empominu" "Caregaud" "Poacosti" "Baecgunn" "Richcont"
+
+$R10_122
+[1] "Casuglau" "Melaquin" "Parsstra"
+
+$R10_123
+[1] "Baumrubi"
+
+$R10_124
+[1] "Casucunc" "Cynodact"
+
+$R10_125
+[1] "Austaris" "Rumebrow" "Dichseri" "Mentsatu" "Oxalpere" "Boerdomi" "Rytibipa" "Eucaalbe"
+
+$R10_126
+[1] "Eucamacr" "Eucapola" "Lomafili" "Stypglau" "Cheisies"
+
+$R10_127
+[1] "Eucaalbe"
+
+$R10_128
+[1] "Cheidist" "Einanuta" "Eucamell"
+
+$R10_13
+[1] "Cheisies" "Micrsess" "Leucmuti" "Leptparv"
+
+$R10_130
+[1] "Allonana" "Bracdaph" "Epacimpr" "Gonotetr"
+
+$R10_131
+[1] "Baecomis" "Leptgreg" "Balosten" "Empominu" "Xyricomp"
+
+$R10_132
+[1] "Baloaust" "Dichrepe" "Lomalong" "Callcitr" "Empominu" "Hemaunci" "Lepilimi" "Micrstip"
+
+$R10_133
+[1] "Goodovat" "Myopacum" "Casuglau" "Cynodact"
+
+$R10_134
+ [1] "Eucaparr" "Meladeco" "Melanodo" "Acaclonf" "Calllins" "Casspube" "Hydrsibt" "Impecyli" "Melathym" "Micrstip"
+
+$R10_135
+[1] "Cladproc" "Casuglau" "Phraaust"
+
+$R10_136
+[1] "Careappr" "Bolbfluv" "Carefasc" "Hypomuel" "Phraaust"
+
+$R10_137
+ [1] "Acaclonf" "Homovirg" "Leptlaev" "Leuceric" "Lomalong" "Monoelli" "Persvirg" "Plateric" "Acaculic" "Bankinte" "Leuclept"
+
+$R10_138
+[1] "Persstri" "Leerhexa" "Phillanu"
+
+$R10_14
+[1] "Themtria" "Westfrut" "Ficinodo" "Lomalong"
+
+$R10_141
+[1] "Leptvari" "Leucneoa" "Acacbrun" "Leptmicc" "Jacksp."  "Pimelini" "Entostri"
+
+$R10_142
+[1] "Baecomis" "Balosten" "Gleidica" "Epacmicr" "Bankspin" "Gahnsieb"
+
+$R10_143
+[1] "Callendl" "Dianrevo" "Casslaev" "Xerovisc"
+
+$R10_144
+[1] "Acaclinr" "Micrstip" "Cassarcu" "Calocuni" "Cheisies" "Gahnaspe"
+
+$R10_146
+[1] "Azolfili" "Cynodact" "Ludwpepm"
+
+$R10_147
+[1] "Lachfili"
+
+$R10_148
+[1] "Diantasm" "Eucafrax" "Perssilv" "Stylgram" "Leuclanc" "Lomalong" "Oxylelli"
+
+$R10_149
+[1] "Acacobti" "Eucasieb"
+
+$R10_150
+[1] "Cheisies" "Rytiseta" "Eucadwye" "Allovert" "Gonoelat"
+
+$R10_151
+[1] "Acacdora" "Cleirigi" "Allogymn" "Isopdaws"
+
+$R10_152
+[1] "Rumebrow" "Urtiinci" "Micrstip"
+
+$R10_153
+[1] "Entostri" "Lepttena" "Melathym" "Schobrev" "Melasieb" "Cassglab" "Eucaparr" "Bankoblo" "Acaclonf"
+
+$R10_155
+[1] "Allolueh" "Trioscar" "Fimbdich"
+
+$R10_156
+[1] "Alloinop" "Callendl" "Pomaumbe" "Xantjohn" "Ariscapu"
+
+$R10_157
+[1] "Angoleio" "Bracdaph" "Jackscop" "Hibbobtu" "Callglau" "Schoeric" "Styptrif"
+
+$R10_159
+[1] "Enydfluc" "Careappr" "Parsstra" "Casuglau" "Centasia" "Ranuinun" "Altedent" "Melaquin" "Persstri"
+
+$R10_16
+[1] "Altedent" "Bacomonn" "Casuglau" "Enydfluc" "Fimbferr" "Lobeance" "Phraaust" "Trigstri"
+
+$R10_161
+[1] "Gratperu" "Scirpoly" "Myrivari" "Caregaud" "Hydrsibt" "Hydrtrip" "Lythsali"
+
+$R10_162
+[1] "Caregaud"
+
+$R10_163
+[1] "Themtria" "Pimelini" "Polycaly"
+
+$R10_165
+[1] "Eucaviri" "Cheisies" "Melaunci"
+
+$R10_166
+[1] "Micrstip" "Themtria"
+
+$R10_167
+[1] "Eucablak" "Trippygm" "Elymscab" "Hydrlaxi"
+
+$R10_168
+[1] "Austscab" "Austbige"
+
+$R10_169
+[1] "Poacosti" "Carehebe" "Micrlanc" "Oreoerio" "Rytinudi" "Violbeto" "Trisspic" "Argyford"
+
+$R10_171
+[1] "Lophsuav" "Phillanu" "Melaquin" "Baumarti" "Callpach" "Ischaust" "Melaalte" "Parsstra"
+
+$R10_172
+[1] "Baecomis" "Lepilimi" "Drosspat" "Epacmicr" "Leptarac" "Epacobtu" "Goodbell"
+
+$R10_173
+ [1] "Impecyli" "Lomalong" "Arunnepa" "Bursspin" "Callpung" "Caregaud" "Casspube" "Centasia" "Leptbrac" "Leptpoly" "Micrstip" "Scirpoly"
+
+$R10_174
+ [1] "Micrstip" "Cheisies" "Digiramu" "Einahast" "Acacdora" "Dodovisc" "Hibistur" "Boroanet" "Pomaumbe" "Sidafili" "Goodrotu"
+
+$R10_175
+[1] "Ficurubi" "Urtiinci" "Notemicr" "Adiaaeth" "Clemglyc" "Clemopac" "Pandpanp"
+
+$R10_176
+[1] "Eucaaggl" "Eucapunc" "Acaclinr" "Lomaconf" "Cleirigi"
+
+$R10_178
+[1] "Callglau" "Lomalong"
+
+$R10_18
+[1] "Melalina" "Careappr"
+
+$R10_180
+[1] "Casucunc" "Eucacama"
+
+$R10_183
+[1] "Alecsubc" "Clertome" "Ficurubi" "Strebrun" "Breyoblo" "Cayrclem" "Eustlati" "Pseuvari"
+
+$R10_184
+[1] "Kunzambi" "Astrhumi" "Calytetr" "Leuceric" "Pomaumbe"
+
+$R10_186
+[1] "Acaenova" "Bursspin" "Juncusit" "Lomalong"
+
+$R10_187
+[1] "Eucasidx" "Meliurce"
+
+$R10_188
+[1] "Caregaud" "Poacosti" "Empominu" "Aspegunn" "Epacmicr" "Luzumode"
+
+$R10_190
+[1] "Baumarti" "Callpach" "Melalina"
+
+$R10_192
+[1] "Rytipall" "Dianrevo" "Davilept" "Eucamann" "Lomalong" "Bracdaph" "Eucadive" "Eucasieb"
+
+$R10_194
+[1] "Melaeric" "Parsstra" "Casuglau"
+
+$R10_195
+[1] "Kunzambi" "Rytilong" "Platlanc"
+
+$R10_196
+[1] "Entostri" "Lomalong" "Laxmgrac" "Lepigunn" "Leucneoa" "Schomela" "Tracincs"
+
+$R10_197
+[1] "Dorysass" "Lomaspic" "Pyrrrupe" "Quinsieb" "Dickanta" "Oritexce" "Pandpanp" "Pellfalc" "Micrscan"
+
+$R10_2
+[1] "Dianrevo" "Triomitc" "Allolueh" "Callglau"
+
+$R10_20
+[1] "Casuglau"
+
+$R10_200
+[1] "Eucablak" "Careappr"
+
+$R10_201
+ [1] "Baeclini" "Blecminu" "Blecnudu" "Callserr" "Drosbina" "Empominu" "Fielaust" "Gahnmela" "Gleirupe" "Leptpoly" "Petrpulc" "Quinsieb"
+[13] "Sticloba" "Todebarb" "Violhede" "Xyrioper"
+
+$R10_202
+[1] "Micrstip" "Dichrepe"
+
+$R10_203
+[1] "Einahast" "Eucacreb" "Acaclinr" "Cassarcu" "Solacamp"
+
+$R10_204
+ [1] "Bursspin" "Cleirigi" "Eucadwye" "Lepttrin" "Notemicr" "Boroanet" "Cheisies" "Eucaspar" "Isopdaws" "Lepilate" "Leucmuti" "Lomaconf"
+[13] "Persline" "Phebsquu" "Pomaumbe"
+
+$R10_206
+[1] "Eucamica" "Austscab" "Eucasidx" "Goodhede"
+
+$R10_208
+character(0)
+
+$R10_209
+[1] "Carebich" "Cynodact" "Eleoacut" "Hypejapo" "Peripros" "Sellradi"
+
+$R10_21
+[1] "Persstri" "Typhorie"
+
+$R10_210
+[1] "Casucunc" "Micrstip" "Lomalong"
+
+$R10_211
+[1] "Micrstip" "Dysppumi" "Eucabrid" "Panieffu"
+
+$R10_213
+[1] "Adiaaeth" "Opliaemu" "Backmyrt" "Ficurubi" "Pellfalc"
+
+$R10_214
+[1] "Centasia" "Goodpani" "Melalina" "Entostri" "Lepymuel" "Meladeco" "Melathym" "Pultvilo"
+
+$R10_215
+[1] "Triploli" "Arisramo" "Cheisies" "Crassieb" "Hypegram" "Kunzspmt" "Vittmuel"
+
+$R10_216
+[1] "Isacglob" "Caregaud" "Eleospha" "Leptjuni"
+
+$R10_217
+[1] "Geijparv" "Casucris" "Cariovat" "Einanuta" "Solafero" "Cappmitc" "Abutoxyc" "Austvert"
+
+$R10_218
+[1] "Chryapic" "Poa.sieb" "Themtria" "Bothmacr" "Acaeovin"
+
+$R10_219
+[1] "Poalabil"
+
+$R10_22
+[1] "Avicausu" "Aegicorn"
+
+$R10_222
+[1] "Gerasola" "Micrstip" "Austrace" "Dichrepe" "Rytipilo"
+
+$R10_223
+[1] "Eucamica" "Dianrevo" "Cheisies" "Calocuni"
+
+$R10_224a
+ [1] "Acacvenu" "Alphexce" "Balotetr" "Bankinte" "Baumrubi" "Blecindi" "Calodubi" "Drosbina" "Echicaes" "Gonomicr" "Ischaust" "Leptjuni"
+[13] "Ottograc" "Parsstra" "Pasporbi" "Phillanu" "Pterescu" "Pultretu" "Violhede"
+
+$R10_224b
+ [1] "Balotetr" "Blecindi" "Chorcymb" "Elaereti" "Entostri" "Eucaresi" "Gahnclar" "Hydracut" "Hypomuel" "Impecyli" "Leptjuni" "Lophsuav"
+[13] "Melalina" "Oxylrobu" "Pterescu" "Pultretu" "Verncine" "Vimijunc"
+
+$R10_224c
+[1] "Balotetr" "Blecindi" "Callpach" "Gahnsieb" "Leptjuni" "Parsstra"
+
+$R10_225
+[1] "Leptlive" "Xantfulv" "Sporinte" "Epacobtu"
+
+$R10_226
+[1] "Casuglau" "Cynodact" "Commcyan"
+
+$R10_227
+[1] "Dumaflor" "Eleoplan" "Stelangu" "Euchspha" "Juncarid" "Lachfili" "Marsdrum"
+
+$R10_228
+[1] "Dumaflor" "Marsdrum" "Eleoplan" "Lachaemu" "Stelangu"
+
+$R10_229
+ [1] "Adiaform" "Aphaphil" "Dendexce" "Ficucoro" "Mallphil" "Strebrun" "Capparbo" "Elatnerv" "Maclcoch" "Opliaemu"
+
+$R10_23
+[1] "Callglau" "Allolueh" "Eucacreb" "Lomamulm" "Ariscapu"
+
+$R10_230
+[1] "Acroaggr" "Diancaer" "Entostri" "Gonoteuc" "Leptpete" "Persaden"
+
+$R10_231
+ [1] "Capparbo" "Cupaparv" "Eucarumm" "Elaeaust" "Gahnaspe" "Mallphil" "Bridexal" "Alyxrusc" "Diostran" "Myrsvari" "Pittmult" "Casemult"
+[13] "Cissanta" "Celasubs"
+
+$R10_233
+[1] "Gonoelat" "Eucadeal" "Cheisies" "Stypglau" "Acacdora"
+
+$R10_234
+[1] "Careappr" "Eulaaure" "Juncflav" "Marsdrum" "Panisimi" "Pratconc"
+
+$R10_235
+[1] "Eucadwye" "Acacdora" "Gonoelat" "Cheisies" "Austdens" "Callglau"
+
+$R10_236
+[1] "Eucacama" "Cynodact" "Elymscab" "Lachfili" "Rumebrow"
+
+$R10_24
+[1] "Junckraa" "Casuglau"
+
+$R10_240
+[1] "Epacmicr" "Pentpumi" "Celmcost" "Acipglac" "Euphcold" "Carebrev"
+
+$R10_241
+ [1] "Epacmicr" "Ranugran" "Stylgram" "Acipsimp" "Aspegunn" "Bracscap" "Brahdeci" "Euphcolp" "Gonomicr" "Poa.sieb"
+
+$R10_242
+[1] "Oritlanc" "Oleaphlo" "Phebsquu" "Poa.hiem"
+
+$R10_243
+[1] "Crascool" "Pimelini" "Aspegunn" "Carebrev" "Epacmicr" "Kunzmuel" "Micrlanc"
+
+$R10_244
+[1] "Goodhede" "Poa.hiem" "Senegunn"
+
+$R10_245
+[1] "Diplnivi" "Rytinivi" "Caregaud" "Epacglac" "Gentmuel" "Poacosti"
+
+$R10_246
+[1] "Acaclonf" "Casuglau" "Lomalong" "Bankinte" "Operaspe" "Rhagcanc" "Westfrut"
+
+$R10_248
+[1] "Bothmacr" "Halohete" "Lythhyss" "Schoapog"
+
+$R10_249
+[1] "Acacdean" "Eucachlo" "Angoflor"
+
+$R10_25
+[1] "Casuglau" "Baumjunc" "Junckraa" "Phraaust"
+
+$R10_250
+ [1] "Allorigr" "Brahstua" "Juncplan" "Lepigunn" "leptnova" "Leucneoa" "Rytimont" "Schoapog" "Baecomis" "Crypsubu" "Deyegunn" "Gahnsieb"
+[13] "Gonomicr" "Hakedact" "Kunzparv" "Laxmcomp" "Lepilate" "Schomela"
+
+$R10_251
+ [1] "Backscia" "Diosaust" "Dendspec" "Pandpanp" "Solastel" "Strebrun" "Alyxrusc" "Capparbo" "Pellfalc" "Tetrnite"
+
+$R10_254
+[1] "Isolinun" "Melaquin" "Persprae" "Lepiarti"
+
+$R10_256
+[1] "Calytetr" "Eucadwye" "Acactrip" "Callendl" "Cassarcu" "Dodovisc" "Eucasidx" "Hibbobtu" "Meliurce"
+
+$R10_257
+[1] "Callendl" "Meliurce" "Triploli" "Acactrip" "Arisramo" "Calytetr" "Lepilate" "Ozotobco"
+
+$R10_258
+[1] "Calytetr" "Mirbpung" "Westchee" "Casspube" "Grevflof" "Hibbobtu" "Persseri" "Plateric"
+
+$R10_259
+[1] "Blecwatt" "Eucafrax" "Sticloba" "Cyataust" "Diantasm" "Eucafast" "Eucasieb" "Leuclanc" "Pterescu"
+
+$R10_25a
+ [1] "Acaclonf" "Baecimbr" "Baumjunc" "Cynodact" "Epalaust" "Junckraa" "Lobeance" "Monoelli" "Selaulig" "Sporvirg" "Westfrut"
+
+$R10_26
+ [1] "Hydrsibt" "Hypejapo" "Aspegunn" "Caregaud" "Epacbrev" "Gonomicr" "Hakemicr" "Luzumode" "Juncfalc" "Poalabil" "Ranupimp"
+
+$R10_260
+[1] "Rytimont" "Austscab" "Calocuni" "Eucanubi" "Gahnaspe" "Glyctaba" "Juncremo"
+
+$R10_261
+[1] "Cheisies" "Digibrev" "Leucneoa" "Triploli" "Fimbdich" "Lobeandr"
+
+$R10_262
+[1] "Alphexce" "Impecyli" "Lophsuav" "Melaalte" "Parsstra" "Casuglau" "Eucatere"
+
+$R10_263
+[1] "Eucadwye" "Callendl" "Gonoelat" "Cheisies" "Austdens" "Casslaev" "Eucasidx"
+
+$R10_266
+[1] "Eucaross" "Poa.sieb"
+
+$R10_268
+[1] "Eucamann" "Poa.sieb" "Eucaradi" "Hakedact"
+
+$R10_269
+[1] "Pasudist" "Ludwpepm" "Persdeci" "Eleoequi" "Typhorie" "Spirpoly"
+
+$R10_27
+ [1] "Balotetr" "Bleccamf" "Calodubi" "Cisshypo" "Clemglyc" "Clertome" "Commcyan" "Diancaer" "Dodotriq" "Entomarg" "Eustlati" "Gahnclar"
+[13] "Glocferd" "Hemaunci" "Histinci" "Homapopu" "Hypomuel" "Impecyli" "Leptpoly" "Liviaust" "Melaaffi" "Pandpanp" "Pittundu" "Pterescu"
+[25] "Violhede"
+
+$R10_270
+[1] "Austscab" "Elymscab" "Themtria" "Dichfimb" "Chryapic" "Tricelat"
+
+$R10_272
+[1] "Blecindi"
+
+$R10_273
+[1] "Calytetr" "Acacmari" "Gonoelat" "Melaunci" "Westchee"
+
+$R10_274
+[1] "Eucacreb" "Dianrevo" "Arisramo" "Cassarcu" "Digibrev" "Acacmari" "Gahnaspe"
+
+$R10_275
+[1] "Themtria" "Acaclonf" "Pimelini"
+
+$R10_277
+[1] "Eucachlo" "Angoflor"
+
+$R10_278
+[1] "Austscab" "Gahnaspe" "Dodovisc" "Lomamulm" "Rytimont"
+
+$R10_279
+[1] "Austvert" "Eucaalbe" "Mairmicp"
+
+$R10_28
+[1] "Melaquin" "Persstri" "Hypomuel" "Parsstra" "Blecindi" "Careappr" "Enydfluc"
+
+$R10_280
+[1] "Balosten" "Epacmicr" "Gonomicr" "Hakemicr" "Leptgreg" "Aspegunn" "Lepyanar"
+
+$R10_281
+[1] "Kunzeric" "Juncusit" "Careappr" "Lomalong" "Micrstip"
+
+$R10_282
+ [1] "Leptvari" "Kerahilh" "Acacbrun" "Allolitt" "Cheisies" "Entostri" "Allorigr" "Hovelonf" "Kennrubi" "Lepilate" "Leptmicc"
+
+$R10_283
+[1] "Lepiclip" "Leptmicc" "Entostri" "Acaculic" "Panisimi" "Leucneoa"
+
+$R10_284
+[1] "Ozotrufe" "Gonooreo" "Platlanc" "Lepiclip" "Prosinci" "Diancaer" "Leptvari"
+
+$R10_286
+[1] "Aphaphil" "Casuglau" "Crotverr" "Geitcymo" "Jasmvolu" "Maclcoch" "Opliimbe" "Pseuvari" "Strebrun"
+
+$R10_287
+[1] "Wateflor" "Lomahyst" "Ficucoro" "Urtiinci"
+
+$R10_288
+ [1] "Baumrubi" "Hydrsibt" "Hypejapo" "Lepyanar" "Centasia" "Deyequad" "Drosbina" "Epacmicr" "Hemaunci" "Juncplan" "Lachfili" "Leptobov"
+[13] "Mitrserp" "Myripedu" "Poalabil" "Pratsurr" "Utridich" "Villexal"
+
+$R10_289
+[1] "Eucapunc" "Eucaspar" "Lomaconf" "Persline"
+
+$R10_29
+[1] "Casuglau" "Junckraa"
+
+$R10_290
+[1] "Phraaust"
+
+$R10_291
+[1] "Cheisies" "Poa.sieb"
+
+$R10_294
+[1] "Eucaross" "Davilept" "Monoscop" "Eucamacr" "Dianrevo" "Rytipall" "Gonotetr" "Poa.sieb"
+
+$R10_295
+[1] "Epilbill" "Gerasola" "Lomalong" "Micrstip"
+
+$R10_296
+[1] "Carebrev" "Oxylelli" "Brahspat" "Celmpugi" "Crasaura" "Grevaust" "Oleaphlo" "Poa.fawc" "Poramicr"
+
+$R10_3
+[1] "Callglau" "Eucamica" "Dodovisc" "Austscab"
+
+$R10_30
+[1] "Baumjunc" "Melaquin" "Casuglau"
+
+$R10_31
+[1] "Melalina" "Eucarobu" "Hypomuel"
+
+$R10_32
+[1] "Melaeric" "Baumjunc"
+
+$R10_33
+ [1] "Casuglau" "Cynodact" "Micrstip" "Baumjunc" "Entomarg" "Goodovat" "Junckraa" "Lomalong" "Phraaust" "Pterescu"
+
+$R10_34
+[1] "Casuglau" "Suaeaust" "Tetrteta" "Junckraa" "Avicausu"
+
+$R10_35a
+[1] "Acaclonf" "Baumarti" "Gahnsieb" "Melaeric" "Myrisimu" "Parsstra" "Pseupara" "Violhede"
+
+$R10_36a
+ [1] "Apiupros" "Baumjunc" "Careappr" "Carepumi" "Carpglau" "Commcyan" "Diancaer" "Diancong" "Isolinun" "Juncplan" "Lachfili" "Lobeance"
+[13] "Lomalong" "Phraaust" "Samorepe" "Thyrrepn" "Trigstri" "Zoysmacr"
+
+$R10_37
+[1] "Schomela" "Calsmont" "Acacobti" "Baeclini" "Lepiclip" "Leptpoly" "Cassglab" "Tetrjune" "Bankspin"
+
+$R10_38
+[1] "Baumrubi" "Isacglob" "Caregaud" "Leptobov" "Hydrsibt" "Geranegl"
+
+$R10_39
+[1] "Gahnsieb" "Bankrobu" "Callcitr"
+
+$R10_4
+ [1] "Allopalu" "Bosspros" "Callcitr" "Empominu" "Eucacons" "Gahnradu" "Hakeseri" "Hypejapo" "Lepilimi" "Lepttena" "Lindline" "Melasqur"
+[13] "Rhytproc" "Selaulig" "Tetrjune" "Thystube" "Bankmarg" "Boroparv" "Burcumbe" "Casspube" "Crypsubu" "Drosspat" "Entostri" "Gonotetr"
+[25] "Lagnstip" "Lepifili" "Leptcont" "Lomalong" "Mitrserp" "Patefrag" "Sphavimi" "Spreinca" "Xyrigrac"
+
+$R10_41
+[1] "Ludwpepm" "Persdeci" "Azolpinn" "Pasudist"
+
+$R10_42
+[1] "Melaquin" "Blecindi" "Gahnclar" "Baumarti"
+
+$R10_43
+[1] "Callpach" "Baumrubi"
+
+$R10_44
+[1] "Careappr"
+
+$R10_46
+[1] "Altedent" "Ludwpepm" "Pasudist" "Juncusit"
+
+$R10_47
+[1] "Spinseri"
+
+$R10_48
+[1] "Leptlaev" "Acaclonf" "Monoelli"
+
+$R10_5
+[1] "Melasqur" "Lepttena" "Spreinca" "Empominu" "Epacobtu" "Leptcont"
+
+$R10_50
+[1] "Ficinodo"
+
+$R10_52
+ [1] "Nothmoor" "Coprquad" "Dickanta" "Smilaust" "Dorysass" "Parsbrow" "Pyrrrupe" "Histinci" "Lomaspic" "Blecwatt" "Veronota" "Grambile"
+[13] "Trocmont"
+
+$R10_52a
+ [1] "Bankinte" "Blecnudu" "Callpall" "Dickanta" "Elaeholo" "Lepilate" "Leptpoly" "Lomaarbo" "Melident" "Parsbrow" "Poa.sieb" "Quinsieb"
+[13] "Smilaust" "Tasmstip" "Todebarb"
+
+$R10_53
+[1] "Junckraa" "Sellradi" "Casuglau"
+
+$R10_54
+[1] "Sarcquiq" "Avicausu"
+
+$R10_55
+[1] "Paspvagi" "Sarcquiq"
+
+$R10_56
+[1] "Poa.fawc" "Rytinudi" "Celmcost" "Carehebe"
+
+$R10_57
+ [1] "Carebrev" "Leucalbi" "Poa.fawc" "Themtria" "Hakemicr" "Pimelini" "Xerovisc" "Converub" "Linumarg" "Picrangu" "Vittcune"
+
+$R10_58
+[1] "Colopulv" "Ewarnubi" "Luzuausd" "Poa.fawc" "Agromuel" "Leucalbi" "Epacmicr" "Ranuacro" "Trisspic"
+
+$R10_59
+[1] "Caregaud" "Ranumill" "Gonomicr" "Pratsurr"
+
+$R10_6
+[1] "Melaeric" "Careappr" "Centasia"
+
+$R10_62
+ [1] "Kunzambi" "Melaarma" "Platlanc" "Allolitt" "Lepiurop" "Pultretu" "Leiorals" "Entostri" "Rytilong" "Calytetr"
+
+$R10_63
+[1] "Eucaradi" "Eucadalr" "Leuclanc" "Monoscop" "Lomalong" "Platlanc" "Rytipall"
+
+$R10_64
+[1] "Eucasieb"
+
+$R10_65
+[1] "Baloaust" "Empominu" "Aspegunn" "Epacpalu" "Hakemicr" "Baecutil"
+
+$R10_66a
+[1] "Acacflor" "Adiaaeth" "Gahnsieb" "Lepilate" "Leptbrev" "Lomalong" "Lomamulm" "Pittundu"
+
+$R10_67
+[1] "Sporvirg"
+
+$R10_68
+[1] "Eucacama" "Cynodact"
+
+$R10_69
+[1] "Themtria" "Leprsqua" "Poa.sieb" "Chryapic"
+
+$R10_6a
+ [1] "Acaenova" "Adiaaeth" "Blecminu" "Careappr" "Centasia" "Epilgunn" "Eucaovat" "Isolinun" "Lobeance" "Lythsali" "Melaeric" "Persdeci"
+[13] "Rubuparv"
+
+$R10_7
+[1] "Bankinte" "Lomalong" "Commcyan" "Hibbscan" "Monoelli" "Ficinodo"
+
+$R10_70
+ [1] "Allonana" "Lepttrin" "Phylsqua" "Acacobti" "Bracdaph" "Dampstri" "Lepivisi" "Harmdens" "Lomaglau" "Ochrolig"
+
+$R10_71
+[1] "Balotetr" "Leptpoly" "Eucarobu" "Pterescu"
+
+$R10_72
+[1] "Eleospha"
+
+$R10_73
+[1] "Blecindi" "Gahnsieb" "Parsstra"
+
+$R10_74
+[1] "Lepiarti"
+
+$R10_75
+[1] "Eucasieb" "Hibbobtu" "Dianrevo" "Eucaross" "Lomafili" "Persline"
+
+$R10_76
+[1] "Callendl" "Eucadeal"
+
+$R10_77
+[1] "Eucablak"
+
+$R10_78
+[1] "Baumrubi" "Leptjuni" "Acacrubi" "Bankspin" "Callcitr" "Gahnclar" "Gonomicr" "Isolinun" "Melalina"
+
+$R10_79
+[1] "Calytetr" "Leptparv" "Platlanc" "Leptarac" "Leucmuti" "Lepivisi"
+
+$R10_8
+[1] "Acaclonf" "Spinseri"
+
+$R10_81
+[1] "Melaquin" "Blecindi" "Gahnsieb"
+
+$R10_82
+ [1] "Arytdiva" "Cleicunn" "Mallphil" "Pittmult" "Alchilic" "Aphaphil" "Capparbo" "Uvarleic" "Austblab" "Casemult" "Dendexce" "Pellfalc"
+
+$R10_83
+[1] "Villexal" "Lepttena" "Balopall"
+
+$R10_87
+[1] "Gahnsieb" "Gleidica" "Pterescu" "Melalina"
+
+$R10_88
+[1] "Epacmicr" "Gonomicr" "Hakemicr" "Juncusit"
+
+$R10_89
+[1] "Gahnclar" "Melalina" "Eucarobu" "Glocferd" "Hypomuel"
+
+$R10_9
+[1] "Dickanta" "Smilaust" "Fielaust" "Cyataust" "Polyprol" "Eucrmoor"
+
+$R10_90
+[1] "Eucaobli" "Poa.sieb" "Pterescu" "Smilaust" "Lomalong"
+
+$R10_92
+[1] "Dampstri" "Isopanet" "Platlanc"
+
+$R10_93
+[1] "Careappr" "Stelangu" "Gerasola"
+
+$R10_94
+[1] "Bracdaph" "Callglau" "Calytetr" "Eucachlo" "Xantjohn" "Schoeric" "Arisramo" "Casspube"
+
+$R10_95
+[1] "Callendl" "Eucacreb"
+
+$R10_96
+[1] "Callendl" "Acacconf" "Jackscop" "Bracdaph" "Leucmuti"
+
+$R10_97
+[1] "Gerasola" "Eucamell" "Micrstip" "Hydrlaxi" "Rumebrow"
+
+$R10_99
+[1] "Baecfrut" "Bankeric" "Causrecu" "Leptpoly" "Sporinte"
+
+$R2_10
+[1] "Eucasieb" "Rytipall" "Eucadive" "Hibbobtu" "Lomalong" "Platlanc" "Acacfali" "Bracdaph"
+
+$R2_100
+ [1] "Micrstip" "Angoflor" "Glycclan" "Persline" "Phylhirt" "Lomaconf" "Pomaumbe" "Echiovat" "Podoilic" "Eucapunc" "Pterescu"
+
+$R2_101
+[1] "Eucamacr" "Poa.sieb" "Lomafili" "Goodhede" "Phylhirt" "Eucapola" "Stypglau"
+
+$R2_102
+[1] "Austscab" "Cheisies" "Gahnaspe" "Rytifulv" "Digidiff" "Lomafili" "Arisramo" "Eucaviri"
+
+$R2_104
+ [1] "Goodhede" "Dicemicr" "Eucamacr" "Gonotetr" "Bracdaph" "Lomafili" "Arisramo" "Cheisies" "Poa.sieb" "Hibbobtu"
+
+$R2_105
+[1] "Cheisies" "Lomafili" "Hydrlaxi" "Hypegram" "Eucamacr" "Callendl" "Oxalpere" "Poa.sieb"
+
+$R2_106
+[1] "Arisramo" "Gonotetr" "Cheisies" "Lissstri" "Goodhede"
+
+$R2_107
+ [1] "Goodhede" "Gonotetr" "Lomafili" "Hibbobtu" "Eucamacr" "Micrstip" "Meliurce" "Rytipall" "Lomamulm" "Poa.sieb"
+
+$R2_108
+[1] "Goodhede" "Lomafili" "Gonotetr" "Dichstri" "Rytiseta" "Cheisies" "Poa.sieb"
+
+$R2_109
+[1] "Micrstip" "Eucamacr" "Gonoelat" "Stypglau" "Eucablak" "Hydrlaxi" "Cheisies" "Goodhede" "Ryticaes"
+
+$R2_11
+[1] "Eucasieb" "Persline" "Goodhede" "Hibbobtu" "Lomafili" "Lomaobli"
+
+$R2_110
+ [1] "Halohete" "Schoapog" "Arunnepa" "Murdgram" "Hydrsibt" "Euchspha" "Eucablak" "Echicaes" "Gonomicr" "Goodbell"
+
+$R2_111
+[1] "Ariscapu" "Beyevisc" "Callendl" "Meliurce"
+
+$R2_112
+[1] "Cheisies" "Gonoelat" "Philcili" "Acacburr" "Thyrmitc" "Goodrotu" "Eucafibr" "Callglau" "Digibrev"
+
+$R2_113
+ [1] "Bracdaph" "Callendl" "Lomafili" "Cheisies" "Hibbobtu" "Austscab" "Dicemicr" "Pomaumbe" "Chryapic" "Leucmuti"
+
+$R2_115
+[1] "Dodotria" "Acrorigi" "Leucmuti" "Allogymn" "Persline" "Goodrotu" "Meliurce"
+
+$R2_118
+ [1] "Callendl" "Calytetr" "Grevflof" "Goodhede" "Lepilate" "Phylhirt" "Leucatte" "Eucamacr" "Stypglau" "Bracdaph"
+
+$R2_119
+[1] "Cheisies" "Callendl" "Hibbobtu" "Astrhumi" "Bracdaph" "Goodhede"
+
+$R2_12
+ [1] "Eucaandr" "Goodhede" "Dianrevo" "Monoscop" "Rytipall" "Bracdaph" "Lomafili" "Causflex" "Poa.sieb" "Hardviol" "Acacbuxi" "Pateseri"
+[13] "Hoveline"
+
+$R2_121
+ [1] "Rytifulv" "Plateric" "Dianrevo" "Persline" "Goodhede" "Monoscop" "Pultmicr" "Gonotetr" "Pateseri" "Acacbuxi" "Astrhumi" "Pomaumbe"
+
+$R2_123
+ [1] "Calytetr" "Cheisies" "leptnova" "Callendl" "Crypamar" "Entostri" "Gonoteuc" "Laxmgrac" "Lepilate" "Leucmuti" "Lobeandr" "Ozotobco"
+[13] "Stypglau" "Tracincs"
+
+$R2_124
+[1] "Eucaross" "Goodhede" "Lomafili" "Micrstip" "Bracdaph" "Gonotetr" "Hibbobtu"
+
+$R2_125
+[1] "Eucacreb" "Lepilate" "Cheisies" "Persline" "Pomaumbe" "Gahnaspe" "Leucmuti" "Micrstip" "Chorspea"
+
+$R2_127
+ [1] "Arisramo" "Cheisies" "Dicemicr" "Gonotetr" "Hypegram" "Kunzparv" "Austmoll" "Bossbuxi" "Calytetr" "Dillphyl" "Lachfili" "Lomafili"
+[13] "Lomalong" "Schoimbe" "Themtria" "Wahlgrai"
+
+$R2_128
+ [1] "Gonotetr" "Hibbobtu" "Bracdaph" "Hypegram" "Senepren" "Hoveline" "Hydrlaxi" "Lomafili" "Eucaross" "Meliurce" "Poa.sieb"
+
+$R2_129
+ [1] "Eucaross" "Lomafili" "Hibbobtu" "Eucamacr" "Gonotetr" "Rytipall" "Dianrevo" "Poa.sieb" "Goodhede" "Bracdaph" "Davilept"
+
+$R2_13
+[1] "Eucagoni" "Eucamacr" "Hibbobtu" "Gonotetr" "Poa.sieb" "Bracdaph" "Lomafili"
+
+$R2_130
+ [1] "Goodbell" "Micrstip" "Cymbrefr" "Arisramo" "Themtria" "Eucacali" "Eragleps" "Fimbdich" "Echicaes" "Meliurce" "Halohete" "Lissstri"
+
+$R2_131
+ [1] "Goodhede" "Eucaandr" "Hibbobtu" "Angoflor" "Hardviol" "Pomaumbe" "Meliurce" "Callendl" "Lomafili" "Pateseri"
+
+$R2_132
+[1] "Callglau" "Arisramo" "corytraa" "Acacchee" "Pomaumbe" "Einahast"
+
+$R2_133
+[1] "Bracdaph" "Callglau" "Calytetr" "Hibbobtu" "Meliurce" "Chryapic"
+
+$R2_134
+[1] "Acacspas" "Alphexce" "Arisjeri" "Callendl" "Casslaev" "Dodotria" "Eucachlo" "Eucafibr"
+
+$R2_135
+[1] "Lomafili" "Hibbobtu" "corytraa" "Perscusp" "Pomaumbe" "Hardviol" "Dianrevo"
+
+$R2_136
+[1] "Eucamacr" "Persline" "Eucaross" "Eucapola" "Hibbobtu" "Lomafili" "Cheisies"
+
+$R2_137
+[1] "Eucanubi" "Calytetr" "Allogymn" "Callendl" "Lomafili" "Pomaumbe" "Bracdaph" "Plateric"
+
+$R2_138
+[1] "Calytetr" "Kunzspmt" "Leucneoa" "Tracincs" "Cheisies" "Ozotobco" "Micrsess"
+
+$R2_139
+ [1] "Angoflor" "Cymbrefr" "Gerasola" "Hibbobtu" "Leucmuti" "Meliurce" "Dicemicr" "Luzuflac" "Bracdaph" "Arisvaga" "Eucamacr" "Lomamulm"
+[13] "Callendl" "Senedias" "Oleaelle" "Dianrevo" "Oleavisc"
+
+$R2_140
+[1] "Oleaelle" "Eucaalbe" "Lomamulm" "Notemicr" "Acacdeco"
+
+$R2_141
+ [1] "Kunzspmt" "Ozotobco" "Calytetr" "Cheisies" "Gonoelat" "Acacvisc" "Stypglau" "Olearamu" "Lepilate" "Tracincs"
+
+$R2_142
+ [1] "Goodbell" "Lissstri" "Echicaes" "Hypegram" "Eucacale" "Lomamulm" "Leucmuti" "Cheisies" "Meliurce" "Eucaprav" "Callendl" "Schoapog"
+[13] "Diancaer" "Cymbrefr" "Operaspe" "Tracincs" "Wahllute"
+
+$R2_143
+ [1] "Acacneri" "Echicaes" "Cheisies" "Dichrepe" "Arisvaga" "Calocuni" "Pomaumbe" "Oleaelle" "Meliurce" "Leptbrev" "Arisramo" "Callendl"
+[13] "Wahllute" "Hibbobtu" "Desmvari"
+
+$R2_144
+[1] "Eucacreb" "Phylhirt" "Acaclinr" "Persline" "Pomaumbe" "Acrorigi" "Casslaev"
+
+$R2_145
+ [1] "Angoflor" "Micrstip" "Acaclinr" "Cheisies" "Cassarcu" "Hydrlaxi" "Gahnaspe" "Eucablak" "Lomaconf" "Glycclan"
+
+$R2_146
+[1] "Eucaspar" "Persline" "Eucapunc" "Cleirigi" "Leucmuti" "Pomaumbe" "Lomaconf" "Podoilic"
+
+$R2_147
+[1] "Callendl" "Cheisies" "Poa.sieb" "Stypglau" "Eucasidx" "Micrstip" "Gonoelat" "Goodhede"
+
+$R2_148
+[1] "Triploli" "Cheisies" "Cymbrefr" "Leucmuti" "Callendl" "Eucadeal" "Arisramo"
+
+$R2_149
+[1] "Entostri" "Eucacreb" "Laxmgrac" "Cheisies"
+
+$R2_15
+[1] "Acacobti" "Pomaumbe" "Eucaspar" "Persline" "Micrstip" "Podoilic"
+
+$R2_150
+ [1] "Drosauri" "Eucamacr" "Gonotetr" "Dianrevo" "Hydrlaxi" "Bracdaph" "Daucgloc" "Eucagoni" "Galigaud" "Micrstip" "Calytetr"
+
+$R2_151
+ [1] "Phylhirt" "Cleirigi" "Hovelanc" "Acrorigi" "Lomaglau" "Phebsquu" "Lomaconf" "Lepigunn" "Acaccrac" "Eucafibr" "Persline"
+
+$R2_152
+[1] "Careappr" "Micrstip" "Dichrepe" "Hydrlaxi"
+
+$R2_153
+ [1] "Cheisies" "Lomafili" "Goodhede" "Callendl" "Phylhirt" "Gonoelat" "Lomamulm" "Pomaumbe" "Hibbobtu" "Calocuni"
+
+$R2_154
+[1] "Eucapunc" "Persline" "Pomaumbe" "Phylhirt" "Podoilic" "Lomaconf" "Leucmuti" "Eucaspar" "Plateric"
+
+$R2_156
+[1] "Eucaspar" "Leucmuti" "Pomaumbe" "Persline" "Chorspea" "Podoilic"
+
+$R2_157
+ [1] "Meliurce" "Cassquin" "Hardviol" "Hibbobtu" "Pultcune" "Glycclan" "Angoflor" "Dianrevo" "Eucalaev" "Exoccupr" "Lepilate" "Indiades"
+
+$R2_158
+ [1] "Angoflor" "Dianrevo" "Eucalaev" "Casslaev" "Hardviol" "Lepilate" "Micrstip" "Galigaud" "Hibbobtu" "Lomafili" "Meliurce" "Xantjohn"
+
+$R2_159
+[1] "Ariscapu" "Callendl" "Acacconf" "Cheisies" "Pomaumbe" "Acacleil" "Digiramu" "Petapube"
+
+$R2_16
+ [1] "Acacobti" "Leucmuti" "Scholepi" "Lomafili" "Ochrolig" "Eucapipe" "Eucapunc" "Lepigunn" "Pomaumbe" "Allolitt"
+
+$`R2_160 / R3_33`
+[1] "Poa.sieb" "Eucaandr" "Meliurce" "Micrstip" "Hardviol" "Violbeto" "Galigaud" "Eucayoum" "Gonotetr"
+
+$R2_161
+ [1] "Casslaev" "Desmvari" "Meliurce" "Gerasola" "Arisramo" "Glycclan" "Goodrotu" "Lepilate" "Oleaelle" "Pultcune" "Violbeto"
+
+$R2_162
+ [1] "Cassquin" "Lepilate" "Lomaconf" "Acacneri" "Eucadeal" "Gahnaspe" "Notemicr" "Pimeneo." "Eucacale" "Oleaelle" "Entostri" "Callendl"
+[13] "Goodrotu" "Paspgrac" "Rytilong"
+
+$R2_163
+ [1] "Leucmuti" "Callendl" "Dicemicr" "Pomaumbe" "Bracdaph" "Eucaprav" "Goodhede" "Lepilate" "Cymbrefr" "Cheisies" "Eucacale" "Dianrevo"
+
+$R2_164
+[1] "Lissstri" "Xantglau" "Angoflor" "Hibbripa" "Jackscop" "Schoapog" "Themtria" "Trioscar"
+
+$R2_165
+ [1] "Acaculic" "Bursspin" "Corrrefl" "Crypamar" "Eucatere" "Gahnaspe" "Hibbripa" "Jackscop" "Leptbrev" "Leucneoa" "Lissstri" "Themtria"
+
+$R2_166
+ [1] "Goodhede" "Petrcane" "Aotusubg" "Gonotetr" "Bankspin" "Chorpauc" "Dillphyl" "Eucaradi" "leptnova" "Grevscos" "Hibbripa" "Leptbrev"
+[13] "Pateglab" "Perscorn" "Stylgram" "Monoscop"
+
+$R2_167
+[1] "Entostri" "Pateglab" "Lepigunn" "Allolitt" "Hovepurp" "Mirbconf"
+
+$R2_168
+ [1] "Bracdaph" "Rytipall" "Cheisies" "Dicemicr" "Eucaprav" "Cymbrefr" "Lomamulm" "Goodhede" "Eucaandr" "Cassquin"
+
+$R2_169
+ [1] "Eucamann" "Hypegram" "Persmol1" "Centasia" "Entostri" "Euchjapo" "Gonomicr" "Gonotetr" "Kunzparv" "Leptmyrt" "Pultsubs"
+
+$R2_17
+ [1] "Goodhede" "Dianrevo" "Eucafibr" "Lissstri" "Lomaglau" "Acrorigi" "Lepigunn" "Astrhumi" "Lomaconf" "Pomaumbe"
+
+$R2_170
+[1] "Callglau" "Cheisies" "Angoleio" "Jackscop" "Leucmuti" "Arisramo" "Lomamulm"
+
+$R2_171
+ [1] "Goodhede" "Eucasidx" "Lissstri" "Meliurce" "Callendl" "Astrhumi" "Bracdaph" "Cassunca" "Rytiseta" "Eucamica" "Poa.sieb" "Lomafili"
+
+$R2_172
+ [1] "Bracdaph" "Bossconc" "Lomafili" "Xantacau" "Persseri" "Cassarcu" "Lomamulm" "Hibbobtu" "Meliurce" "Boroglab"
+
+$R2_173
+[1] "Eucafibr" "corytraa" "Lomafili" "Pomaumbe" "Pultcine" "Hibbobtu" "Dodovisc" "Dianrevo"
+
+$R2_174
+[1] "Cassarcu" "Meliurce" "Hibbobtu" "Eucablak" "Gahnaspe"
+
+$R2_175
+ [1] "Cheisies" "Gahnaspe" "Pomaumbe" "Cassarcu" "Astrhumi" "Eucacreb" "Lomamulm" "Lomafili" "Phylhirt" "Calocuni"
+
+$R2_176
+[1] "Cassarcu" "Pomaumbe" "Hibbobtu" "corytraa" "Calytetr"
+
+$R2_177
+ [1] "Hibbobtu" "Casslaev" "Persseri" "Grevflof" "Bracdaph" "Dodovisc" "Xantacau" "Callendl" "Dianrevo" "Meliurce" "Wahlflum" "Arisramo"
+[13] "Pomaumbe"
+
+$R2_178
+[1] "Hibbobtu" "Angoflor" "Cassarcu" "Lomamulm" "Ajugaust" "Austscab" "Vittdiss"
+
+$R2_179
+ [1] "Eucafibr" "Calytetr" "Grevflof" "allodimt" "corytraa" "Lomafili" "Pomaumbe" "Dodofalc" "Persseri" "Goodrotu"
+
+$R2_18
+[1] "Austscab" "Gahnaspe" "Rytilong" "Callendl" "Brueaust" "Dichrepe" "Dodovisc" "Goodhede"
+
+$R2_180
+[1] "Acacchee" "Gonoelat" "Micrstip" "Cheisies"
+
+$R2_181
+[1] "Angoleio" "Callendl" "Jackscop" "Styptrif" "Hibbobtu" "Lomamulm" "Ariscapu"
+
+$R2_182
+[1] "Eucapunc" "Persline" "Eucaspar" "Bursspin" "Lomaconf" "Isopdaws" "Lepilate" "Cheisies" "Phebsquu"
+
+$R2_183
+[1] "Calytetr" "Melaunci" "Gonoelat" "Cheisies" "Dianrevo" "Melaerub" "Arisjeri" "Platline"
+
+$R2_184
+[1] "Acacobti" "Eucapipe" "Lepilate" "Leptpoly" "Eucaspar" "Leucmuti" "Lomaconf" "Persline"
+
+$R2_185
+[1] "Cheisies" "Acacdora" "Oxalpere" "Cheiaust" "Paspcrin" "Cleirigi" "Digiramu" "Gonoelat"
+
+$R2_186
+[1] "Leucmuti" "Persline" "Eucafibr" "corytraa" "Pomaumbe" "Grevseri" "Allogymn" "Cleirigi" "Callendl"
+
+$R2_187
+ [1] "Goodbell" "Dianrevo" "Eucaprav" "Gonotetr" "Erembima" "Ptildeut" "Arisramo" "Entostri" "Eucayoum" "Gonomicr" "Leptarac" "Leptpoly"
+[13] "Micrstip" "Schoapog" "Acacbuxi"
+
+$R2_188
+[1] "Cymbrefr" "Impecyli" "Angoflor" "Meliurce" "Eucabrid" "Arisramo" "Bracdaph" "Dicemicr" "Hibbobtu"
+
+$R2_189
+ [1] "Eucacreb" "Meliurce" "Pateseri" "Eucaandr" "Leucmuti" "Grevtrit" "Arisvaga" "Lomafili" "Lomamulm" "Pultlino"
+
+$R2_19
+[1] "Acacobti" "Lepilate" "Lomaglau" "Leptarac" "Platlanc" "Leucmuti"
+
+$R2_190
+[1] "Lomamulm" "Gonotetr" "Themtria" "Cheisies" "Eucaalbe" "Hardviol" "Xerovisc"
+
+$`R2_191 / R4_61`
+[1] "Pultproc" "Eucamann" "Hibbobtu" "Dianrevo" "Rytipall" "Gonotetr" "Meliurce"
+
+$R2_192
+ [1] "Goodhede" "Lomafili" "Eucaaggl" "Pomaumbe" "Hibbobtu" "Dianrevo" "Lomamulm" "Persline" "Gonotetr" "Hardviol" "Eucapunc"
+
+$R2_193
+ [1] "Callglau" "Cheisies" "Allolueh" "Eucacreb" "Dianrevo" "Arisjeri" "Bulbsemi" "Fimbdich" "Lomamulm" "Calocuni" "Wahlplan" "Halohete"
+[13] "Laxmgrac"
+
+$R2_194
+ [1] "Rytieria" "Calocuni" "Cheisies" "Dianrevo" "Eucacreb" "Eucasidx" "Gahnaspe" "Lomafili" "Calytetr" "Arisjeri"
+
+$R2_195
+ [1] "Leucmuti" "Dicemicr" "Callendl" "Bracdaph" "Cheisies" "Cymbrefr" "Hibbobtu" "Pomaumbe" "Eucamacr" "Eucaprav" "Poramicr" "Meliurce"
+[13] "Lomamulm" "Perscorn"
+
+$R2_197
+[1] "Persline" "Eucaross" "Pomaumbe" "Leucmuti" "Lomaglau" "Styptrif" "Callendl" "Pateseri" "Bracdaph"
+
+$R2_198
+ [1] "Goodhede" "Lomafili" "Eucamacr" "Eucaross" "Rytipall" "Hibbobtu" "Eucagoni" "Poa.sieb" "Gonotetr" "Dianrevo" "Bracdaph"
+
+$R2_2
+ [1] "Cymbrefr" "Hibbobtu" "Meliurce" "Poa.sieb" "Stelangu" "Xantglau" "Acacpara" "Brahnova" "Careinve" "Panieffu" "Wahlstri" "Angoflor"
+[13] "Cheisies" "Lepilate" "Lomamulm" "Cleirigi"
+
+$R2_20
+ [1] "Acrorigi" "Eucafibr" "Glycclan" "Poa.sieb" "Bursspin" "Planhisp" "Hibbobtu" "Rytipall" "Persline" "Eucapunc" "Astrhumi" "Dianprun"
+[13] "Goodhetp"
+
+$R2_200
+ [1] "Eucafibr" "Pomaumbe" "Dianrevo" "Lomafili" "Lomamulm" "Meliurce" "Cheisies" "Cassarcu" "Gahnaspe" "Lepilate" "Goodrotu" "Acaccaro"
+[13] "Digibrev"
+
+$R2_201
+[1] "Eucafibr" "Lomaconf" "Persline" "Cleirigi" "Entostri" "Lepigunn" "Bursspin"
+
+$R2_202
+ [1] "Goodmacb" "Hypegram" "Arunnepa" "Centstrs" "Digibrev" "Eragbrow" "Eucablak" "Leptpoly" "Dianrevo" "Juncplan" "Cassarcu" "Halohete"
+[13] "Wahlplan"
+
+$R2_204
+ [1] "Allonana" "Bracdaph" "Lomaglau" "Rytitenu" "Ampexiph" "Austpubi" "Hibbpedu" "Lepigunn" "Stylgram" "Gonotetr" "Platlanc" "Hakedact"
+[13] "Kunzspew"
+
+$R2_21
+ [1] "Eucacale" "Lepilate" "Leucmela" "Callendl" "Grevtrit" "Entostri" "Leucmuti" "Dianrevo" "Phylhirt" "Goodhede" "Pomaumbe" "Bracdaph"
+[13] "Cassquin" "Lomafili" "Cheisies" "Oleaelle"
+
+$R2_22
+[1] "Meliurce" "Leucmuti" "Callendl" "Pomaumbe" "Eucadeal" "Cheisies" "Eucacale" "Cymbrefr" "Panisimi"
+
+$R2_23
+ [1] "Entostri" "Eucaprav" "leptnova" "Meliurce" "Xantjohn" "Calytetr" "damplanl" "Goodbell" "Harmdens" "Perscorn" "Plateric" "allobrac"
+[13] "Diancaer" "Eucacale" "Tracincs" "Lepilate" "Pomaumbe"
+
+$R2_24
+ [1] "Dianrevo" "Hibbobtu" "Digibrev" "Bracdaph" "Arisjeri" "Cheisies" "Lomafili" "Lomamulm" "Meliurce" "Panieffu" "Persseri" "Cassarcu"
+[13] "Gahnaspe"
+
+$R2_25
+[1] "Triomitc" "Bracdaph" "Angoleio" "Styptrif" "Meliurce" "Xantjohn" "Hibbobtu" "Persseri" "Plateric"
+
+$R2_26
+[1] "Eucamann" "Eucadive" "Rytipall" "Poa.sieb" "Gonotetr" "Hibbobtu" "Lomafili" "Dianrevo"
+
+$R2_27
+ [1] "Meliurce" "Oleaelle" "Eucacreb" "Pomaumbe" "Ariscapu" "Acacleil" "Notemicr" "Cheisies" "Hibbobtu" "Lepilate" "Arisramo" "Callendl"
+
+$R2_28
+[1] "Meliurce" "Acacleil" "Callendl" "Cheisies" "Pomaumbe" "Eucacreb"
+
+$R2_29
+ [1] "Arisramo" "Cymbrefr" "Themtria" "Dicemicr" "Meliurce" "Cheisies" "Lomalong" "Bracdaph" "Chryapic" "Angoflor" "Hibbobtu"
+
+$R2_3
+ [1] "Leucmuti" "Persline" "Callendl" "Lomaglau" "Pomaumbe" "Eucacreb" "Micrstip" "Phylhirt" "Lomafili" "Styptrif" "Lomamulm" "Cheisies"
+[13] "Astrhumi" "Bracdaph"
+
+$R2_30
+[1] "Leptbrev" "Eucadeal" "Meliurce" "Leucmuti" "Xantjohn"
+
+$R2_31
+ [1] "Eucasubt" "Callendl" "Leucmuti" "Leucmela" "Eucaprav" "Meliurce" "Lomafili" "Leptbrev" "Bracdaph" "Cheisies"
+
+$R2_32
+[1] "Goodhede" "Dianrevo" "Lissstri" "Eucabosi" "Lomafili" "Oleavisc" "Lomamulm" "Opervari"
+
+$R2_33
+[1] "Allolueh" "Arisramo" "Laxmgrac" "Eucacreb" "Cheisies" "Lomafili" "Arisvaga" "Lomamulm"
+
+$R2_34
+[1] "Callendl" "Eucacreb" "Lepilate" "Meliurce" "Pomaumbe" "Rytipall" "Goodhede"
+
+$R2_35
+ [1] "corytraa" "Bracdaph" "Dianrevo" "Persseri" "Meliurce" "Calytetr" "Hibbobtu" "Xantacau" "Pomaumbe" "Lomafili" "Schoeric" "Homoflav"
+[13] "Cassarcu" "Grevflof" "Casspube"
+
+$R2_36
+[1] "Eucacreb" "Calytetr" "Allolueh" "Pultcine"
+
+$R2_37
+ [1] "Micrstip" "Meliurce" "Angoflor" "Hibbobtu" "Cymbrefr" "Acacfili" "Desmvari" "Verncine" "Eucamcki" "Cheisies"
+
+$R2_39
+ [1] "Goodhede" "Persline" "Oleavisc" "Micrstip" "Pomaumbe" "Entostri" "Lomaglau" "Dianrevo" "Lomamulm" "Billscan" "Eucapunc" "Oxalpere"
+[13] "Operdiph" "Hibbobtu"
+
+$R2_4
+[1] "Angoflor" "Arisramo" "Callendl" "Bracdaph" "Cheisies" "Lomamulm" "Leucmuti" "Hibbobtu" "Lomafili"
+
+$R2_40
+ [1] "Eucadive" "Eucamann" "Goodhede" "Dianrevo" "Lomafili" "Bracdaph" "Gonotetr" "Lomalong" "Lomamulm" "Micrstip"
+
+$R2_41
+[1] "Eucaprav" "Meliurce" "Dicemicr" "Lepilate" "Arisramo" "Cheisies" "Dianrevo" "Entostri" "Pomaumbe"
+
+$R2_43
+ [1] "Xantjohn" "Eucaandr" "Rytipall" "Monoscop" "Entostri" "Pateseri" "Phylhirt" "Lomamulm" "Arisramo" "Causflex" "Lepilate" "Leucmela"
+
+$R2_44
+ [1] "Bossobco" "Diancaer" "Dianrevo" "Entostri" "Eucapunc" "Lepilate" "Leuclanc" "Lomaconf" "Lomafili" "Lomamict" "Lomamulm" "Lomaobli"
+[13] "Pandpanp" "Pateseri" "Persline" "Podoilic"
+
+$R2_48
+[1] "Laxmgrac" "Austscab" "Cheisies" "Eucacreb" "Lomafili" "Micrstip" "Lomamulm" "Callglau" "Bulbsemi"
+
+$R2_49
+ [1] "Callglau" "Eucacreb" "Cheisies" "Lomafili" "Dianrevo" "Bracdaph" "Meliurce" "Arisramo" "Cassarcu" "Pomaumbe" "Hibbobtu"
+
+$R2_5
+[1] "Gahnaspe" "Astrhumi" "Arisvaga" "Callendl" "Cheisies" "Micrstip" "Cassarcu" "Acrorigi" "Glycclan"
+
+$R2_50
+[1] "Calytetr" "Callendl" "Meliurce" "Acactrip" "Bracdaph" "Lomafili" "Plateric" "Goodhede"
+
+$R2_51
+[1] "Calytetr" "Gonoelat" "Bracdaph" "allodimt" "Eucadwye" "Meliurce" "Astrhumi" "Platlanc" "Grevflof"
+
+$R2_52
+ [1] "Callendl" "Entostri" "Leucmuti" "Xantglau" "Cassquin" "Cheisies" "Eucadeal" "Leptbrev" "Lomaconf" "Meliurce" "Noteline" "Persterm"
+
+$R2_53
+ [1] "Angoflor" "Arunnepa" "Dianrevo" "Eucabrid" "Grevline" "Impecyli" "Leptarac" "Petrcane" "Ptildeut" "Xantglau" "Acacprui" "Ariscaly"
+[13] "Astrlong" "Bankinte" "Calodent" "Cymbobte" "Eucaprav" "Eucasubt" "Glyctaba" "Gonotetr" "Goodhede" "Hibbobtu" "Isoppeti" "Lomasila"
+[25] "Meliurce" "Mirbspec" "Wahlstri"
+
+$R2_54
+[1] "Arunnepa" "Eucablak" "Leptpoly" "Dianrevo" "Persseri"
+
+$R2_55
+ [1] "Bracdaph" "Callendl" "Pomaumbe" "Styptrif" "Lomafili" "Goodhede" "Hibbobtu" "Eucacreb" "Cassarcu" "Perscusp" "Plateric"
+
+$R2_56
+[1] "Callendl" "Meliurce" "Angoleio" "Bracdaph" "Leucmuti" "Styptrif" "Calytetr"
+
+$R2_59
+ [1] "Hibbobtu" "Poa.sieb" "Cassarcu" "Hydrlaxi" "Lomafili" "Wahlstri" "Cheisies" "Acacfali" "Lomamulm" "Pultmicr" "Eucamann" "Arisvaga"
+[13] "Echiovat" "Lepilate" "Micrstip"
+
+$R2_6
+[1] "Eucapunc" "Phylhirt" "Persline" "Lomaconf" "Leucmuti" "Acaclinr"
+
+$R2_60
+[1] "Calytetr" "Leptparv" "Leucmuti" "Leptarac" "Harmdens" "Dillseri" "Leucmicr"
+
+$R2_62
+[1] "Bracdaph" "Callglau" "Meliurce" "Pomaumbe" "Angoleio"
+
+$R2_63
+ [1] "Gonoelat" "Callendl" "Poramicr" "Acacdora" "Hybamono" "Daucgloc" "Eucadwye" "Oxalpere" "Austscab" "Cheiaust" "Rytiseta" "Stypglau"
+[13] "Wahlstri"
+
+$R2_65
+[1] "Eucacali" "Lissstri" "Arisramo" "Echicaes" "Hibbobtu"
+
+$R2_66
+[1] "Lissstri" "Micrstip" "Dichrepe" "Eucamell" "Eucayoum" "Acacdeal" "Eucablak" "Eucabrid"
+
+$R2_67
+ [1] "Eucamacr" "Hydrlaxi" "Hibbobtu" "Lomafili" "Cheisies" "Gonotetr" "Eucapola" "Goodhede" "Lissstri" "Bracdaph" "Hypegram"
+
+$R2_68
+[1] "Cheisies" "Callendl" "Rytipall" "Hibbobtu" "Oxalpere" "Austscab" "Bursspin"
+
+$R2_69
+ [1] "Eucascle" "Micrstip" "Bankspin" "Hakedact" "Entostri" "Hypegram" "Goodhede" "Gonotetr" "Austrudi" "Goodbell" "Lomamulm" "Pateseri"
+[13] "Lomacyli" "Lomaobli" "Persmol1" "Aotueric"
+
+$R2_7
+ [1] "Arunnepa" "Arisvaga" "Cassarcu" "Arisramo" "Lomamulm" "Eucablak" "Melathym" "Sanncunn" "Persline" "Cheisies" "Lomaglau" "Micrstip"
+
+$R2_70
+[1] "Pomaumbe" "Leucmuti" "Persline" "Cheisies" "Lomaglau" "Eucafibr" "Phylhirt" "Macrcomm" "Digiramu"
+
+$R2_72
+[1] "Calytetr" "Leptparv" "Cheisies" "Leucmuti" "Pomaumbe"
+
+$R2_73
+ [1] "Acacparr" "Adiaaeth" "Backmyrt" "Billscan" "Bursspin" "Cassglab" "Entostri" "Eucapunc" "Lasiferr" "Lomalong"
+
+$R2_74
+[1] "Cleirigi" "Leucmuti" "Eucadwye" "Leptparv" "Acacdora" "Lepttrin"
+
+$R2_76
+ [1] "Cheisies" "Eucadeal" "Lepilate" "Meliurce" "Alphexce" "Acacchee" "Callendl" "Calodent" "Crypamar" "Leptbrev" "Plecparv" "Digibrow"
+
+$R2_77
+ [1] "Pateseri" "Eucaross" "Lomaglau" "Bracdaph" "Dillphyl" "Monoscop" "Persline" "Causflex" "Entostri" "Hakedact"
+
+$R2_78
+[1] "Eucaross" "Hibbobtu" "Podoilic" "Bracdaph" "Monoscop" "Acacbuxi" "Acacterm" "Hoveline" "Pateseri"
+
+$R2_79
+ [1] "Goodhede" "Rytipall" "Lomafili" "Dianrevo" "Hibbobtu" "Cheiaust" "Eucaspar" "Gonohumi" "Pomaumbe" "Eucapunc" "Eucaross"
+
+$R2_80
+ [1] "Goodhede" "Gonotetr" "Lomafili" "Micrstip" "Poa.sieb" "Eucamacr" "Eucamann" "Hypegram" "Lomamulm" "Lissstri"
+
+$R2_81
+ [1] "Callendl" "corytraa" "Pomaumbe" "Leucmuti" "Hibbobtu" "Rytipall" "Lomafili" "Cheisies" "Eucacreb" "Perscusp"
+
+$R2_82
+ [1] "Eucacreb" "Cheisies" "Lomamulm" "Allolueh" "Dianrevo" "Callglau" "Gahnaspe" "Cassarcu" "Lissstri" "Arisjeri"
+
+$R2_83
+ [1] "Eucasidx" "Gahnaspe" "Cheisies" "Lomafili" "Micrstip" "Lissstri" "Arisvaga" "Lomamulm" "Phylhirt" "Goodhede"
+
+$R2_85
+[1] "Phylhirt" "Leucmuti" "Persline" "Podoilic" "Dicemicr" "Goodhede" "Eucaspar" "Lomamulm" "Cheisies"
+
+$R2_86
+[1] "Angoflor" "Hibbobtu" "Cheisies" "Hardviol" "Lepilate" "Dodovisc" "Rytipall" "Acacunci" "Micrstip"
+
+$R2_87
+[1] "Eucaross" "Eucamacr" "Hibbobtu" "Poa.sieb" "Hardviol" "Lomaconf"
+
+$R2_88
+[1] "Bracdaph" "Callendl" "Meliurce" "corytraa" "Calytetr"
+
+$R2_89
+[1] "Callendl" "Eucanubi" "Pomaumbe" "Goodglab" "Calytetr" "Cheisies" "Bracdaph"
+
+$R2_9
+[1] "Allonana" "Stylgram" "Ampexiph" "Lomaglau" "Monoscop"
+
+$R2_90
+[1] "Austscab" "Calocuni" "Cheisies" "Dodovisc" "Einahast" "Eucamica" "Rytieria" "Lomafili"
+
+$R2_91
+[1] "Eucacale" "Pomaumbe" "Dodovisc" "Persline" "Acacdora" "Cheisies" "Callendl" "Leucmuti"
+
+$R2_92
+[1] "Eucafibr" "Austscab" "Lepilate" "Lomafili" "Cheisies" "Meliurce" "Pomaumbe"
+
+$R2_93
+[1] "Callendl" "Arisramo" "Eucacreb" "Lomafili" "Allolueh" "Cheisies" "Digibrev"
+
+$R2_94
+ [1] "Eucablak" "Lomamulm" "Lomafili" "Cheisies" "Arisramo" "Angoflor" "Dianrevo" "Cassarcu" "Arunnepa" "Hibbobtu" "Cymbrefr" "Bracdaph"
+
+$R2_97
+[1] "Bracdaph" "Eucafibr" "Grevseri" "Allogymn" "Lepilate" "Melierub" "Acrorigi" "Persline" "Callendl"
+
+$R2_98
+[1] "Cheisies" "Eucadeal" "Gonoelat" "Rytipall" "Stypglau" "Lepilate"
+
+$R2_99
+[1] "Persline" "Cleirigi" "Eucaspar" "Eucapunc" "Lomaconf" "Leucmuti" "Lomaglau"
+
+$R8_1
+ [1] "Lindline" "Hakedact" "Lepttrin" "Pimelini" "Cassglab" "Dampstri" "Haketere" "Isopanem" "Empominu" "Lepttena" "Lepyscar" "Bankpalu"
+[13] "Bankeric" "Dillflor" "Perslevi" "Actimino"
+
+$R8_10
+ [1] "Bankspin" "Lambform" "Hakedact" "Perslevi" "Lepttrin" "Pateseri" "Corygumm" "Petrpedu" "Bosshete" "Pimelini" "Lomaobli" "Lomailic"
+[13] "Entostri" "Eucascle"
+
+$R8_100
+[1] "Acaccomp" "Leuclanc" "Entostri" "Perstenu" "Hakesali" "Pterescu" "Xantlati" "Leptpoly" "Lomasila"
+
+$R8_101
+[1] "Lambform" "Bankoblo" "Eucaplan" "Lepttrin" "Hakedact" "Perstenu" "Petrcane" "Entostri" "Pateseri"
+
+$R8_102
+ [1] "Epacimpr" "Aotueric" "Pimelini" "Gahnradu" "Allolitt" "Burcumbe" "Dillglab" "Selaulig" "Xantpilo" "Cassglab" "Gonoteuc" "Pterescu"
+
+$R8_103
+ [1] "Allodist" "Bankeric" "Perslanc" "Darwfasc" "Pulttube" "Haketere" "Leucmicr" "Baecimbr" "Platlanc" "Lepivisi"
+
+$R8_104
+ [1] "Acaclonf" "Gleidica" "Pterescu" "Callcitr" "Impecyli" "Lomalong" "Baumjunc" "Monoelli" "Parsstra" "Bankeric" "Bankinte" "Lobeance"
+[13] "Cassglab" "Entostri" "Lepttena"
+
+$R8_105
+[1] "Monoscop" "Lomaglau" "Eucasieb" "Lomasila" "Dampstri" "Dianrevo" "Phylsqua"
+
+$R8_106
+ [1] "Persline" "Entostri" "Hoveline" "Dillreto" "Rytipall" "Plateric" "Pomaumbe" "Coryexim" "Lomaobli" "Monoscop" "Bossobco" "Phylhirt"
+[13] "Astrobov" "Lomafili" "Hakeseri"
+
+$R8_107
+ [1] "Diancaer" "Lomalong" "Entostri" "Pterescu" "Eucagloo" "Leuclanc" "Eucapipe" "Billscan" "Violhede" "Lomasila" "Micrstip" "Clemaris"
+
+$R8_109
+ [1] "Lepttrin" "Bankeric" "Actimino" "Cyatdian" "Lambform" "Platline" "Bankoblo" "Angohisp" "Eucahaem" "Hakedact" "Acacsuav" "Entostri"
+[13] "Lepyscar"
+
+$R8_113
+ [1] "Haketere" "Lepttena" "Empominu" "Lepyscar" "Bankeric" "Bankoblo" "Epacobtu" "Lindline" "Xantresi" "Cassglab" "Mitrpoly"
+
+$R8_114
+ [1] "Pterescu" "Smilglyc" "Lomalong" "Eucapipe" "Leuclanc" "Diancaer" "Entostri" "Gonoteuc" "Corygumm" "Acacobti"
+
+$R8_115
+ [1] "Isopanet" "Lepttrin" "Persmol1" "Bankpalu" "Hakedact" "Bankspin" "Leptrotu" "Entostri" "Grevline" "Petrsess"
+
+$R8_116
+ [1] "Epacmicr" "Hakedact" "Dampstri" "Lepyscar" "Lindline" "Lomaglau" "Bankspin" "Austpube" "Goodbell" "Poa.sieb"
+
+$R8_116a
+ [1] "Bankmarg" "Epacmicr" "Eucastri" "Gahnfili" "Hakedact" "Lepyscar" "Platline" "Dampstri" "Eucadalr" "Goodbell" "Grevlaur" "Hibbserp"
+[13] "Leptcont" "Lomasila" "Rhytproc" "Sowejunc"
+
+$R8_117
+ [1] "Noteovat" "Ptildeut" "Pultvilo" "Tricsimp" "Lomaconf" "Themtria" "Allolitt" "Amphstrs" "Gompminu" "Goodbell" "Leptarac" "Leucatte"
+[13] "Pateseri" "Perstenu"
+
+$R8_119
+ [1] "Pateglab" "Corygumm" "Lepttrin" "Entostri" "Eucasign" "Bankspin" "Persaden" "Micreric" "Cassglab" "Dampsylv" "Monoscop" "Pimelini"
+[13] "Allolitt" "Lindline" "Lomasila" "Xantlati"
+
+$R8_119a
+ [1] "Acacsuav" "Acroaggr" "Bauerubi" "Entostri" "Eucaorea" "Lepttrin" "Leucmela" "Lomasila" "Monoscop" "Pateglab" "Persoleo" "Pimelini"
+[13] "Pultvilo" "Xantpilo"
+
+$R8_12
+ [1] "Lomaglau" "Monoscop" "Acacterm" "Bracdaph" "Eucaspar" "Dianrevo" "Eucaross" "Eucasieb" "Pateseri" "Leucmuti"
+
+$R8_120
+ [1] "Melanodo" "Bankoblo" "Bankaemu" "Leptpoly" "Baecdios" "Cassglab" "Pimelini" "Plateric" "Hibbfasc" "Isopanem" "Leuclept" "Melasieb"
+[13] "Lepttena"
+
+$R8_121
+[1] "Kunzambi" "Lepivisi" "Lepyscar"
+
+$R8_13
+ [1] "Trislaur" "Allolitt" "Lomafluv" "Leptmorr" "Acacobti" "Ceraapet" "Lepilate" "Lomamyri" "Pseupime" "Xanttrid" "Grevoleo"
+
+$R8_14
+ [1] "Entostri" "Xantpilo" "Pterescu" "Perslevi" "Angocost" "Persline" "Lepttrin" "Phylhirt" "Smilglyc" "Lomaobli" "Lomasila" "Bankspin"
+[13] "Platline" "Diancaer" "Acacterm" "Corygumm" "Billscan"
+
+$R8_15
+ [1] "Perslevi" "Corygumm" "Bankspin" "Lambform" "Lepttrin" "Hakedact" "Lomaobli" "Isopanem" "Platline" "Lomasila" "Bankserr" "Pimelini"
+[13] "Cyatdian" "Bosshete"
+
+$R8_16
+ [1] "Bankaemu" "Bosshete" "Ricipini" "Lepttrin" "Dillreto" "Erisaust" "Acacsuav" "Monoscop" "Isopanem" "Leuceric" "Hypofast" "Schoeric"
+[13] "Cassglab" "Bossensa" "Acaculic" "Bracdaph"
+
+$R8_16a
+ [1] "Angobake" "Bankoblo" "Conotaxi" "Dillseri" "Eucascle" "Lepiurop" "Lepttrin" "Mitrpoly" "Monoscop" "Persnuta" "Pimelini" "Plateric"
+[13] "Stylgram" "Tracincs"
+
+$R8_17
+ [1] "Bankaemu" "Acaculic" "Causrecu" "Gompvirg" "Leuclept" "Xantjohn" "Pimelini" "Homovirg" "Dillreto" "Pterescu" "Acacsuav" "Plateric"
+
+$R8_18
+ [1] "Lambform" "Entostri" "Lepttrin" "Epacpulc" "Bankoblo" "Corygumm" "Xantlati" "Ptildeut" "Isopanem" "Eucahaem" "Perslevi" "Pimelini"
+[13] "Cyatdian" "Hakedact" "Cassglab" "Lomaobli" "Themtria" "Pateseri" "Mirbrubi"
+
+$R8_19
+ [1] "Allodist" "Bankeric" "Bankpalu" "Actimino" "Epacmicr" "Corygumm" "Darwlept" "Lepiconc" "Leptrotu" "Lepyscar" "Melacapi" "Petrsess"
+[13] "Chorfast" "Leucesqu" "Lomaglau"
+
+$R8_2
+ [1] "Dampstri" "Hakedact" "Lepilimi" "Lindline" "Hibbripa" "Lepyscar" "Ptildeut" "Almaincu" "Empominu" "Haketere"
+
+$R8_20
+ [1] "Bankspin" "Dampstri" "Hakedact" "Goodbell" "Lepyscar" "Entostri" "Austpube" "Isopanem" "Gonotetr" "Cyatdian" "Pulttube"
+
+$R8_21
+ [1] "Lomasila" "Corygumm" "Bankspin" "Lomaobli" "Phylhirt" "Perslevi" "Entostri" "Eucapipe" "Lepttrin" "Xylopyri" "Pomaumbe"
+
+$R8_22
+[1] "Lepttrin" "Bosskiam" "Gahnsieb" "Persmol1" "Eucasieb" "Aotueric" "Bankpalu" "Lomalong"
+
+$R8_23
+ [1] "Acaculic" "Dillreto" "Bankconf" "Causflex" "Persline" "Bosshete" "Leptpoly" "Monoelli" "Syncglom" "Eucanota" "Eucapilu" "Xantglau"
+[13] "Acacobti" "Cassglab" "Epacpulc" "Smilglyc"
+
+$R8_24
+ [1] "Eucapipe" "Platline" "Perslevi" "Bankspin" "Angocost" "Lomasila" "Entostri" "Corygumm" "Lepttrin" "Phylhirt" "Xantpilo" "Syncglom"
+[13] "Pterescu"
+
+$R8_25a
+ [1] "Acaclonf" "Ariswarb" "Austdulc" "Bankoblo" "Bauecapi" "Cassglab" "Epacpulc" "Hibbobtu" "Hibbvest" "Lindline" "Monoscop" "Panisimi"
+[13] "Pateseri" "Schoapog" "Schobrev" "Themtria" "Caesparv" "Causrecu" "Dampsylv" "Gleidica" "Gomppinn" "Gonotetr" "Lepilate" "Leptpoly"
+[25] "Lomasila" "Mirbrubi" "Patefrag" "Pimelini" "Pultvilo" "Stacnuda" "Tracincs"
+
+$R8_25b
+ [1] "Bankoblo" "Dampstri" "Entostri" "Pateseri" "Pimelini" "Lindline" "Themtria" "Allolitt" "Epacpulc" "Hakeacti" "Hibbvest" "Lepilate"
+[13] "Melanodo" "Noteovat" "Ptildeut" "Gomppinn" "Tricelat"
+
+$R8_25c
+ [1] "Bankoblo" "Lepyscar" "Melasieb" "Ariswarb" "Entostri" "Eragleps" "Gomppinn" "Haemplan" "Leptpoly" "Pateseri" "Ptildeut"
+
+$R8_26
+[1] "Bankoblo" "Xantfulv" "Callpach" "Leptlive" "Selaulig" "Gonomicr" "Epacobtu" "Pimelini" "Lepttena"
+
+$R8_27
+[1] "Empominu" "Lepttena" "Gymnspha" "Epacobtu" "Leptjuni" "Haketere" "Lepilimi" "Spreinca"
+
+$R8_27a
+ [1] "Baeclini" "Empominu" "Gymnspha" "Lepilimi" "Acacptyc" "Bankeric" "Borobark" "Callcitr" "Cassglab" "Comedefo" "Drosbina" "Drosburn"
+[13] "Epacobtu" "Leptgran" "Lepyscar" "Lycalate" "Utridich" "Xyrigrac"
+
+$R8_29
+[1] "Gymnspha" "Empominu" "Leptjuni" "Gleidica" "Epacpalu" "Baeclini"
+
+$R8_3
+[1] "Leptlaev" "Bankeric" "Woolpung" "Allodist" "Melanodo" "Acaclonf"
+
+$R8_31
+ [1] "Entostri" "Phylhirt" "Lomaobli" "Themtria" "Persline" "Pomaumbe" "Billscan" "Dianrevo" "Lomamulm" "Goodhede" "Eucapunc" "Lepilate"
+[13] "Corygumm" "Arisvaga"
+
+$R8_33
+ [1] "Actimino" "Bankeric" "Lepyscar" "Hakedact" "Epacmicr" "Lomaobli" "Dampstri" "Lepttrin" "Bankoblo" "Haketere" "Leptarac" "Acacsuav"
+[13] "Corygumm" "Cyatdian" "Isopanem" "Petrpulc" "Grevoleo" "Lambform" "Platline" "Bankserr"
+
+$R8_34
+ [1] "Platline" "Eucasieb" "Lepttrin" "Hakedact" "Lomasila" "Perslevi" "Eucapipe" "Bankspin" "Acacterm" "Isopanem" "Monoscop" "Causflex"
+[13] "Lomaglau" "Entostri" "Billscan"
+
+$R8_35
+ [1] "Cyatdian" "Lomaglau" "Allodist" "Bankaemu" "Damppurp" "Gonoteuc" "Bankoblo" "Isopanem" "Pateseri" "Pimelini" "Entostri" "Bankeric"
+
+$R8_35a
+ [1] "Actiheli" "Allolitt" "Austpube" "Bankaemu" "Bankeric" "Bankoblo" "Boropinn" "Bossensa" "Cassglab" "Causflex" "Dampstri" "Dillflor"
+[13] "Entostri" "Epacmicr" "Gomppinn" "Gonoteuc" "Goodstel" "Haketere" "Hibbripa" "Isopanem" "Kunzcapi" "Laxmgrac" "Lepilate" "Leptpoly"
+[25] "Leucjuni" "Lindline" "Lomaglau" "Lomalong" "Mirbrubi" "Patefrag" "Pateseri" "Petrcane" "Phylphyl" "Pimelini" "Pseuorie" "Ptildeut"
+[37] "Scaeramo" "Schobrev" "Schoeric" "Stacnuda" "Tetrthym" "Tricelat"
+
+$R8_36
+[1] "Westfrut" "Melaarma" "Baecimbr" "Lomalong" "Oleatome" "Bankeric" "Epaclong" "Ficinodo"
+
+$R8_37
+ [1] "Bankserr" "Lepttrin" "Bankeric" "Corygumm" "Xantmedi" "Platline" "Acacsuav" "Lambform" "Perslevi" "Petrpulc" "Dillreto" "Isopanem"
+[13] "Hakedact" "Leucmicr" "Actimino" "Bankmarg" "Perspini" "Haketere"
+
+$R8_39
+ [1] "Bankserr" "Lomalong" "Angocost" "Eucapipe" "Acacterm" "Perslevi" "Entostri" "Smilglyc" "Corygumm" "Pterescu" "Lepttrin" "Lomasila"
+[13] "Causflex" "Platline" "Dillreto" "Xantpilo" "Gonoteuc" "Diancaer" "Ceragumm" "Bankeric"
+
+$R8_4
+[1] "Eucasieb" "Lomasila" "Monoscop" "Persline" "Phylhirt" "Pomaumbe"
+
+$R8_40
+ [1] "Bankeric" "Allodist" "Actimino" "Leucmicr" "Lepyscar" "Haketere" "Darwfasc" "Dampstri" "Grevbuxi" "Epacmicr" "Lepttrin" "Acacsuav"
+[13] "Lepssqua" "Angohisp"
+
+$R8_41
+ [1] "Pterescu" "Acaculic" "Angocost" "Corygumm" "Diancaer" "Lepttrin" "Bosshete" "Ricipini" "Leptpoly" "Dillreto" "Leuclept" "Lomalong"
+[13] "Bankaemu"
+
+$R8_42
+ [1] "Bossscor" "Dampstri" "Entostri" "Goodbell" "Meliproc" "Goodhede" "Hoveline" "Lindline" "Monoscop" "Petrcane" "Tracincs"
+
+$R8_44
+[1] "Haketere" "Gahnsieb" "Bankeric" "Bankrobu" "Vimijunc" "Gleidica" "Lepttena" "Empominu" "Leptjuni"
+
+$R8_46
+ [1] "Haketere" "Lepyscar" "Ptildeut" "Dillramo" "Entostri" "Epacmicr" "Gonotetr" "Goodbell" "Lepinees" "Melathym" "Persmol1" "Amphstrs"
+[13] "Austpube" "Lomacyli" "Pateseri" "Pimelini" "Schomoor" "Burcumbe"
+
+$R8_47
+ [1] "Eucascle" "Hakedact" "Bankspin" "Entostri" "Isopanem" "Goodhede" "Lomacyli" "Lomaobli" "Bossobco" "Dampstri" "Pateglab"
+
+$R8_48
+ [1] "Leptpoly" "Bankspin" "Empominu" "Baeclini" "Dampstri" "Gahnsieb" "Hakedact" "Lepyscar" "Callcitr" "Leptjuni"
+
+$R8_49
+ [1] "Causpent" "Bankeric" "Lepttrin" "Leptarac" "Actimino" "Hakedact" "Petrpulc" "Allodist" "Dampstri" "Isopanem" "Lepyscar" "Lomaglau"
+
+$R8_5
+ [1] "Hibbempm" "Lomaobli" "Ampexiph" "Bankspin" "Pterescu" "Petrpedu" "Pateglab" "Tetrthym" "Lambform" "Perslevi" "Hakedact" "Lepttrin"
+[13] "Eucasieb" "Eucapipe" "Entostri" "Lomailic" "Persmol1" "Billscan" "Diancaer" "Platline"
+
+$R8_50
+[1] "Entostri" "Ptildeut" "Gonotetr" "Themtria" "Melasieb" "Melanodo" "Epacpulc" "Angocost" "Allolitt"
+
+$R8_51
+[1] "Melasieb" "Gonomicr" "Bankoblo" "Lepyscar" "Haketere" "Panisimi" "Melathym"
+
+$R8_52
+[1] "Empominu" "Lepilimi" "Baeclini" "Xyriustu" "Gleidica" "Leptgran" "Epacpalu" "Grevacan"
+
+$R8_53
+ [1] "Entostri" "Angocost" "Themtria" "Corygumm" "Diancaer" "Billscan" "Lomaobli" "Bankspin" "Xantlati" "Perslevi" "Allolitt" "Phylhirt"
+[13] "Lepilate"
+
+$R8_54
+ [1] "Lepttrin" "Petrcane" "Plateric" "Persrufa" "Bankspin" "Causflex" "Monoscop" "Entostri" "Bossneo." "Pateseri" "Leucmela" "Dampstri"
+[13] "Eucaolid"
+
+$R8_55
+ [1] "Corygumm" "Lepttrin" "Lambform" "Entostri" "Bankserr" "Perslevi" "Platline" "Cyatdian" "Grevbuxi" "Bankspin" "Lomaglau" "Phylhirt"
+[13] "Actimino" "Dampstri"
+
+$R8_57
+[1] "Melasieb" "Gahnclar" "Entostri" "Gonotetr" "Leptjuni" "Melathym" "Lomalong" "Hemaunci"
+
+$R8_59
+ [1] "Causflex" "Eucacons" "Lomaobli" "Leptspha" "Pateglab" "Perslevi" "Acacterm" "Xantpilo" "Hakedact" "Lepttrin" "Monoscop" "Persline"
+[13] "Platlanc" "Ampexiph" "Stylprod"
+
+$R8_60
+[1] "Stylline" "Leptarac" "Allonana" "Bankeric" "Petrpulc" "Platlanc" "Lepilate" "Dampstri"
+
+$R8_61
+ [1] "Melanodo" "Dillreto" "Entostri" "Leptparv" "Hakeseri" "Anisaven" "Lomacyli" "Cassglab" "Melathym" "Dianrevo" "Xantglau" "Calllins"
+[13] "Eucaparr" "Lissstri"
+
+$R8_62
+ [1] "Angobake" "Entostri" "Persline" "Bankspin" "Lambform" "Xantglau" "Lepttrin" "Eucaparr" "Anisaven" "Lomacyli" "Lomaglau" "Isopanem"
+[13] "Dillreto" "Plateric" "Pimelini" "Bossrhom" "Melanodo" "Dampstri" "Dianrevo"
+
+$R8_63
+ [1] "Entostri" "Pimelini" "Cyatdian" "Themtria" "Melanodo" "Bankspin" "Hakeseri" "Dianrevo" "Eucaparr" "Eucascle" "Angobake" "Eragbrow"
+[13] "Lomamulm" "Cassglab" "Gonotetr" "Hakedact" "Stylgram" "Xantmino" "Micrstip"
+
+$R8_66
+[1] "Bankoblo" "Lepttena" "Perslanc" "Leptpoly" "Melathym" "Haketere" "Lepyscar" "Melanodo" "Melasieb"
+
+$R8_67
+ [1] "Calllins" "Melanodo" "Themtria" "Allodist" "Pateseri" "Pimelini" "Ptildeut" "Pultvilo" "Dodotriq" "Entostri" "Lomaobli" "Lepilate"
+[13] "Hibbempm"
+
+$R8_69
+ [1] "Pateglab" "Lomaobli" "Bankspin" "Perslevi" "Acacobti" "Lepttrin" "Eucasieb" "Tetrthym" "Entostri" "Lomailic" "Isopanem" "Monoscop"
+
+ [ reached getOption("max.print") -- omitted 315 entries ]

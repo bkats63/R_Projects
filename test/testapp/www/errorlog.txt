@@ -1,0 +1,7 @@
++ At 2019-06-14 14:43:30 , 
+Error: Error in dist(input$n): invalid arguments
+
++ At 2019-06-14 14:44:28 , Error: Error in dist(input$n): invalid arguments
+
++ At 2019-06-14 14:44:33 , Error: Error in dist(input$n): invalid arguments
+

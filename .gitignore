@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+raster/polyrainann.shp
+*.zip
+*.zip
+shiny-examples-master.zip
+*.shp

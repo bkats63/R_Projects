@@ -1,0 +1,13 @@
+name: vegplottest
+title: vegplottest
+username:
+account: bionet
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 981266
+bundleId: 2656859
+url: https://bionet.shinyapps.io/vegplottest/
+when: 1576009690.38661
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

@@ -1,0 +1,2 @@
+{"timestamp": "2021-03-23T19:37:17+1100", "log_lvl": "INFO", "log_msg": "session started", "log_detail": "session has started", "event": "session start", "sessionid": "31be8b0a21ba7d2b6be1ec5399b5380d"}
+{"timestamp": "2021-03-23T19:37:19+1100", "log_lvl": "INFO", "log_msg": "session has ended", "log_detail": "session has ended", "sessionid": "31be8b0a21ba7d2b6be1ec5399b5380d"}

@@ -1,0 +1,57 @@
+STATE DATA CODE BOOK
+============================================================
+
+This dataset was compiled by Barton Poulson for demonstration purposes. It includes four categories of data for the 48 contiguous United States. 
+
+SAMPLING NOTE: My goal was to make comparisons for the entire United States. However, the source for personality data did not report data for Alaska, Hawaii, or the District of Columbia. As a result, they were excluded from this dataset, leaving the 48 contiguous states in the dataset.
+
+1. GEOGRAPHIC DATA
+
+- State: The common name of the states
+
+- state_code: The two-letter ANSI codes that are also used by the United States Postal Service. (Source: https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations. Retrieved 2018-07-26.)
+
+- region: The 48 states are divided into the four Census Bureau-designated regions and divisions: Northeast, Midwest, South, and West (Source: http://en.wikipedia.org/wiki/United_States_regions. Retrieved 2018-07-26.)
+
+2. POLITICAL DATA
+
+- governor: Whether the state?fs governor as of 26 July 2018 was a Democrat or a Republican. (Note: Minnesota governor Mark Dayton is listed as "Democratic-Farmer-Labor" but was coded as "Democrat" for this dataset. Source: https://en.wikipedia.org/wiki/List_of_current_United_States_governors. Retrieved 2018-07-26.)
+
+3. PERSONALITY DATA
+
+- psychRegions: Three state-level personality profiles, coded as ?gFriendly and Conventional,?h ?gRelaxed and Creative,?h or ?gTemperamental and Uninhibited.?h
+
+The next five personality variables are common psychological measures known as the ?gBig Five Personality Traits?h (see https://en.wikipedia.org/wiki/Big_Five_personality_traits). As is common with personality measures, the data are reported as T-scores, or scores that are standardized so that the mean is 50 and the standard deviation is 10 for each variable.
+
+- extraversion: Extraversion (outgoing/energetic vs. solitary/reserved)
+
+- agreeableness: Agreeableness (friendly/compassionate vs. challenging/detached)
+
+- conscientiousness: Conscientiousness (efficient/organized vs. easy-going/careless)
+
+- neuroticism: Neuroticism (sensitive/nervous vs. secure/confident)
+
+- openness: Openness to experience (inventive/curious vs. consistent/cautious)
+
+
+(Note: Alaska, Hawaii, and the District of Columbia did not have data on the psychological regions and so they were excluded from this dataset. Source: ?gDivided We Stand: Three Psychological Regions of the United States and Their Political, Economic, Social, and Health Correlates"
+Rentfrow et al. 2013. http://www.apa.org/pubs/journals/releases/psp-a0034434.pdf. Retrieved 2018-07-26.)
+
+4. GOOGLE SEARCH DATA
+
+These are various Google search terms that were selected for their approximate relationship to the personality traits. The scores indicate the relative popularity of the search term on state-by-state basis. The data are reported as z-scores, or scores that are standardized so that the mean is 0 and the standard deviation is 1 for each variable. States with a higher score used that search term in a higher proportion of their Google searches than did other states.
+
+- instagram
+- facebook
+- retweet: ?gTwitter?h and ?gtweet?h do not return any results on Google Correlate, so ?gretweet?h was used as a surrogate.
+- entrepreneur
+- gdpr: ?gGeneral Data Protection Regulation,?h or the European Union?fs privacy law that affects all online businesses.
+- privacy
+- university
+- mortgage
+- volunteering: A loose indication of conscientiousness
+- museum: A proxy for openness to experience, which often has aesthetic elements
+- scrapbook: Another proxy for openness to experience
+- modernDance: A third proxy for openness to experience. Written as ?gmodern dance?h in Google Correlate but joined for this dataset.
+
+(Source: Google Correlate. https://www.google.com/trends/correlate. Retrieved 2018-07-26.)

@@ -1,0 +1,3 @@
+rsconnect::setAccountInfo(name='billkats',
+token='FA46520ECDF6CBF42C641D3904340186',
+secret='3H+A6tW9xj+hKzSQ4e7pJEgHfktHj3Q6fjy89G23')

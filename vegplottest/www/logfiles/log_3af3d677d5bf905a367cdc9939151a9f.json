@@ -1,0 +1,4 @@
+{"timestamp": "2021-05-18T14:49:05+1000", "log_lvl": "INFO", "log_msg": "session started", "log_detail": "session has started", "event": "session start", "sessionid": "3af3d677d5bf905a367cdc9939151a9f"}
+{"timestamp": "2021-05-18T14:49:54+1000", "log_lvl": "INFO", "log_msg": "2021-05-18 14:49:54 __COMMA__ Error: Uploaded data file is not comma separated. Please check acceptable file formats."}
+{"timestamp": "2021-05-18T14:50:24+1000", "log_lvl": "INFO", "log_msg": "2021-05-18 14:50:24 __COMMA__ Error: Uploaded data file is not comma separated. Please check acceptable file formats."}
+{"timestamp": "2021-05-18T14:51:19+1000", "log_lvl": "INFO", "log_msg": "session has ended", "log_detail": "session has ended", "sessionid": "3af3d677d5bf905a367cdc9939151a9f"}

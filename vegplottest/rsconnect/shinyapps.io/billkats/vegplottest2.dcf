@@ -1,0 +1,12 @@
+name: vegplottest2
+title: vegplottest2
+username:
+account: billkats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3836372
+bundleId: 4383646
+url: https://billkats.shinyapps.io/vegplottest2/
+when: 1616488812.42872
+asMultiple: FALSE
+asStatic: FALSE
